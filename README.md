@@ -1,6 +1,6 @@
 # Text For Microbiology
 
-This is an open source, open educational resource (OER) text that I am  developing for SCI204 the Microbiology course at RCC [Roxbury Community College](http://www.rcc.mass.edu) in Boston, Massachusetts.This course explores the history, scope, classification, growth, identification, genetics, and metabolism of microorganisms.  Host-parasite interactions, immunology, and some bacterial, viral, fungal, and parasitic diseases are discussed.
+This is an open source, open educational resource (OER) text that I am  developing for SCI204 the Microbiology course at RCC [Roxbury Community College](http://www.rcc.mass.edu) in Boston, Massachusetts. This course explores the history, scope, classification, growth, identification, genetics, and metabolism of microorganisms.  Host-parasite interactions, immunology, and some bacterial, viral, fungal, and parasitic diseases are discussed.
 
 I am developing this text as [free software](https://www.gnu.org/philosophy/free-sw.en.html) but license it under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) United States License because I love [Wikipedia](https://www.wikipedia.org) from which I mostly compiled this text.
 
