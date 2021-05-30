@@ -3,7 +3,7 @@ knit: "bookdown::render_book"
 title: "Text For SCI204 Microbiology at Roxbury Community College"
 author: ["Assembled by Nikolaus Sucher"]
 description: "This is a free online Text for Microbiology."
-github-repo: nikolaussuchert/microbiology-text
+github-repo: nikolaussucher/microbiology-text
 twitter-handle: NikolausSucher
 cover-image: microbiology_text_cover.jpg
 site: bookdown::bookdown_site
