@@ -5,7 +5,7 @@ author: ["Assembled by Nikolaus Sucher"]
 description: "This is a free online Text for Microbiology."
 github-repo: nikolaussuchert/microbiology-text
 twitter-handle: NikolausSucher
-cover-image: cover.jpg
+cover-image: microbiology_text_cover.jpg
 site: bookdown::bookdown_site
 documentclass: book
 lof: yes
