@@ -2,7 +2,19 @@ new_session: yes
 rmd_files:   [ "index.Rmd",
                "acknowledgements.Rmd",
               # "course_description.Rmd",
-               "microbiology.Rmd"
+               "main_themes.Rmd",
+               "methods_and_tools.Rmd",
+               "prokaryotic_microorganisms.Rmd",
+               "eukaryotic_microorganisms.Rmd",
+               "viruses.Rmd",
+               "microbial_nutrition_ecology_growth.Rmd",
+               "microbial_metabolism.Rmd",
+               "microbial_genetics.Rmd",
+               "genetic_engineering.Rmd",
+               "microbial_control.Rmd",
+               "antimicrobial_drugs.Rmd",
+               "host_defenses.Rmd",
+               "adaptive_immunity.Rmd"
              ]
 output_dir: docs
 before_chapter_script:  "_common.R"
