@@ -1,4 +1,4 @@
-# Prokyrotic microrganisms
+# Prokayrotic microrganisms
 
 [Bacteria](https://en.wikipedia.org/wiki/Bacteria) (singular bacterium) and [Archaea](https://en.wikipedia.org/wiki/Archaea) (singular archaeon) constitute two domains of single-celled organisms. These microorganisms lack cell nuclei and are therefore prokaryotes. 
 
