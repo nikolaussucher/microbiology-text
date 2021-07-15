@@ -125,7 +125,7 @@ Many bacteria get their carbon from other organic carbon, called heterotrophy. O
 library(tidyverse)
 library(printr)        
 library(kableExtra)
-setwd("~/Dropbox/R/biology-text-master")
+setwd("~/Dropbox/R/microbiology-text")
 
 bacmet <-  as_tibble(read.csv("data/bacterial_metabolism.csv"))
 
@@ -248,7 +248,7 @@ The following table (\@ref(tab:domaincomparison) compares some major characteris
 library(tidyverse)
 library(printr)        
 library(kableExtra)
-setwd("~/Dropbox/R/biology-text-master")
+setwd("~/Dropbox/R/microbiology-text")
 
 domaincomp <-  as_tibble(read.csv("data/bacteria_archaea_comp.csv"))
 
@@ -322,7 +322,7 @@ Other groups of archaea use sunlight as a source of energy (they are phototrophs
 library(tidyverse)
 library(printr)        
 library(kableExtra)
-setwd("~/Dropbox/R/biology-text-master")
+setwd("~/Dropbox/R/microbiology-text")
 
 archmet <-  as_tibble(read.csv("data/archaea_metabolism.csv"))
 
