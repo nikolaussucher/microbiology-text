@@ -31,7 +31,7 @@ fig:virusrepc
 fig:rnavirus
 fig:phage
 fig:bacphage
-the-main-tthemes-of-microbiology
+the-main-themes-of-microbiology
 prokayrotic-microorganisms
 bacteria
 intracellular-structure
@@ -74,3 +74,17 @@ plant-viruses
 bacterial-viruses
 classification
 baltimore-classification
+host-defensesthe-innate-immune-system
+layered-defenseedit
+surface-barriers
+innate-immune-system
+anatomical-barriers
+inflammation
+complement-systemedit
+white-blood-cells
+host-defenses-the-adaptive-immune-system
+lymphocytes
+antigen-presentation
+exogenous-antigens
+endogenous-antigensedit
+t-lymphocytesedit
