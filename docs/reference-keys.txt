@@ -74,6 +74,8 @@ plant-viruses
 bacterial-viruses
 classification
 baltimore-classification
+genetic-engineering
+creatin-a-genetically-modified-organism-gmo
 host-defensesthe-innate-immune-system
 layered-defenseedit
 surface-barriers
