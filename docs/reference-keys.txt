@@ -97,6 +97,13 @@ phototrophy
 microbial-genetics
 genetic-engineering
 creatin-a-genetically-modified-organism-gmo
+physical-and-chemical-agents-for-microbial-control
+disinfectant
+antiseptic
+sterilization
+pasteurization
+antibiotics
+classes-of-antibiotics
 host-defensesthe-innate-immune-system
 layered-defenseedit
 surface-barriers
