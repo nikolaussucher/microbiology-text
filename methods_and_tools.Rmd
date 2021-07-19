@@ -1,4 +1,4 @@
-# Methods of Studying Microorganisms
+# Methods Of Studying Microorganisms
 
 ## Microscopy
 
