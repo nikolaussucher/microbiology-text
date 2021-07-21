@@ -148,8 +148,6 @@ Dark field[edit]
 Main article: Dark field microscopy
 Dark field microscopy is a technique for improving the contrast of unstained, transparent specimens.[15] Dark field illumination uses a carefully aligned light source to minimize the quantity of directly transmitted (unscattered) light entering the image plane, collecting only the light scattered by the sample. Dark field can dramatically improve image contrast – especially of transparent objects – while requiring little equipment setup or sample preparation. However, the technique suffers from low light intensity in final image of many biological samples and continues to be affected by low apparent resolution.
 
-￼
-A diatom under Rheinberg illumination
 Rheinberg illumination is a special variant of dark field illumination in which transparent, colored filters are inserted just before the condenser so that light rays at high aperture are differently colored than those at low aperture (i.e., the background to the specimen may be blue while the object appears self-luminous red). Other color combinations are possible, but their effectiveness is quite variable.[16]
 
 Dispersion staining[edit]
@@ -158,8 +156,6 @@ Dispersion staining is an optical technique that results in a colored image of a
 
 Phase contrast
 
-
-~                        
 More sophisticated techniques will show proportional differences in optical density. Phase contrast is a widely used technique that shows differences in refractive index as difference in contrast. It was developed by the Dutch physicist Frits Zernike in the 1930s (for which he was awarded the Nobel Prize in 1953). The nucleus in a cell for example will show up darkly against the surrounding cytoplasm. Contrast is excellent; however it is not for use with thick objects. Frequently, a halo is formed even around small objects, which obscures detail. The system consists of a circular annulus in the condenser, which produces a cone of light. This cone is superimposed on a similar sized ring within the phase-objective. Every objective has a different size ring, so for every objective another condenser setting has to be chosen. The ring in the objective has special optical properties: it, first of all, reduces the direct light in intensity, but more importantly, it creates an artificial phase difference of about a quarter wavelength. As the physical properties of this direct light have changed, interference with the diffracted light occurs, resulting in the phase contrast image. One disadvantage of phase-contrast microscopy is halo formation (halo-light ring).
 
 Differential interference contrast[edit]
@@ -205,11 +201,65 @@ A subclass of confocal microscopes are spinning disc microscopes which are able 
 Two-photon microscopy[edit]
 A two-photon microscope is also a laser-scanning microscope, but instead of UV, blue or green laser light, a pulsed infrared laser is used for excitation. Only in the tiny focus of the laser is the intensity high enough to generate fluorescence by two-photon excitation, which means that no out-of-focus fluorescence is generated, and no pinhole is necessary to clean up the image.[18] This allows imaging deep in scattering tissue, where a confocal microscope would not be able to collect photons efficiently.[19] Two-photon microscopes with wide-field detection are frequently used for functional imaging, e.g. calcium imaging, in brain tissue.[20] They are marketed as Multiphoton microscopes by several companies, although the gains of using 3-photon instead of 2-photon excitation are marginal.
 
+## Gram Stain
+
+Gram stain or Gram staining, also called Gram's method, is a method of staining used to distinguish and classify bacterial species into two large groups: gram-positive bacteria and gram-negative bacteria. The name comes from the Danish bacteriologist Hans Christian Gram, who developed the technique.[1]
+
+Gram staining differentiates bacteria by the chemical and physical properties of their cell walls. Gram-positive cells have a thick layer of peptidoglycan in the cell wall that retains the primary stain, crystal violet. Gram-negative cells have a thinner peptidoglycan layer that allows the crystal violet to wash out on addition of ethanol. They are stained pink or red by the counterstain,[2] commonly safranin or fuchsine. Lugol's iodine solution is always added after addition of crystal violet to strengthen the bonds of the stain with the cell membrane. Gram staining is almost always the first step in the preliminary identification of a bacterial organism. While Gram staining is a valuable diagnostic tool in both clinical and research settings, not all bacteria can be definitively classified by this technique. This gives rise to gram-variable and gram-indeterminate groups.
+
+The method is named after its inventor, the Danish scientist Hans Christian Gram (1853–1938), who developed the technique while working with Carl Friedländer in the morgue of the city hospital in Berlin in 1884. Gram devised his technique not for the purpose of distinguishing one type of bacterium from another but to make bacteria more visible in stained sections of lung tissue.[3] He published his method in 1884, and included in his short report the observation that the typhus bacillus did not retain the stain.[4]
+
+Gram staining is a bacteriological laboratory technique[5] used to differentiate bacterial species into two large groups (gram-positive and gram-negative) based on the physical properties of their cell walls.[6][page needed] Gram staining is not used to classify archaea, formerly archaeabacteria, since these microorganisms yield widely varying responses that do not follow their phylogenetic groups.[7]
+
+Some organisms are gram-variable (meaning they may stain either negative or positive); some are not stained with either dye used in the Gram technique and are not seen. In a modern environmental or molecular microbiology lab, most identification is done using genetic sequences and other molecular techniques, which are far more specific and informative than differential staining.
+
+Gram staining has been suggested to be as effective a diagnostic tool as PCR in one primary research report regarding gonorrhea.
+
+Gram stains are performed on body fluid or biopsy when infection is suspected. Gram stains yield results much more quickly than culturing, and are especially important when infection would make an important difference in the patient's treatment and prognosis; examples are cerebrospinal fluid for meningitis and synovial fluid for septic arthritis.[9][10]
+
+Gram-positive bacteria have a thick mesh-like cell wall made of peptidoglycan (50–90% of cell envelope), and as a result are stained purple by crystal violet, whereas gram-negative bacteria have a thinner layer (10% of cell envelope), so do not retain the purple stain and are counter-stained pink by safranin. There are four basic steps of the Gram stain:
+
+* Applying a primary stain (crystal violet) to a heat-fixed smear of a bacterial culture. Heat fixation kills some bacteria but is mostly used to affix the bacteria to the slide so that they don't rinse out during the staining procedure.
+* The addition of iodine, which binds to crystal violet and traps it in the cell
+* Rapid decolorization with ethanol or acetone
+* Counterstaining with safranin.[11] Carbol fuchsin is sometimes substituted for safranin since it more intensely stains anaerobic bacteria, but it is less commonly used as a counterstain.[12]
+
+Crystal violet (CV) dissociates in aqueous solutions into CV+
+ and chloride (Cl−
+) ions. These ions penetrate the cell wall of both gram-positive and gram-negative cells. The CV+
+ ion interacts with negatively charged components of bacterial cells and stains the cells purple.[13]
+
+Iodide (I−
+ or I−
+3) interacts with CV+
+ and forms large complexes of crystal violet and iodine (CV–I) within the inner and outer layers of the cell. Iodine is often referred to as a mordant, but is a trapping agent that prevents the removal of the CV–I complex and, therefore, colors the cell.[14]
+
+When a decolorizer such as alcohol or acetone is added, it interacts with the lipids of the cell membrane.[15] A gram-negative cell loses its outer lipopolysaccharide membrane, and the inner peptidoglycan layer is left exposed. The CV–I complexes are washed from the gram-negative cell along with the outer membrane.[16] In contrast, a gram-positive cell becomes dehydrated from an ethanol treatment. The large CV–I complexes become trapped within the gram-positive cell due to the multilayered nature of its peptidoglycan.[16] The decolorization step is critical and must be timed correctly; the crystal violet stain is removed from both gram-positive and negative cells if the decolorizing agent is left on too long (a matter of seconds).[17]
+
+After decolorization, the gram-positive cell remains purple and the gram-negative cell loses its purple color.[17] Counterstain, which is usually positively charged safranin or basic fuchsine, is applied last to give decolorized gram-negative bacteria a pink or red color.[2][18] Both gram-positive bacteria and gram-negative bacteria pick up the counterstain. The counterstain, however, is unseen on gram-positive bacteria because of the darker crystal violet stain.
+
+Gram-positive bacteria[edit]
+Main article: Gram-positive bacteria
+Gram-positive bacteria generally have a single membrane (monoderm) surrounded by a thick peptidoglycan. This rule is followed by two phyla: Firmicutes (except for the classes Mollicutes and Negativicutes) and the Actinobacteria.[6][19] In contrast, members of the Chloroflexi (green non-sulfur bacteria) are monoderms but possess a thin or absent (class Dehalococcoidetes) peptidoglycan and can stain negative, positive or indeterminate; members of the Deinococcus–Thermus group stain positive but are diderms with a thick peptidoglycan.[6][page needed][19]
+
+Historically, the gram-positive forms made up the phylum Firmicutes, a name now used for the largest group. It includes many well-known genera such as Lactobacillus, Bacillus, Listeria, Staphylococcus, Streptococcus, Enterococcus, and Clostridium.[20] It has also been expanded to include the Mollicutes, bacteria such as Mycoplasma and Thermoplasma that lack cell walls and so cannot be Gram-stained, but are derived from such forms.[21]
+
+Some bacteria have cell walls which are particularly adept at retaining stains. These will appear positive by Gram stain even though they are not closely related to other gram-positive bacteria. These are called acid-fast bacteria, and can only be differentiated from other gram-positive bacteria by special staining procedures.[22]
+
+Gram-negative bacteria[edit]
+Main article: Gram-negative bacteria
+Gram-negative bacteria generally possess a thin layer of peptidoglycan between two membranes (diderm).[23] Lipopolysaccharide (LPS) is the most abundant antigen on the cell surface of most Gram-negative bacteria, contributing up to 80% of the outer membrane of E. coli and Salmonella.[24] Most bacterial phyla are gram-negative, including the cyanobacteria, green sulfur bacteria, and most Proteobacteria (exceptions being some members of the Rickettsiales and the insect-endosymbionts of the Enterobacteriales).[6][page needed][19]
+
+Gram-variable and Gram-indeterminate bacteria[edit]
+Some bacteria, after staining with the Gram stain, yield a gram-variable pattern: a mix of pink and purple cells are seen.[16][25] In cultures of Bacillus, Butyrivibrio, and Clostridium, a decrease in peptidoglycan thickness during growth coincides with an increase in the number of cells that stain gram-negative.[25] In addition, in all bacteria stained using the Gram stain, the age of the culture may influence the results of the stain.[25]
+
+Gram-indeterminate bacteria do not respond predictably to Gram staining and, therefore, cannot be determined as either gram-positive or gram-negative. Examples include many species of Mycobacterium, including Mycobacterium bovis, Mycobactrium leprae and Mycobacterium tuberculosis, the latter two of which are the causative agents of leprosy and tuberculosis, respectively.[26][27] Bacteria of the genus Mycoplasma lack a cell wall around their cell membranes, [9] which means they do not stain by Gram's method and are resistant to the antibiotics that target cell wall synthesis.[28][29]
+
 ## Electron microscopy
 
 Until the invention of sub-diffraction microscopy, the wavelength of the light limited the resolution of traditional microscopy to around 0.2 micrometers. In order to gain higher resolution, the use of an electron beam with a far smaller wavelength is used in electron microscopes.
 
-### ransmission electron microscope (TEM)
+### Transmission electron microscope (TEM)
 
 The original form of the electron microscope, the transmission electron microscope (TEM), uses a high voltage electron beam to illuminate the specimen and create an image. The electron beam is produced by an electron gun, commonly fitted with a tungsten filament cathode as the electron source. The electron beam is accelerated by an anode typically at +100 keV (40 to 400 keV) with respect to the cathode, focused by electrostatic and electromagnetic lenses, and transmitted through the specimen that is in part transparent to electrons and in part scatters them out of the beam. When it emerges from the specimen, the electron beam carries information about the structure of the specimen that is magnified by the objective lens system of the microscope. The spatial variation in this information (the "image") may be viewed by projecting the magnified electron image onto a fluorescent viewing screen coated with a phosphor or scintillator material such as zinc sulfide. Alternatively, the image can be photographically recorded by exposing a photographic film or plate directly to the electron beam, or a high-resolution phosphor may be coupled by means of a lens optical system or a fibre optic light-guide to the sensor of a digital camera. The image detected by the digital camera may be displayed on a monitor or computer.
 
@@ -233,7 +283,7 @@ Scanning electron microscopes operating in conventional high-vacuum mode usually
 
 Small, stable specimens such as carbon nanotubes, diatom frustules and small mineral crystals (asbestos fibres, for example) require no special treatment before being examined in the electron microscope. Samples of hydrated materials, including almost all biological specimens have to be prepared in various ways to stabilize them, reduce their thickness (ultrathin sectioning) and increase their electron optical contrast (staining). These processes may result in artifacts, but these can usually be identified by comparing the results obtained by using radically different specimen preparation methods. Since the 1980s, analysis of cryofixed, vitrified specimens has also become increasingly used by scientists, further confirming the validity of this technique.[35][36][37]
 
-## Microbiological culture
+## Microbiological Culture
 
 A microbiological culture, or microbial culture, is a method of multiplying microbial organisms by letting them reproduce in predetermined culture medium under controlled laboratory conditions. Microbial cultures are foundational and basic diagnostic methods used as a research tool in molecular biology.
 
@@ -265,7 +315,7 @@ Stab cultures are similar to agar plates, but are formed by solid agar in a test
 Culture collections[edit]
 Microbial culture collections focus on the acquisition, authentication, production, preservation, catalogueing and distribution of viable cultures of standard reference microorganisms, cell lines and other materials for research in microbial systematics.[5][6] Culture collection are also repositories of type strains.
 
-### Growth medium
+### Growth Medium
 
 A growth medium or culture medium is a solid, liquid, or semi-solid designed to support the growth of a population of microorganisms or cells via the process of cell proliferation[1] or small plants like the moss Physcomitrella patens.[2] Different types of media are used for growing different types of cells.[3]
 
@@ -306,7 +356,7 @@ Examples of nutrient media:
 * plate count agar
 * trypticase soy agar
 
-Minimal media[edit]
+### Minimal Media[edit]
 
 A defined medium that has just enough ingredients to support growth is called a "minimal medium". The number of ingredients that must be added to a minimal medium varies enormously depending on which microorganism is being grown.[7] Minimal media are those that contain the minimum nutrients possible for colony growth, generally without the presence of amino acids, and are often used by microbiologists and geneticists to grow "wild-type" microorganisms. Minimal media can also be used to select for or against recombinants or exconjugants.
 
@@ -340,7 +390,7 @@ Examples of selective media:
 * Sabouraud's agar is selective to certain fungi due to its low pH (5.6) and high glucose concentration (3–4%).
 * DRBC (dichloran rose bengal chloramphenicol agar) is a selective medium for the enumeration of moulds and yeasts in foods. Dichloran and rose bengal restrict the growth of mould colonies, preventing overgrowth of luxuriant species and assisting accurate counting of colonies.[8]
 
-Differential media
+### Differential Media
 
 Differential or indicator media distinguish one microorganism type from another growing on the same medium.[9] This type of media uses the biochemical characteristics of a microorganism growing in the presence of specific nutrients or indicators (such as neutral red, phenol red, eosin y, or methylene blue) added to the medium to visibly indicate the defining characteristics of a microorganism. These media are used for the detection of microorganisms and by molecular biologists to detect recombinant strains of bacteria.
 
@@ -368,9 +418,6 @@ Certain bacterial inhibitors are used for gonococci, and buffered glycerol salin
 Venkataraman Ramakrishna (VR) medium is used for V. cholerae.
 Enriched media[edit]
 Enriched media contain the nutrients required to support the growth of a wide variety of organisms, including some of the more fastidious ones. They are commonly used to harvest as many different types of microbes as are present in the specimen. Blood agar is an enriched medium in which nutritionally rich whole blood supplements the basic nutrients. Chocolate agar is enriched with heat-treated blood (40–45 °C or 104–113 °F), which turns brown and gives the medium the color for which it is named.[citation needed]
-
-
-
 
 ### Agar Plate
 
@@ -400,6 +447,4 @@ Blood agar plates (BAPs) contain mammalian blood (usually sheep or horse), typic
 
 Chocolate agar[edit]
 Chocolate agar a type of blood agar plate in which the blood cells have been lysed by heating the cells to 80 °C. It is used for growing fastidious respiratory bacteria, such as Haemophilus influenzae. No chocolate is actually contained in the plate; it is named for the coloration only.
-
-
 

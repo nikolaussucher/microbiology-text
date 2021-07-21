@@ -1,6 +1,5 @@
 fig:semecoli
 fig:haloarchaea
-fig:sarscovi2
 fig:bacteriashape
 fig:helicopylori
 fig:endospore
@@ -57,12 +56,15 @@ simple-microscopeedit
 compound-microscope
 main-components-of-the-light-microscope
 microscope-slide
+gram-stain
 electron-microscopy
-ransmission-electron-microscope-tem
+transmission-electron-microscope-tem
 scanning-electron-microscope-sem
 microbiological-culture
 growth-medium
+minimal-mediaedit
 selective-media
+differential-media
 agar-plate
 prokaryotic-microorganisms
 bacteria
@@ -169,6 +171,11 @@ pasteurization
 antibiotics
 classes-of-antibiotics
 drugs-microbes-and-the-host
+antibacterials
+pathogenic-bacteria
+pathogenic-susceptibility
+infection
+historic-pandemics
 host-defensesthe-innate-immune-system
 layered-defenseedit
 surface-barriers
