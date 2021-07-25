@@ -1,4 +1,4 @@
-# Host Defenses: The Adaptive Immune System
+# The Adaptive Immune System And Immunization
 
 The adaptive immune system, also referred as the acquired immune system, is a subsystem of the immune system that is composed of specialized, systemic cells and processes that eliminate pathogens or prevent their growth. The acquired immune system is one of the two main immunity strategies found in vertebrates (the other being the innate immune system).
 

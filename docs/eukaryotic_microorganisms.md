@@ -1,5 +1,4 @@
-# Eukaryotic Microorganisms
-
+# An Introduction To Eukaryotic Cells And Microorganisms
 
 Most living things that are visible to the naked eye in their adult form are eukaryotes, including humans. However, many eukaryotes are also microorganisms. Unlike bacteria and archaea, eukaryotes contain organelles such as the cell nucleus, the Golgi apparatus and mitochondria in their cells. The nucleus is an organelle that houses the DNA that makes up a cell's genome. DNA (Deoxyribonucleic acid) itself is arranged in complex chromosomes. Mitochondria are organelles vital in metabolism as they are the site of the citric acid cycle and oxidative phosphorylation. They evolved from symbiotic bacteria and retain a remnant genome. Like bacteria, plant cells have cell walls, and contain organelles such as chloroplasts in addition to the organelles in other eukaryotes. Chloroplasts produce energy from light by photosynthesis, and were also originally symbiotic bacteria.
 
