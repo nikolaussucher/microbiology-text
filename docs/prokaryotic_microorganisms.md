@@ -1,11 +1,166 @@
 # An Introduction To Prokaryotic Cells And Microorganisms
 
+## Characteristics of Life
+
+In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
+
+Death is the permanent termination of all biological functions which sustain an organism, and as such, is the end of its life. Extinction is the term describing the dying out of a group or taxon, usually a species. Fossils are the preserved remains or traces of organisms.
+
+The definition of life has long been a challenge for scientists and philosophers, with many varied definitions put forward. This is partially because life is a process, not a substance. This is complicated by a lack of knowledge of the characteristics of living entities, if any, that may have developed outside of Earth. Philosophical definitions of life have also been put forward, with similar difficulties on how to distinguish living things from the non-living. Legal definitions of life have also been described and debated, though these generally focus on the decision to declare a human dead, and the legal ramifications of this decision.
+
+Since there is no unequivocal definition of life, most current definitions in biology are descriptive. Life is considered a characteristic of something that preserves, furthers or reinforces its existence in the given environment. This characteristic exhibits all or most of the following traits:
+
+* Homeostasis: regulation of the internal environment to maintain a constant state; for example, sweating to reduce temperature
+* Organization: being structurally composed of one or more cells – the basic units of life
+* Metabolism: transformation of energy by converting chemicals and energy into cellular components (anabolism) and decomposing organic matter (catabolism). Living things require energy to maintain internal organization (homeostasis) and to produce the other phenomena associated with life.
+* Growth: maintenance of a higher rate of anabolism than catabolism. A growing organism increases in size in all of its parts, rather than simply accumulating matter.
+* Adaptation: the ability to change over time in response to the environment. This ability is fundamental to the process of evolution and is determined by the organism's heredity, diet, and external factors.
+* Response to stimuli: a response can take many forms, from the contraction of a unicellular organism to external chemicals, to complex reactions involving all the senses of multicellular organisms. A response is often expressed by motion; for example, the leaves of a plant turning toward the sun (phototropism), and chemotaxis.
+* Reproduction: the ability to produce new individual organisms, either asexually from a single parent organism or sexually from two parent organisms.
+
+These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
+
+More than 99% of all species of life forms, amounting to over five billion species, that ever lived on Earth are estimated to be extinct.
+
+Although the number of Earth's catalogued species of lifeforms is between 1.2 million and 2 million, the total number of species in the planet is uncertain. Estimates range from 8 million to 100 million, with a more narrow range between 10 and 14 million, but it may be as high as 1 trillion (with only one-thousandth of one percent of the species described) according to studies realized in May 2016. The total number of related DNA base pairs on Earth is estimated at 5.0 x 10^37^ and weighs 50 billion tonnes. In comparison, the total mass of the biosphere has been estimated to be as much as 4 TtC (trillion tons of carbon). In July 2016, scientists reported identifying a set of 355 genes from the Last Universal Common Ancestor (LUCA) of all organisms living on Earth.
+
+## Origin of Life
+
+The Ancient Greeks believed that living things could spontaneously come into being from nonliving matter, and that the goddess Gaia could make life arise spontaneously from stones – a process known as Generatio spontanea. [Aristotle](https://en.wikipedia.org/wiki/Aristotle) disagreed, but he still believed that creatures could arise from dissimilar organisms or from soil. Variations of this concept of spontaneous generation still existed as late as the 17th century, but towards the end of the 17th century, a series of observations and arguments began that eventually discredited such ideas. This advance in scientific understanding was met with much opposition, with personal beliefs and individual prejudices often obscuring the facts.
+
+[William Harvey](https://en.wikipedia.org/wiki/William_Harvey) (1578–1657) was an early proponent of all life beginning from an egg, omne vivum ex ovo. [Francesco Redi](https://en.wikipedia.org/wiki/Francesco_Redi), an Italian physician, proved as early as 1668 that higher forms of life did not originate spontaneously by demonstrating that maggots come from eggs of flies. But proponents of spontaneous generation claimed that this did not apply to microbes and continued to hold that these could arise spontaneously. Attempts to disprove the spontaneous generation of life from non-life continued in the early 19th century with observations and experiments by Franz Schulze and [Theodor Schwann](https://en.wikipedia.org/wiki/Theodor_Schwann). In 1745, [John Needham](https://en.wikipedia.org/wiki/John_Needham) added chicken broth to a flask and boiled it. He then let it cool and waited. Microbes grew, and he proposed it as an example of spontaneous generation. In 1768, [Lazzaro Spallanzani](https://en.wikipedia.org/wiki/Lazzaro_Spallanzani) repeated Needham's experiment but removed all the air from the flask. No growth occurred. In 1854, Heinrich G. F. Schröder (1810–1885) and Theodor von Dusch, and in 1859, Schröder alone, repeated the Helmholtz filtration experiment and showed that living particles can be removed from air by filtering it through cotton-wool.
+
+In 1864, [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) finally announced the results of his scientific experiments. In a series of experiments similar to those performed earlier by Needham and Spallanzani, Pasteur demonstrated that life does not arise in areas that have not been contaminated by existing life. Pasteur's empirical results were summarized in the phrase Omne vivum ex vivo, Latin for "all life [is] from life".
+
+All known life forms share fundamental molecular mechanisms, reflecting their common descent; based on these observations, hypotheses on the origin of life attempt to find a mechanism explaining the formation of a universal common ancestor, from simple organic molecules via pre-cellular life to protocells and metabolism. Models have been divided into "genes-first" and "metabolism-first" categories, but a recent trend is the emergence of hybrid models that combine both categories.
+
+Life on Earth is based on carbon and water. Carbon provides stable frameworks for complex chemicals and can be easily extracted from the environment, especially from carbon dioxide. There is no other chemical element whose properties are similar enough to carbon's to be called an analogue; silicon, the element directly below carbon on the periodic table, does not form very many complex stable molecules, and because most of its compounds are water-insoluble and because silicon dioxide is a hard and abrasive solid in contrast to carbon dioxide at temperatures associated with living things, it would be more difficult for organisms to extract. The elements boron and phosphorus have more complex chemistries, but suffer from other limitations relative to carbon. Water is an excellent solvent and has two other useful properties: the fact that ice floats enables aquatic organisms to survive beneath it in winter; and its molecules have electrically negative and positive ends, which enables it to form a wider range of compounds than other solvents can. Other good solvents, such as ammonia, are liquid only at such low temperatures that chemical reactions may be too slow to sustain life, and lack water's other advantages. Organisms based on alternative biochemistry may, however, be possible on other planets.
+
+[Abiogenesis](https://en.wikipedia.org/wiki/Abiogenesis), or informally the origin of life, is the natural process of life arising from non-living matter, such as simple organic compounds. The prevailing scientific hypothesis is that the transition from non-living to living entities was not a single event, but a gradual process of increasing complexity. Although the occurrence of abiogenesis is uncontroversial among scientists, its possible mechanisms are poorly understood. There are several principles and hypotheses for how abiogenesis could have occurred. Life on Earth first appeared as early as 4.28 billion years ago, soon after ocean formation 4.41 billion years ago, and not long after the formation of the Earth 4.54 billion years ago. The earliest known life forms are microfossils of bacteria.
+
+There is no current scientific consensus as to how life originated. However, many accepted scientific models build on the [Miller–Urey experiment](https://en.wikipedia.org/wiki/Miller–Urey_experiment) and the work of [Sidney Fox](https://en.wikipedia.org/wiki/Sidney_W._Fox), which show that conditions on the primitive Earth favored chemical reactions that synthesize amino acids and other organic compounds from inorganic precursors, and phospholipids spontaneously form lipid bilayers, the basic structure of a cell membrane.
+
+The classic 1952 Miller–Urey experiment (Figure \@ref(fig:millerurey)) demonstrated that most amino acids, the chemical constituents of the proteins used in all living organisms, can be synthesized from inorganic compounds under conditions intended to replicate those of the early Earth. The experiment used water (H~2~O), methane (CH~4~), ammonia (NH~3~), and hydrogen (H~2~). The chemicals were all sealed inside a sterile 5-liter glass flask connected to a 500 ml flask half-full of water. The water in the smaller flask was heated to induce evaporation, and the water vapour was allowed to enter the larger flask. Continuous electrical sparks were fired between the electrodes to simulate lightning in the water vapour and gaseous mixture, and then the simulated atmosphere was cooled again so that the water condensed and trickled into a U-shaped trap at the bottom of the apparatus.
+
+After a day, the solution collected at the trap had turned pink in colour, and after a week of continuous operation the solution was deep red and turbid. The boiling flask was then removed, and mercuric chloride was added to prevent microbial contamination. The reaction was stopped by adding barium hydroxide and sulfuric acid, and evaporated to remove impurities. Using paper chromatography, Miller identified five amino acids present in the solution: glycine, α-alanine and β-alanine were positively identified, while aspartic acid and α-aminobutyric acid (AABA) were less certain, due to the spots being faint.Complex organic molecules occur in the Solar System and in interstellar space, and these molecules may have provided starting material for the development of life on Earth.
+
+(ref:muex) [The Miller–Urey experiment](https://commons.wikimedia.org/wiki/File:MUexperiment.png) was a chemical experiment that simulated the conditions thought at the time (1952) to be present on the early Earth and tested the chemical origin of life under those conditions. The experiment at the time supported Alexander Oparin's and J. B. S. Haldane's hypothesis that putative conditions on the primitive Earth favoured chemical reactions that synthesized more complex organic compounds from simpler inorganic precursors. Considered to be the classic experiment investigating abiogenesis, it was conducted in 1952 by Stanley Miller, with assistance from Harold Urey, at the University of Chicago and later the University of California, San Diego and published the following year.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/prokaryotes/Miller-Urey_experiment-en.svg" alt="(ref:muex)" width="70%" />
+<p class="caption">(\#fig:millerurey)(ref:muex)</p>
+</div>
+
+Living organisms synthesize proteins, which are polymers of amino acids using instructions encoded by deoxyribonucleic acid (DNA). Protein synthesis entails intermediary ribonucleic acid (RNA) polymers. One possibility for how life began is that genes originated first, followed by proteins; the alternative being that proteins came first and then genes.
+
+However, because genes and proteins are both required to produce the other, the problem of considering which came first is like that of the chicken or the egg. Most scientists have adopted the hypothesis that because of this, it is unlikely that genes and proteins arose independently.
+
+Therefore, a possibility, first suggested by [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick), is that the first life was based on RNA, which has the DNA-like properties of information storage and the catalytic properties of some proteins. This is called the RNA world hypothesis, and it is supported by the observation that many of the most critical components of cells (those that evolve the slowest) are composed mostly or entirely of RNA. Also, many critical cofactors (ATP, Acetyl-CoA, NADH, etc.) are either nucleotides or substances clearly related to them. The catalytic properties of RNA had not yet been demonstrated when the hypothesis was first proposed, but they were confirmed by [Thomas Cech](https://en.wikipedia.org/wiki/Thomas_Cech) in 1986.
+
+One issue with the RNA world hypothesis is that synthesis of RNA from simple inorganic precursors is more difficult than for other organic molecules. One reason for this is that RNA precursors are very stable and react with each other very slowly under ambient conditions, and it has also been proposed that living organisms consisted of other molecules before RNA. However, the successful synthesis of certain RNA molecules under the conditions that existed prior to life on Earth has been achieved by adding alternative precursors in a specified order with the precursor phosphate present throughout the reaction. This study makes the RNA world hypothesis more plausible.
+
+Geological findings in 2013 showed that reactive phosphorus species (like phosphite) were in abundance in the ocean before 3.5 Ga, and that Schreibersite easily reacts with aqueous glycerol to generate phosphite and glycerol 3-phosphate. It is hypothesized that Schreibersite-containing meteorites from the Late Heavy Bombardment could have provided early reduced phosphorus, which could react with prebiotic organic molecules to form phosphorylated biomolecules, like RNA.
+
+In 2009, experiments demonstrated Darwinian evolution of a two-component system of RNA enzymes (ribozymes) in vitro. The work was performed in the laboratory of Gerald Joyce, who stated "This is the first example, outside of biology, of evolutionary adaptation in a molecular genetic system."
+
+Prebiotic compounds may have originated extraterrestrially. NASA findings in 2011, based on studies with meteorites found on Earth, suggest DNA and RNA components (adenine, guanine and related organic molecules) may be formed in outer space.
+
+In March 2015, NASA scientists reported that, for the first time, complex DNA and RNA organic compounds of life, including uracil, cytosine and thymine, have been formed in the laboratory under outer space conditions, using starting chemicals, such as pyrimidine, found in meteorites. Pyrimidine, like polycyclic aromatic hydrocarbons (PAHs), the most carbon-rich chemical found in the universe, may have been formed in red giants or in interstellar dust and gas clouds, according to the scientists.
+
+According to the panspermia hypothesis, microscopic life—distributed by meteoroids, asteroids and other small Solar System bodies—may exist throughout the universe.
+
+Since its primordial beginnings, life on Earth has changed its environment on a geologic time scale, but it has also adapted to survive in most ecosystems and conditions. Some microorganisms, called extremophiles, thrive in physically or geochemically extreme environments that are detrimental to most other life on Earth. The cell is considered the structural and functional unit of life. There are two kinds of cells, prokaryotic and eukaryotic, both of which consist of cytoplasm enclosed within a membrane and contain many biomolecules such as proteins and nucleic acids. Cells reproduce through a process of cell division, in which the parent cell divides into two or more daughter cells.
+
+(ref:celltypes) [Cartoons of a eukaryotic and prokaryotic cell.](https://commons.wikimedia.org/wiki/File:Celltypes.svg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/prokaryotes/Celltypes.svg" alt="(ref:celltypes)" width="70%" />
+<p class="caption">(\#fig:celltypecartoon)(ref:celltypes)</p>
+</div>
+
+## Foundations of Modern Biology
+
+### Cell theory
+
+[Cell theory](https://en.wikipedia.org/wiki/Cell_theory) states that the cell is the fundamental unit of life, that all living things are composed of one or more cells, and that all cells arise from pre-existing cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes. In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA), which is passed from cell to cell during cell division. Research into the origin of life, abiogenesis, amounts to an attempt to discover the origin of the first cells.
+
+Cells are the basic unit of structure in every living thing, and all cells arise from pre-existing cells by division. Cell theory was formulated by [Henri Dutrochet](https://en.wikipedia.org/wiki/Henri_Dutrochet), [Theodor Schwann](https://en.wikipedia.org/wiki/Theodor_Schwann), [Matthias Jakob Schleiden](https://en.wikipedia.org/wiki/Matthias_Jakob_Schleiden), [Rudolf Virchow](https://en.wikipedia.org/wiki/Rudolf_Virchow) and others during the early nineteenth century, and subsequently became widely accepted. The activity of an organism depends on the total activity of its cells, with energy flow occurring within and between them. Cells contain hereditary information that is carried forward as a genetic code during cell division.
+
+There are two primary types of cells. [Prokaryotes](https://en.wikipedia.org/wiki/Prokaryote) lack a nucleus and other membrane-bound organelles, although they have circular DNA and ribosomes. [Bacteria](https://en.wikipedia.org/wiki/Bacteria) and [Archaea](https://en.wikipedia.org/wiki/Archaea) are two domains of prokaryotes. The other primary type of cells are the [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote), which have distinct nuclei bound by a nuclear membrane and membrane-bound organelles, including mitochondria, chloroplasts, lysosomes, rough and smooth endoplasmic reticulum, and vacuoles. In addition, they possess organized chromosomes that store genetic material. All species of large complex organisms are eukaryotes, including animals, plants and fungi, though most species of eukaryote are protist microorganisms. The conventional model is that eukaryotes evolved from prokaryotes, with the main organelles of the eukaryotes forming through endosymbiosis between bacteria and the progenitor eukaryotic cell.
+
+(ref:livorg) [Tree diagram](https://commons.wikimedia.org/wiki/File:Tree_of_Living_Organisms_2.png) illustrating the evolutionary relationship of living organisms.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/prokaryotes/Tree_of_Living_Organisms_2.png" alt="(ref:livorg)" width="70%" />
+<p class="caption">(\#fig:livorgtree)(ref:livorg)</p>
+</div>
+
+A [virus](https://en.wikipedia.org/wiki/Virus) is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
+
+The molecular mechanisms of cell biology are based on proteins which are synthesized by the ribosomes through an enzyme-catalyzed process called protein biosynthesis. A sequence of amino acids is assembled and joined together based upon gene expression of the cell's nucleic acid. In eukaryotic cells, these proteins may then be transported and processed through the Golgi apparatus in preparation for dispatch to their destination.
+
+Cells reproduce through a process of cell division in which the parent cell divides into two or more daughter cells. For prokaryotes, cell division occurs through a process of fission in which the DNA is replicated, then the two copies are attached to parts of the cell membrane. In eukaryotes, a more complex process of mitosis is followed. However, the end result is the same; the resulting cell copies are identical to each other and to the original cell (except for mutations), and both are capable of further division following an interphase period.
+
+Multicellular organisms may have first evolved through the formation of colonies of identical cells. These cells can form group organisms through cell adhesion. The individual members of a colony are capable of surviving on their own, whereas the members of a true multi-cellular organism have developed specializations, making them dependent on the remainder of the organism for survival. Such organisms are formed clonally or from a single germ cell that is capable of forming the various specialized cells that form the adult organism. This specialization allows multicellular organisms to exploit resources more efficiently than single cells. In January 2016, scientists reported that, about 800 million years ago, a minor genetic change in a single molecule, called GK-PID, may have allowed organisms to go from a single cell organism to one of many cells.
+
+Cells have evolved methods to perceive and respond to their microenvironment, thereby enhancing their adaptability. Cell signaling coordinates cellular activities, and hence governs the basic functions of multicellular organisms. Signaling between cells can occur through direct cell contact using juxtacrine signalling, or indirectly through the exchange of agents as in the endocrine system. In more complex organisms, coordination of activities can occur through a dedicated nervous system.
+
+### The Theory of Evolution
+
+A central organizing concept in biology is that life changes and develops through [evolution](https://en.wikipedia.org/wiki/Evolution), and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago. Biologists regard the ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes.
+
+The term "evolution" was introduced into the scientific lexicon by [Jean-Baptiste de Lamarck](https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck) in 1809, and fifty years later [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) posited a scientific model of natural selection as evolution's driving force. [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) independently reached the same conclusions and is recognized as the co-discoverer of this concept. Evolution is now used to explain the great variations of life found on Earth.
+
+Darwin theorized that species flourish or die when subjected to the processes of natural selection or selective breeding. Genetic drift was embraced as an additional mechanism of evolutionary development in the modern synthesis of the theory.
+
+The evolutionary history of the species—which describes the characteristics of the various species from which it descended—together with its genealogical relationship to every other species is known as its phylogeny. Widely varied approaches to biology generate information about phylogeny. These include the comparisons of DNA sequences, a product of molecular biology (more particularly genomics), and comparisons of fossils or other records of ancient organisms, a product of paleontology. Biologists organize and analyze evolutionary relationships through various methods, including phylogenetics, phenetics, and cladistics
+
+Evolution is relevant to the understanding of the natural history of life forms and to the understanding of the organization of current life forms. But, those organizations can only be understood in light of how they came to be by way of the process of evolution. Consequently, evolution is central to all fields of biology.
+
+The evolutionary history of life on Earth traces the processes by which living and fossil organisms evolved, from the earliest emergence of life to the present. Earth formed about 4.5 billion years (Ga) ago and evidence suggests life emerged prior to 3.7 Ga. (Although there is some evidence of life as early as 4.1 to 4.28 Ga, it remains controversial due to the possible non-biological formation of the purported fossils.) The similarities among all known present-day species indicate that they have diverged through the process of evolution from a common ancestor. Approximately 1 trillion species currently live on Earth of which only 1.75–1.8 million have been named and 1.6 million documented in a central database. These currently living species represent less than one percent of all species that have ever lived on earth.
+
+The earliest evidence of life comes from biogenic carbon signatures and stromatolite fossils discovered in 3.7 billion-year-old metasedimentary rocks from western Greenland. In 2015, possible "remains of biotic life" were found in 4.1 billion-year-old rocks in Western Australia. In March 2017, putative evidence of possibly the oldest forms of life on Earth was reported in the form of fossilized microorganisms discovered in hydrothermal vent precipitates in the Nuvvuagittuq Belt of Quebec, Canada, that may have lived as early as 4.28 billion years ago, not long after the oceans formed 4.4 billion years ago, and not long after the formation of the Earth 4.54 billion years ago.
+
+(ref:stromato) [Modern stromatolites in Shark Bay, Western Australia](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) 
+
+<div class="figure" style="text-align: center">
+<img src="./figures/prokaryotes/Stromatolites_in_Sharkbay.jpg" alt="(ref:stromato)" width="70%" />
+<p class="caption">(\#fig:stromatolites)(ref:stromato)</p>
+</div>
+
+Microbial mats of coexisting bacteria and archaea were the dominant form of life in the early Archean Epoch and many of the major steps in early evolution are thought to have taken place in this environment. The evolution of photosynthesis, around 3.5 Ga, eventually led to a buildup of its waste product, oxygen, in the atmosphere, leading to the great oxygenation event, beginning around 2.4 Ga. The earliest evidence of eukaryotes (complex cells with organelles) dates from 1.85 Ga, and while they may have been present earlier, their diversification accelerated when they started using oxygen in their metabolism. Later, around 1.7 Ga, multicellular organisms began to appear, with differentiated cells performing specialised functions. Sexual reproduction, which involves the fusion of male and female reproductive cells (gametes) to create a zygote in a process called fertilization is, in contrast to asexual reproduction, the primary method of reproduction for the vast majority of macroscopic organisms, including almost all eukaryotes (which includes animals and plants). However the origin and evolution of sexual reproduction remain a puzzle for biologists though it did evolve from a common ancestor that was a single celled eukaryotic species. Bilateria, animals having a left and a right side that are mirror images of each other, appeared by 555 Ma (million years ago).
+
+The earliest plants on land date back to around 850 million years ago (Ma), from carbon isotopes in Precambrian rocks, while algae-like multicellular land plants are dated back even to about 1 billion years ago, although evidence suggests that microorganisms formed the earliest terrestrial ecosystems, at least 2.7 billion years ago (Ga). Microorganisms are thought to have paved the way for the inception of land plants in the Ordovician. Land plants were so successful that they are thought to have contributed to the Late Devonian extinction event. (The long causal chain implied seems to involve the success of early tree archaeopteris (1) drew down CO~2~ levels, leading to global cooling and lowered sea levels, (2) roots of archeopteris fostered soil development which increased rock weathering, and the subsequent nutrient run-off may have triggered algal blooms resulting in anoxic events which caused marine-life die-offs. Marine species were the primary victims of the Late Devonian extinction.)
+
+Ediacara biota appear during the Ediacaran period, while vertebrates, along with most other modern phyla originated about 525 Ma during the Cambrian explosion. During the Permian period, synapsids, including the ancestors of mammals, dominated the land, but most of this group became extinct in the Permian–Triassic extinction event 252 Ma. During the recovery from this catastrophe, archosaurs became the most abundant land vertebrates; one archosaur group, the dinosaurs, dominated the Jurassic and Cretaceous periods. After the Cretaceous–Paleogene extinction event 65 Ma killed off the non-avian dinosaurs, mammals increased rapidly in size and diversity. Such mass extinctions may have accelerated evolution by providing opportunities for new groups of organisms to diversify.
+
+### Genetics
+
+[Genes](https://en.wikipedia.org/wiki/Gene) are the primary units of inheritance in all organisms. A gene is a unit of heredity and corresponds to a region of DNA that influences the form or function of an organism in specific ways. All organisms, from bacteria to animals, share the same basic machinery that copies and translates DNA into proteins. Cells transcribe a DNA gene into an RNA version of the gene, and a ribosome then translates the RNA into a sequence of amino acids known as a protein. The translation code from RNA codon to amino acid is the same for most organisms. For example, a sequence of DNA that codes for insulin in humans also codes for insulin when inserted into other organisms, such as plants.
+
+[DNA](https://en.wikipedia.org/wiki/DNA) is found as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. A chromosome is an organized structure consisting of DNA and histones. The set of chromosomes in a cell and any other hereditary information found in the mitochondria, chloroplasts, or other locations is collectively known as a cell's genome. In eukaryotes, genomic DNA is localized in the cell nucleus, or with small amounts in mitochondria and chloroplasts. In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid. The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype.
+
+### Homeostasis
+
+[Homeostasis](https://en.wikipedia.org/wiki/Homeostasis) is the ability of an open system to regulate its internal environment to maintain stable conditions by means of multiple dynamic equilibrium adjustments that are controlled by interrelated regulation mechanisms. All living organisms, whether unicellular or multicellular, exhibit homeostasis.
+
+To maintain dynamic equilibrium and effectively carry out certain functions, a system must detect and respond to perturbations. After the detection of a perturbation, a biological system normally responds through negative feedback that stabilize conditions by reducing or increasing the activity of an organ or system. One example is the release of glucagon when sugar levels are too low.
+
+### Energy
+
+The survival of a living organism depends on the continuous input of [energy](https://en.wikipedia.org/wiki/Energy). Chemical reactions that are responsible for its structure and function are tuned to extract energy from substances that act as its food and transform them to help form new cells and sustain them. In this process, molecules of chemical substances that constitute food play two roles; first, they contain energy that can be transformed and reused in that organism's biological, chemical reactions; second, food can be transformed into new molecular structures (biomolecules) that are of use to that organism.
+
+The organisms responsible for the introduction of energy into an ecosystem are known as producers or autotrophs. Nearly all such organisms originally draw their energy from the sun. Plants and other phototrophs use solar energy via a process known as photosynthesis to convert raw materials into organic molecules, such as ATP, whose bonds can be broken to release energy. A few ecosystems, however, depend entirely on energy extracted by chemotrophs from methane, sulfides, or other non-luminal energy sources.
+
+Some of the energy thus captured produces biomass and energy that is available for growth and development of other life forms. The majority of the rest of this biomass and energy are lost as waste molecules and heat. The most important processes for converting the energy trapped in chemical substances into energy useful to sustain life are metabolism and cellular respiration.
+
+
 [Bacteria](https://en.wikipedia.org/wiki/Bacteria) (singular bacterium) and [Archaea](https://en.wikipedia.org/wiki/Archaea) (singular archaeon) constitute two domains of single-celled organisms. These microorganisms lack cell nuclei and are therefore prokaryotes. 
 
 (ref:ecoli) [Scanning electron micrograph of Escherichia coli bacteria.](https://commons.wikimedia.org/wiki/File:EscherichiaColi_NIAID.jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/EscherichiaColi_NIAID.jpg" alt="(ref:ecoli)" width="70%" />
+<img src="./figures/prokaryotes/EscherichiaColi_NIAID.jpg" alt="(ref:ecoli)" width="70%" />
 <p class="caption">(\#fig:semecoli)(ref:ecoli)</p>
 </div>
 
@@ -16,7 +171,7 @@ Archaea – at that time only the methanogens were known – were first classifi
 (ref:archaea) [Halobacterium sp. strain NRC-1, each cell about 5 μm long](https://commons.wikimedia.org/wiki/File:Halobacteria.jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/Halobacteria.jpg" alt="(ref:archaea)" width="70%" />
+<img src="./figures/prokaryotes/Halobacteria.jpg" alt="(ref:archaea)" width="70%" />
 <p class="caption">(\#fig:haloarchaea)(ref:archaea)</p>
 </div>
 
@@ -41,7 +196,7 @@ Bacteria display a wide diversity of shapes and sizes, called morphologies. Bact
 (ref:bacshape) [Bacteria display various cell morphologies and arrangements](https://commons.wikimedia.org/wiki/File:Bacterial_morphology_diagram.svg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/bacterial_shapes.svg" alt="(ref:bacshape)" width="70%" />
+<img src="./figures/prokaryotes/bacterial_shapes.svg" alt="(ref:bacshape)" width="70%" />
 <p class="caption">(\#fig:bacteriashape)(ref:bacshape)</p>
 </div>
 
@@ -74,11 +229,53 @@ In many bacteria, an S-layer of rigidly arrayed protein molecules covers the out
 (ref:hpyl) [Helicobacter pylori electron micrograph](https://commons.wikimedia.org/wiki/File:EMpylori.jpg), showing multiple flagella on the cell surface
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/EMpylori.jpg" alt="(ref:hpyl)" width="70%" />
+<img src="./figures/prokaryotes/EMpylori.jpg" alt="(ref:hpyl)" width="70%" />
 <p class="caption">(\#fig:helicopylori)(ref:hpyl)</p>
 </div>
 
 Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility. Flagella are driven by the energy released by the transfer of ions down an electrochemical gradient across the cell membrane.
+
+The bacterial flagellum is made up of the protein flagellin. Its shape is a 20-nanometer-thick hollow tube. It is helical and has a sharp bend just outside the outer membrane; this "hook" allows the axis of the helix to point directly away from the cell. A shaft runs between the hook and the basal body, passing through protein rings in the cell's membrane that act as bearings. Gram-positive organisms have two of these basal body rings, one in the peptidoglycan layer and one in the plasma membrane. Gram-negative organisms have four such rings: the L ring associates with the lipopolysaccharides, the P ring associates with peptidoglycan layer, the M ring is embedded in the plasma membrane, and the S ring is directly attached to the plasma membrane. The filament ends with a capping protein.
+
+(ref:flag) [Gram-negative bacterial flagellum](https://en.wikipedia.org/wiki/File:Flagellum_base_diagram-en.svg). A flagellum is a long, slender projection from the cell body, whose function is to propel a unicellular or small multicellular organism. The depicted type of flagellum is found in bacteria such as E. coli and Salmonella, and rotates like a propeller when the bacterium swims. The bacterial movement can be divided into 2 kinds: run, resulting from a counterclockwise rotation of the flagellum, and tumbling, from a clockwise rotation of the flagellum.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/prokaryotes/Flagellum_base_diagram-en.svg" alt="(ref:flag)" width="70%" />
+<p class="caption">(\#fig:flagellum)(ref:flag)</p>
+</div>
+
+The flagellar filament is the long, helical screw that propels the bacterium when rotated by the motor, through the hook. In most bacteria that have been studied, including the Gram-negative Escherichia coli, Salmonella typhimurium, Caulobacter crescentus, and Vibrio alginolyticus, the filament is made up of 11 protofilaments approximately parallel to the filament axis. Each protofilament is a series of tandem protein chains. However, Campylobacter jejuni has seven protofilaments.
+
+The basal body has several traits in common with some types of secretory pores, such as the hollow, rod-like "plug" in their centers extending out through the plasma membrane. The similarities between bacterial flagella and bacterial secretory system structures and proteins provide scientific evidence supporting the theory that bacterial flagella evolved from the type-three secretion system.
+
+The bacterial flagellum is driven by a rotary engine (Mot complex) made up of protein, located at the flagellum's anchor point on the inner cell membrane. The engine is powered by proton motive force, i.e., by the flow of protons (hydrogen ions) across the bacterial cell membrane due to a concentration gradient set up by the cell's metabolism (Vibrio species have two kinds of flagella, lateral and polar, and some are driven by a sodium ion pump rather than a proton pump). The rotor transports protons across the membrane, and is turned in the process. The rotor alone can operate at 6,000 to 17,000 rpm, but with the flagellar filament attached usually only reaches 200 to 1000 rpm. The direction of rotation can be changed by the flagellar motor switch almost instantaneously, caused by a slight change in the position of a protein, FliG, in the rotor. The flagellum is highly energy efficient and uses very little energy.[unreliable source?] The exact mechanism for torque generation is still poorly understood. Because the flagellar motor has no on-off switch, the protein epsE is used as a mechanical clutch to disengage the motor from the rotor, thus stopping the flagellum and allowing the bacterium to remain in one place.
+
+The cylindrical shape of flagella is suited to locomotion of microscopic organisms; these organisms operate at a low Reynolds number, where the viscosity of the surrounding water is much more important than its mass or inertia.
+
+The rotational speed of flagella varies in response to the intensity of the proton motive force, thereby permitting certain forms of speed control, and also permitting some types of bacteria to attain remarkable speeds in proportion to their size; some achieve roughly 60 cell lengths per second. At such a speed, a bacterium would take about 245 days to cover 1 km; although that may seem slow, the perspective changes when the concept of scale is introduced. In comparison to macroscopic life forms, it is very fast indeed when expressed in terms of number of body lengths per second. A cheetah, for example, only achieves about 25 body lengths per second.
+
+Through use of their flagella, E. coli is able to move rapidly towards attractants and away from repellents, by means of a biased random walk, with 'runs' and 'tumbles' brought about by rotating its flagellum counterclockwise and clockwise, respectively. The two directions of rotation are not identical (with respect to flagellum movement) and are selected by a molecular switch.
+
+During flagellar assembly, components of the flagellum pass through the hollow cores of the basal body and the nascent filament. During assembly, protein components are added at the flagellar tip rather than at the base. In vitro, flagellar filaments assemble spontaneously in a solution containing purified flagellin as the sole protein.
+
+At least 10 protein components of the bacterial flagellum share homologous proteins with the type three secretion system (T3SS) found in many gram-negative bacteria, hence one likely evolved from the other. Because the T3SS has a similar number of components as a flagellar apparatus (about 25 proteins), which one evolved first is difficult to determine. However, the flagellar system appears to involve more proteins overall, including various regulators and chaperones, hence it has been argued that flagella evolved from a T3SS. However, it has also been suggested that the flagellum may have evolved first or the two structures evolved in parallel. Early single-cell organisms' need for motility (mobility) support that the more mobile flagella would be selected by evolution first, but the T3SS evolving from the flagellum can be seen as 'reductive evolution', and receives no topological support from the phylogenetic trees. The hypothesis that the two structures evolved separately from a common ancestor accounts for the protein similarities between the two structures, as well as their functional diversity.
+
+Different species of bacteria have different numbers and arrangements of flagella.
+
+* Monotrichous bacteria have a single flagellum (e.g., Vibrio cholerae).
+* Lophotrichous bacteria have multiple flagella located at the same spot on the bacterial surfaces which act in concert to drive the bacteria in a single direction. In many cases, the bases of multiple flagella are surrounded by a specialized region of the cell membrane, called the polar organelle.[citation needed]
+* Amphitrichous bacteria have a single flagellum on each of two opposite ends (only one flagellum operates at a time, allowing the bacterium to reverse course rapidly by switching which flagellum is active).
+* Peritrichous bacteria have flagella projecting in all directions (e.g., E. coli).
+
+In certain large forms of Selenomonas, more than 30 individual flagella are organized outside the cell body, helically twining about each other to form a thick structure (easily visible with the light microscope) called a "fascicle".
+
+Spirochetes, in contrast, have flagella called endoflagella arising from opposite poles of the cell, and are located within the periplasmic space as shown by breaking the outer-membrane and also by electron cryotomography microscopy. The rotation of the filaments relative to the cell body causes the entire bacterium to move forward in a corkscrew-like motion, even through material viscous enough to prevent the passage of normally flagellated bacteria.
+
+Counterclockwise rotation of a monotrichous polar flagellum pushes the cell forward with the flagellum trailing behind, much like a corkscrew moving inside cork. Indeed, water on the microscopic scale is highly viscous, very different from our daily experience of water.
+
+Flagella are left-handed helices, and bundle and rotate together only when rotating counterclockwise. When some of the rotors reverse direction, the flagella unwind and the cell starts "tumbling". Even if all flagella would rotate clockwise, they likely will not form a bundle, due to geometrical, as well as hydrodynamic reasons. Such "tumbling" may happen occasionally, leading to the cell seemingly thrashing about in place, resulting in the reorientation of the cell. The clockwise rotation of a flagellum is suppressed by chemical compounds favorable to the cell (e.g. food), but the motor is highly adaptive to this. Therefore, when moving in a favorable direction, the concentration of the chemical attractant increases and "tumbles" are continually suppressed; however, when the cell's direction of motion is unfavorable (e.g., away from a chemical attractant), tumbles are no longer suppressed and occur much more often, with the chance that the cell will be thus reoriented in the correct direction.
+
+In some Vibrio spp. (particularly Vibrio parahaemolyticus) and related proteobacteria such as Aeromonas, two flagellar systems co-exist, using different sets of genes and different ion gradients for energy. The polar flagella are constitutively expressed and provide motility in bulk fluid, while the lateral flagella are expressed when the polar flagella meet too much resistance to turn. These provide swarming motility on surfaces or in viscous fluids.
 
 Fimbriae (sometimes called "attachment pili") are fine filaments of protein, usually 2–10 nanometres in diameter and up to several micrometres in length. They are distributed over the surface of the cell, and resemble fine hairs when seen under the electron microscope. Fimbriae are believed to be involved in attachment to solid surfaces or to other cells, and are essential for the virulence of some bacterial pathogens. Pili (sing. pilus) are cellular appendages, slightly larger than fimbriae, that can transfer genetic material between bacterial cells in a process called conjugation where they are called conjugation pili or sex pili (see bacterial genetics, below). They can also generate movement where they are called type IV pili.
 
@@ -93,7 +290,7 @@ Certain genera of Gram-positive bacteria, such as Bacillus, Clostridium, Sporoha
 (ref:endosp) [A stained preparation of the cell Bacillus subtilis showing endospores as green and the vegetative cell as red.](https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_Spore.jpg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/Bacillus_subtilis_Spore.jpg" alt="(ref:endosp)" width="70%" />
+<img src="./figures/prokaryotes/Bacillus_subtilis_Spore.jpg" alt="(ref:endosp)" width="70%" />
 <p class="caption">(\#fig:endospore)(ref:endosp)</p>
 </div>
 
@@ -102,7 +299,7 @@ Endospores show no detectable metabolism and can survive extreme physical and ch
 (ref:endospf) [Formation of an endospore through the process of sporulation.](https://commons.wikimedia.org/wiki/File:Endospore_Formation.png) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/Endospore_Formation.png" alt="(ref:endospf)" width="70%" />
+<img src="./figures/prokaryotes/Endospore_Formation.png" alt="(ref:endospf)" width="70%" />
 <p class="caption">(\#fig:endosporeform)(ref:endospf)</p>
 </div>
 
@@ -381,7 +578,7 @@ The phospholipids of archaea are unusual in four ways:
 (ref:membcomp) [A comparison of the membrane structures of Archaea, Bacteria and Eukarya. Top, an archaeal phospholipid: 1, isoprene chains; 2, ether linkages; 3, L-glycerol moiety; 4, phosphate group. Middle, a bacterial or eukaryotic phospholipid: 5, fatty acid chains; 6, ester linkages; 7, D-glycerol moiety; 8, phosphate group. Bottom: 9, lipid bilayer of bacteria and eukaryotes; 10, lipid monolayer of some archaea.](https://commons.wikimedia.org/wiki/File:Archaea_membrane.svg) 
 
 <div class="figure" style="text-align: center">
-<img src="./figures/bacteria/Archaea_membrane.svg" alt="(ref:membcomp)" width="70%" />
+<img src="./figures/prokaryotes/Archaea_membrane.svg" alt="(ref:membcomp)" width="70%" />
 <p class="caption">(\#fig:membranestruccomp)(ref:membcomp)</p>
 </div>
 
