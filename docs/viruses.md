@@ -245,7 +245,7 @@ Classification seeks to describe the diversity of viruses by naming and grouping
 ICTV classification
 The ICTV developed the current classification system and wrote guidelines that put a greater weight on certain virus properties to maintain family uniformity. A unified taxonomy (a universal system for classifying viruses) has been established. Only a small part of the total diversity of viruses has been studied. As of 2020, 6 realms, 10 kingdoms, 17 phyla, 2 subphyla, 39 classes, 59 orders, 8 suborders, 189 families, 136 subfamilies, 2,224 genera, 70 subgenera, and 9,110 species of viruses have been defined by the ICTV.
 
-## Baltimore Classification Of Viruses
+## The Baltimore Classification Of Viruses
 
 The Nobel Prize-winning biologist David Baltimore devised the Baltimore classification system. The ICTV classification system is used in conjunction with the Baltimore classification system in modern virus classification.
 
