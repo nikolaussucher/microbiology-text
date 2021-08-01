@@ -8,11 +8,11 @@ Optical microscopy and electron microscopy involve the diffraction, reflection, 
 
 The field of microscopy (optical microscopy) dates back to at least the 17th-century. Earlier microscopes, single lens magnifying glasses with limited magnification, date at least as far back as the wide spread use of lenses in eyeglasses in the 13th century but more advanced compound microscopes first appeared in Europe around 1620 The earliest practitioners of microscopy include Galileo Galilei, who found in 1610 that he could close focus his telescope to view small objects close up and Cornelis Drebbel, who may have invented the compound microscope around 1620 Antonie van Leeuwenhoek developed a very high magnification simple microscope in the 1670s and is often considered to be the first acknowledged microscopist and microbiologist.
 
-## Light Microscopy
+### Light Microscopy
 
 Optical or light microscopy involves passing visible light transmitted through or reflected from the sample through a single lens or multiple lenses to allow a magnified view of the sample. The resulting image can be detected directly by the eye, imaged on a photographic plate, or captured digitally. The single lens with its attachments, or the system of lenses and imaging equipment, along with the appropriate lighting equipment, sample stage, and support, makes up the basic light microscope. The most recent development is the digital microscope, which uses a CCD camera to focus on the exhibit of interest. The image is shown on a computer screen, so eye-pieces are unnecessary.
 
-## The Optical (Light) Microscope
+### The Optical (Light) Microscope
 
 The optical microscope, also referred to as a light microscope, is a type of microscope that commonly uses visible light and a system of lenses to generate magnified images of small objects. Optical microscopes are the oldest design of microscope and were possibly invented in their present compound form in the 17th century. Basic optical microscopes can be very simple, although many complex designs aim to improve resolution and sample contrast.
 
@@ -34,7 +34,7 @@ A simple microscope uses a lens or set of lenses to enlarge an object through an
 
 A compound microscope uses a lens close to the object being viewed to collect light (called the objective lens) which focuses a real image of the object inside the microscope (image 1). That image is then magnified by a second lens or group of lenses (called the eyepiece) that gives the viewer an enlarged inverted virtual image of the object (image 2). The use of a compound objective/eyepiece combination allows for much higher magnification. Common compound microscopes often feature exchangeable objective lenses, allowing the user to quickly adjust the magnification. A compound microscope also enables more advanced illumination setups, such as phase contrast.
 
-### Main Components of The Light Microscope
+### The Main Components Of The Light Microscope
 
 All modern optical microscopes designed for viewing samples by transmitted light share the same basic components of the light path. In addition, the vast majority of microscopes have the same 'structural' components (numbered below according to the image on the right):
 
@@ -64,17 +64,17 @@ At the lower end of a typical compound optical microscope, there are one or more
 
 Some microscopes make use of oil-immersion objectives or water-immersion objectives for greater resolution at high magnification. These are used with index-matching material such as immersion oil or water and a matched cover slip between the objective lens and the sample. The refractive index of the index-matching material is higher than air allowing the objective lens to have a larger numerical aperture (greater than 1) so that the light is transmitted from the specimen to the outer face of the objective lens with minimal refraction. Numerical apertures as high as 1.6 can be achieved. The larger numerical aperture allows collection of more light making detailed observation of smaller details possible. An oil immersion lens usually has a magnification of 40 to 100×.
 
-### Focus knobs
+### Focus Knobs
 
 Adjustment knobs move the stage up and down with separate adjustment for coarse and fine focusing. The same controls enable the microscope to adjust to specimens of different thickness. In older designs of microscopes, the focus adjustment wheels move the microscope tube up or down relative to the stand and had a fixed stage.
 
-### Frame
+### The Frame
 
 The whole of the optical assembly is traditionally attached to a rigid arm, which in turn is attached to a robust U-shaped foot to provide the necessary rigidity. The arm angle may be adjustable to allow the viewing angle to be adjusted.
 
 The frame provides a mounting point for various microscope controls. Normally this will include controls for focusing, typically a large knurled wheel to adjust coarse focus, together with a smaller knurled wheel to control fine focus. Other features may be lamp controls and/or controls for adjusting the condenser.
 
-### Stage
+### The  Stage
 
 The stage is a platform below the objective lens which supports the specimen being viewed. In the center of the stage is a hole through which light passes to illuminate the specimen. The stage usually has arms to hold slides (rectangular glass plates with typical dimensions of 25×75 mm, on which the specimen is mounted).
 
@@ -86,19 +86,17 @@ Focusing starts at lower magnification in order to center the specimen by the us
 
 Due to the difficulty in preparing specimens and mounting them on slides, for children it's best to begin with prepared slides that are centered and focus easily regardless of the focus level used.
 
-### Light Source
+### The Light Source
 
 Many sources of light can be used. At its simplest, daylight is directed via a mirror. Most microscopes, however, have their own adjustable and controllable light source – often a halogen lamp, although illumination using LEDs and lasers are becoming a more common provision. Köhler illumination is often provided on more expensive instruments.
 
-### Condenser
+### The Condenser
 
 The condenser is a lens designed to focus light from the illumination source onto the sample. The condenser may also include other features, such as a diaphragm and/or filters, to manage the quality and intensity of the illumination. For illumination techniques like dark field, phase contrast and differential interference contrast microscopy additional optical components must be precisely aligned in the light path.
 
 ### Magnification
 
 The actual power or magnification of a compound optical microscope is the product of the powers of the ocular (eyepiece) and the objective lens. The maximum normal magnifications of the ocular and objective are 10× and 100× respectively, giving a final magnification of 1,000×.
-
-### Magnification and Micrographs
 
 When using a camera to capture a micrograph the effective magnification of the image must take into account the size of the image. This is independent of whether it is on a print from a film negative or displayed digitally on a computer screen.
 
@@ -112,7 +110,7 @@ $$ d={\frac {\lambda }{2NA}}$$
         	                	
 Usually a wavelength of 550 nm is assumed, which corresponds to green light. With air as the external medium, the highest practical NA is 0.95, and with oil, up to 1.5. In practice the lowest value of d obtainable with conventional lenses is about 200 nm. A new type of lens using multiple scattering of light allowed to improve the resolution to below 100 nm.
 
-## The Microscope Slide
+### The Microscope Slide
 
 A microscope slide is a thin flat piece of glass, typically 75 by 26 mm (3 by 1 inches) and about 1 mm thick, used to hold objects for examination under a microscope. Typically the object is mounted (secured) on the slide, and then both are inserted together in the microscope for viewing. This arrangement allows several slide-mounted objects to be quickly inserted and removed from the microscope, labeled, transported, and stored in appropriate slide cases or folders etc.
 
@@ -134,11 +132,11 @@ In a dry mount, the simplest kind of mounting, the object is merely placed on th
 
 In a wet mount, the specimen is placed in a drop of water or other liquid held between the slide and the cover slip by surface tension. This method is commonly used, for example, to view microscopic organisms that grow in pond water or other liquid media, especially when studying their movement and behavior. Care must be taken to exclude air bubbles that would interfere with the viewing and hamper the organisms' movements. An example of a temporary wet mount is a lactofuchsin mount, which provides both a sample mounting, as well as a fuchsine staining.
 
-### Prepared Mount or Permanent Mount
+### Prepared Mount Or Permanent Mount
 
 For pathological and biological research, the specimen usually undergoes a complex histological preparation that involves fixing it to prevent decay, removing any water contained in it, replacing the water with paraffin, cutting it into very thin sections using a microtome, placing the sections on a microscope slide, staining the tissue using various stains to reveal specific tissue components, clearing the tissue to render it transparent and covering it with a coverslip and mounting medium.
 
-## Techniques Of Optical Microscopy
+### Techniques Of Optical Microscopy
 
 Optical or light microscopy involves passing visible light transmitted through or reflected from the sample through a single lens or multiple lenses to allow a magnified view of the sample.[11] The resulting image can be detected directly by the eye, imaged on a photographic plate, or captured digitally. The single lens with its attachments, or the system of lenses and imaging equipment, along with the appropriate lighting equipment, sample stage, and support, makes up the basic light microscope. The most recent development is the digital microscope, which uses a CCD camera to focus on the exhibit of interest. The image is shown on a computer screen, so eye-pieces are unnecessary.
 
@@ -190,7 +188,7 @@ An additional technique using interference is interference reflection microscopy
 
 Interference reflection microscopy can be obtained by using the same elements used by DIC, but without the prisms. Also, the light that is being detected is reflected and not transmitted as it is when DIC is employed.
 
-### Fluorescence
+### Fluorescence Microscopy
 
 When certain compounds are illuminated with high energy light, they emit light of a lower frequency. This effect is known as fluorescence. Often specimens show their characteristic autofluorescence image, based on their chemical makeup.
 
@@ -206,7 +204,7 @@ Since fluorescence emission differs in wavelength (color) from the excitation li
 
 To block the excitation light from reaching the observer or the detector, filter sets of high quality are needed. These typically consist of an excitation filter selecting the range of excitation wavelengths, a dichroic mirror, and an emission filter blocking the excitation light. Most fluorescence microscopes are operated in the Epi-illumination mode (illumination and detection from one side of the sample) to further decrease the amount of excitation light entering the detector.
 
-### Confocal
+### Confoca Microscopy
 
 Confocal laser scanning microscopy uses a focused laser beam (e.g. 488 nm) that is scanned across the sample to excite fluorescence in a point-by-point fashion. The emitted light is directed through a pinhole to prevent out-of-focus light from reaching the detector, typically a photomultiplier tube. The image is constructed in a computer, plotting the measured fluorescence intensities according to the position of the excitation laser. Compared to full sample illumination, confocal microscopy gives slightly higher lateral resolution and significantly improves optical sectioning (axial resolution). Confocal microscopy is, therefore, commonly used where 3D structure is important.
 
@@ -216,7 +214,7 @@ A subclass of confocal microscopes are spinning disc microscopes which are able 
 
 A two-photon microscope is also a laser-scanning microscope, but instead of UV, blue or green laser light, a pulsed infrared laser is used for excitation. Only in the tiny focus of the laser is the intensity high enough to generate fluorescence by two-photon excitation, which means that no out-of-focus fluorescence is generated, and no pinhole is necessary to clean up the image. This allows imaging deep in scattering tissue, where a confocal microscope would not be able to collect photons efficiently. Two-photon microscopes with wide-field detection are frequently used for functional imaging, e.g. calcium imaging, in brain tissue. They are marketed as Multiphoton microscopes by several companies, although the gains of using 3-photon instead of 2-photon excitation are marginal.
 
-## Gram Stain
+## The Gram Stain
 
 Gram stain or Gram staining, also called Gram's method, is a method of staining used to distinguish and classify bacterial species into two large groups: gram-positive bacteria and gram-negative bacteria. The name comes from the Danish bacteriologist Hans Christian Gram, who developed the technique.
 
@@ -253,7 +251,7 @@ When a decolorizer such as alcohol or acetone is added, it interacts with the li
 
 After decolorization, the gram-positive cell remains purple and the gram-negative cell loses its purple color. Counterstain, which is usually positively charged safranin or basic fuchsine, is applied last to give decolorized gram-negative bacteria a pink or red color. Both gram-positive bacteria and gram-negative bacteria pick up the counterstain. The counterstain, however, is unseen on gram-positive bacteria because of the darker crystal violet stain.
 
-## Gram-Positive Bacteria
+### Gram-Positive Bacteria
 
 Gram-positive bacteria generally have a single membrane (monoderm) surrounded by a thick peptidoglycan. This rule is followed by two phyla: Firmicutes (except for the classes Mollicutes and Negativicutes) and the Actinobacteria. In contrast, members of the Chloroflexi (green non-sulfur bacteria) are monoderms but possess a thin or absent (class Dehalococcoidetes) peptidoglycan and can stain negative, positive or indeterminate; members of the Deinococcus–Thermus group stain positive but are diderms with a thick peptidoglycan.[page needed]
 
@@ -261,11 +259,12 @@ Historically, the gram-positive forms made up the phylum Firmicutes, a name now 
 
 Some bacteria have cell walls which are particularly adept at retaining stains. These will appear positive by Gram stain even though they are not closely related to other gram-positive bacteria. These are called acid-fast bacteria, and can only be differentiated from other gram-positive bacteria by special staining procedures.
 
-## Gram-Negative Bacteria
+### Gram-Negative Bacteria
 
 Gram-negative bacteria generally possess a thin layer of peptidoglycan between two membranes (diderm). Lipopolysaccharide (LPS) is the most abundant antigen on the cell surface of most Gram-negative bacteria, contributing up to 80% of the outer membrane of E. coli and Salmonella. Most bacterial phyla are gram-negative, including the cyanobacteria, green sulfur bacteria, and most Proteobacteria (exceptions being some members of the Rickettsiales and the insect-endosymbionts of the Enterobacteriales).[page needed]
 
-## Gram-Variable and Gram-Indeterminate Bacteria
+### Gram-Variable and Gram-Indeterminate Bacteria
+
 Some bacteria, after staining with the Gram stain, yield a gram-variable pattern: a mix of pink and purple cells are seen. In cultures of Bacillus, Butyrivibrio, and Clostridium, a decrease in peptidoglycan thickness during growth coincides with an increase in the number of cells that stain gram-negative. In addition, in all bacteria stained using the Gram stain, the age of the culture may influence the results of the stain.
 
 Gram-indeterminate bacteria do not respond predictably to Gram staining and, therefore, cannot be determined as either gram-positive or gram-negative. Examples include many species of Mycobacterium, including Mycobacterium bovis, Mycobactrium leprae and Mycobacterium tuberculosis, the latter two of which are the causative agents of leprosy and tuberculosis, respectively. Bacteria of the genus Mycoplasma lack a cell wall around their cell membranes,  which means they do not stain by Gram's method and are resistant to the antibiotics that target cell wall synthesis.
@@ -274,7 +273,7 @@ Gram-indeterminate bacteria do not respond predictably to Gram staining and, the
 
 Until the invention of sub-diffraction microscopy, the wavelength of the light limited the resolution of traditional microscopy to around 0.2 micrometers. In order to gain higher resolution, the use of an electron beam with a far smaller wavelength is used in electron microscopes.
 
-### Transmission Electron Microscope (TEM)
+### The Transmission Electron Microscope (TEM)
 
 The original form of the electron microscope, the transmission electron microscope (TEM), uses a high voltage electron beam to illuminate the specimen and create an image. The electron beam is produced by an electron gun, commonly fitted with a tungsten filament cathode as the electron source. The electron beam is accelerated by an anode typically at +100 keV (40 to 400 keV) with respect to the cathode, focused by electrostatic and electromagnetic lenses, and transmitted through the specimen that is in part transparent to electrons and in part scatters them out of the beam. When it emerges from the specimen, the electron beam carries information about the structure of the specimen that is magnified by the objective lens system of the microscope. The spatial variation in this information (the "image") may be viewed by projecting the magnified electron image onto a fluorescent viewing screen coated with a phosphor or scintillator material such as zinc sulfide. Alternatively, the image can be photographically recorded by exposing a photographic film or plate directly to the electron beam, or a high-resolution phosphor may be coupled by means of a lens optical system or a fibre optic light-guide to the sensor of a digital camera. The image detected by the digital camera may be displayed on a monitor or computer.
 
@@ -284,7 +283,7 @@ Transmission electron microscopes are often used in electron diffraction mode. T
 
 One major disadvantage of the transmission electron microscope is the need for extremely thin sections of the specimens, typically about 100 nanometers. Creating these thin sections for biological and materials specimens is technically very challenging. Semiconductor thin sections can be made using a focused ion beam. Biological tissue specimens are chemically fixed, dehydrated and embedded in a polymer resin to stabilize them sufficiently to allow ultrathin sectioning. Sections of biological specimens, organic polymers, and similar materials may require staining with heavy atom labels in order to achieve the required image contrast.
 
-### Scanning Electron Microscope (SEM)
+### The Scanning Electron Microscope (SEM)
 
 The SEM produces images by probing the specimen with a focused electron beam that is scanned across a rectangular area of the specimen (raster scanning). When the electron beam interacts with the specimen, it loses energy by a variety of mechanisms. The lost energy is converted into alternative forms such as heat, emission of low-energy secondary electrons and high-energy backscattered electrons, light emission (cathodoluminescence) or X-ray emission, all of which provide signals carrying information about the properties of the specimen surface, such as its topography and composition. The image displayed by an SEM maps the varying intensity of any of these signals into the image in a position corresponding to the position of the beam on the specimen when the signal was generated. In the SEM image of an ant shown below and to the right, the image was constructed from signals produced by a secondary electron detector, the normal or conventional imaging mode in most SEMs.
 
@@ -316,7 +315,7 @@ Liquid cultures are ideal for preparation of an antimicrobial assay in which the
 
 As an alternative, the microbiologist may decide to use static liquid cultures. These cultures are not shaken and they provide the microbes with an oxygen gradient.
 
-### Agar plates
+### Agar Plates
 
 Microbiological cultures can be grown in petri dishes of differing sizes that have a thin layer of agar-based growth medium. Once the growth medium in the petri dish is inoculated with the desired bacteria, the plates are incubated at the optimal temperature for the growing of the selected bacteria (for example, usually at 37 degrees Celsius, or the human body temperature, for cultures from humans or animals, or lower for environmental cultures). After the desired level of growth is achieved, agar plates can be stored upside down in a refrigerator for an extended period of time to keep bacteria for future experiments.
 
@@ -324,11 +323,11 @@ There are a variety of additives that can be added to agar before it is poured i
 
 Miniaturised version of agar plates implemented to dipstick formats, eg. Dip Slide, Digital Dipstick  show potential to be used at the point-of-care for diagnosis purposes. They have advantages over agar plates since they are cost effective and their operation does not require expertise or laboratory environment, which enable them to be used at the point-of-care.
 
-### Stab cultures
+### Stab Cultures
 
 Stab cultures are similar to agar plates, but are formed by solid agar in a test tube. Bacteria is introduced via an inoculation needle or a pipette tip being stabbed into the center of the agar. Bacteria grow in the punctured area. Stab cultures are most commonly used for short-term storage or shipment of cultures.
 
-## Culture collections
+## Culture Collections
 
 Microbial culture collections focus on the acquisition, authentication, production, preservation, catalogueing and distribution of viable cultures of standard reference microorganisms, cell lines and other materials for research in microbial systematics. Culture collection are also repositories of type strains.
 
@@ -353,7 +352,7 @@ A good example of a growth medium is the wort used to make beer. The wort contai
 * transport media
 * indicator media
 
-### Culture media
+### Culture Media
 
 Culture media contain all the elements that most bacteria need for growth and are not selective, so they are used for the general cultivation and maintenance of bacteria kept in laboratory culture collections.
 An undefined medium (also known as a basal or complex medium) contains:
@@ -388,7 +387,7 @@ Minimal medium typically contains:
 
 Supplementary minimal media are minimal media that also contains a single selected agent, usually an amino acid or a sugar. This supplementation allows for the culturing of specific lines of auxotrophic recombinants.
 
-### Selective media
+### Selective Media
 
 Selective media are used for the growth of only selected microorganisms. For example, if a microorganism is resistant to a certain antibiotic, such as ampicillin or tetracycline, then that antibiotic can be added to the medium to prevent other cells, which do not possess the resistance, from growing. Media lacking an amino acid such as proline in conjunction with E. coli unable to synthesize it were commonly used by geneticists before the emergence of genomics to map bacterial chromosomes.
 
@@ -423,7 +422,7 @@ Examples of differential media:
 * Mannitol salt agar is differential for mannitol fermentation.
 * X-gal plates are differential for lac operon mutants.
 
-### Transport media
+### Transport Media
 
 Transport media should fulfill these criteria:
 
@@ -440,7 +439,7 @@ Examples of transport media:
 * Certain bacterial inhibitors are used for gonococci, and buffered glycerol saline for enteric bacilli.
 * Venkataraman Ramakrishna (VR) medium is used for V. cholerae.dd
 
-### Enriched media
+### Enriched Media
 
 Enriched media contain the nutrients required to support the growth of a wide variety of organisms, including some of the more fastidious ones. They are commonly used to harvest as many different types of microbes as are present in the specimen. Blood agar is an enriched medium in which nutritionally rich whole blood supplements the basic nutrients. Chocolate agar is enriched with heat-treated blood (40–45 °C or 104–113 °F), which turns brown and gives the medium the color for which it is named.
 
@@ -467,11 +466,11 @@ The plates are incubated for 12 hours up to several days depending on the test t
 
 Some commonly used agar plate types are:
 
-### Blood agar plate
+### Blood Agar Plate
 
 Blood agar plates (BAPs) contain mammalian blood (usually sheep or horse), typically at a concentration of 5–10%. BAPs are enriched, differential media used to isolate fastidious organisms and detect hemolytic activity. β-Hemolytic activity will show lysis and complete digestion of red blood cell contents surrounding a colony. Examples include Streptococcus haemolyticus. α-Hemolysis will only cause partial lysis of the red blood cells (the cell membrane is left intact) and will appear green or brown, due to the conversion of hemoglobin to methemoglobin. An example of this would be Streptococcus viridans. γ-Hemolysis (or nonhemolytic) is the term referring to a lack of hemolytic activity. BAPs also contain meat extract, tryptone, sodium chloride, and agar.
 
-### Chocolate agar
+### Chocolate Agar
 
 Chocolate agar a type of blood agar plate in which the blood cells have been lysed by heating the cells to 80 °C. It is used for growing fastidious respiratory bacteria, such as Haemophilus influenzae. No chocolate is actually contained in the plate; it is named for the coloration only.
 

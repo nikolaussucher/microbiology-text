@@ -16,7 +16,6 @@ In classical physics and general chemistry, matter (from Latin materia meaning �
 
 Usually atoms can be imagined as a nucleus of protons and neutrons, and a surrounding "cloud" of orbiting electrons which "take up space". However this is only somewhat correct, because subatomic particles and their properties are governed by their quantum nature, which means they do not act as everyday objects appear to act – they can act like waves as well as particles and they do not have well-defined sizes or positions. In the Standard Model of particle physics, matter is not a fundamental concept because the elementary constituents of atoms are quantum entities which do not have an inherent "size" or "volume" in any everyday sense of the word. Due to the exclusion principle and other fundamental interactions, some "point particles" known as fermions (quarks, leptons), and many composites and atoms, are effectively forced to keep a distance from other particles under everyday conditions; this creates the property of matter which appears to us as matter taking up space.
 
-
 ## The Atom
 
 An atom is the smallest unit of ordinary matter that forms a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are extremely small, typically around 100 picometers across. They are so small that accurately predicting their behavior using classical physics—as if they were tennis balls, for example—is not possible due to quantum effects. The word atom is derived from Ancient Greek ἄτομος (átomos, “indivisible”), from ἀ- (a-, “not”) + τέμνω (témnō, “I cut”), which means "uncuttable".
@@ -103,6 +102,7 @@ The electrons in an atom are described by a unique set of values of four so-call
 ```{r atomicorbitals, fig.cap='(ref:atomorb)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/chemistry/S-p-Orbitals.svg")
 ```
+
 Several rules govern the placement of electrons in orbitals in each atom referred to as the atom's electron configuration. The first dictates that no two electrons in an atom may have the same set of values of quantum numbers (this is the Pauli exclusion principle). These quantum numbers include the three that define orbitals, as well as s, or spin quantum number. Thus, two electrons may occupy a single orbital, so long as they have different values of s. However, only two electrons, because of their spin, can be associated with each orbital.
 
 Additionally, an electron always tends to fall to the lowest possible energy state. It is possible for it to occupy any orbital so long as it does not violate the Pauli exclusion principle, but if lower-energy orbitals are available, this condition is unstable. The electron will eventually lose energy (by releasing a photon) and drop into the lower orbital. Thus, electrons fill orbitals in the order specified by the energy sequence given above. This behavior is responsible for the structure of the periodic table.
@@ -384,13 +384,12 @@ It is the decrease in pH that signals the brain to breathe faster and deeper, ex
 
 Cell membranes are generally impermeable to charged or large, polar molecules because of the lipophilic fatty acyl chains comprising their interior. Many biologically important molecules, including a number of pharmaceutical agents, are organic weak acids which can cross the membrane in their protonated, uncharged form but not in their charged form (i.e. as the conjugate base). For this reason the activity of many drugs can be enhanced or inhibited by the use of antacids or acidic foods. The charged form, however, is often more soluble in blood and cytosol, both aqueous environments. When the extracellular environment is more acidic than the neutral pH within the cell, certain acids will exist in their neutral form and will be membrane soluble, allowing them to cross the phospholipid bilayer. Acids that lose a proton at the intracellular pH will exist in their soluble, charged form and are thus able to diffuse through the cytosol to their target. Ibuprofen, aspirin and penicillin are examples of drugs that are weak acids.
 
-## Redox
+## Reduction-oxidation (Redox) Reactions
 
 Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers. The chemical species from which the electron is removed is said to have been oxidized, while the chemical species to which the electron is added is said to have been reduced. In other words:
 
 * Oxidation is the loss of electrons or an increase in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
 * Reduction is the gain of electrons or a decrease in the oxidation state of an atom, an ion, or of certain atoms in a molecule.
-
 
 "Redox" is a portmanteau of the words "reduction" and "oxidation". The word oxidation originally implied reaction with oxygen to form an oxide, since dioxygen (O~2~)(g)) was historically the first recognized oxidizing agent. Later, the term was expanded to encompass oxygen-like substances that accomplished parallel chemical reactions. Ultimately, the meaning was generalized to include all processes involving loss of electrons.
 
@@ -422,7 +421,7 @@ Free radical reactions are redox reactions that occur as a part of homeostasis a
 
 The term redox state is often used to describe the balance of GSH/GSSG, NAD^+^/NADH and NADP^+^/NADPH in a biological system such as a cell or organ. The redox state is reflected in the balance of several sets of metabolites (e.g., lactate and pyruvate, beta-hydroxybutyrate, and acetoacetate), whose interconversion is dependent on these ratios. An abnormal redox state can develop in a variety of deleterious situations, such as hypoxia, shock, and sepsis. Redox mechanism also control some cellular processes. Redox proteins and their genes must be co-located for redox regulation according to the CoRR hypothesis for the function of DNA in mitochondria and chloroplasts.
 
-## Water
+## The Chemistry Of Water
 
 Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of all known living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients. Its chemical formula is H~2~O, meaning that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds.
 
@@ -503,7 +502,7 @@ In the early part of the 20th century, polymers and enzymes were shown to be lar
 
 The majority of chemical compounds occurring in biological organisms are carbon compounds, so the association between organic chemistry and biochemistry is so close that biochemistry might be regarded as in essence a branch of organic chemistry. Although the history of biochemistry might be taken to span some four centuries, fundamental understanding of the field only began to develop in the late 19th century and the actual term biochemistry was coined around the start of 20th century.
 
-## Functional groups
+## Functional Groups
 
 The concept of functional groups is central in organic chemistry, both as a means to classify structures and for predicting properties. A functional group is a molecular module, and the reactivity of that functional group is assumed, within limits, to be the same in a variety of molecules. Functional groups can have a decisive influence on the chemical and physical properties of organic compounds. Molecules are classified based on their functional groups. Alcohols, for example, all have the subunit C-O-H. All alcohols tend to be somewhat hydrophilic, usually form esters, and usually can be converted to the corresponding halides. Most functional groups feature heteroatoms (atoms other than C and H). Organic compounds are classified according to functional groups, alcohols, carboxylic acids, amines, etc.
 

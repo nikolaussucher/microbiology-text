@@ -24,7 +24,7 @@ Microorganisms tend to have a relatively fast rate of evolution. Most microorgan
 
 A possible transitional form of microorganism between a prokaryote and a eukaryote was discovered in 2012 by Japanese scientists. Parakaryon myojinensis is a unique microorganism larger than a typical prokaryote, but with nuclear material enclosed in a membrane as in a eukaryote, and the presence of endosymbionts. This is seen to be the first plausible evolutionary form of microorganism, showing a stage of development from the prokaryote to the eukaryote.
 
-## Archaea
+### Archaea
 
 Archaea are prokaryotic unicellular organisms, and form the first domain of life, in Carl Woese's three-domain system. A prokaryote is defined as having no cell nucleus or other membrane bound-organelle. Archaea share this defining feature with the bacteria with which they were once grouped. In 1990 the microbiologist Woese proposed the three-domain system that divided living things into bacteria, archaea and eukaryotes, and thereby split the prokaryote domain.
 
@@ -34,13 +34,13 @@ The combined domains of archaea and bacteria make up the most diverse and abunda
 
 The biodiversity of the prokaryotes is unknown, but may be very large. A May 2016 estimate, based on laws of scaling from known numbers of species against the size of organism, gives an estimate of perhaps 1 trillion species on the planet, of which most would be microorganisms. Currently, only one-thousandth of one percent of that total have been described. Archael cells of some species aggregate and transfer DNA from one cell to another through direct contact, particularly under stressful environmental conditions that cause DNA damage.
 
-## Bacteria
+### Bacteria
 
 Bacteria like archaea are prokaryotic – unicellular, and having no cell nucleus or other membrane-bound organelle. Bacteria are microscopic, with a few extremely rare exceptions, such as Thiomargarita namibiensis. Bacteria function and reproduce as individual cells, but they can often aggregate in multicellular colonies. Some species such as myxobacteria can aggregate into complex swarming structures, operating as multicellular groups as part of their life cycle, or form clusters in bacterial colonies such as E.coli.
 
 Their genome is usually a circular bacterial chromosome – a single loop of DNA, although they can also harbor small pieces of DNA called plasmids. These plasmids can be transferred between cells through bacterial conjugation. Bacteria have an enclosing cell wall, which provides strength and rigidity to their cells. They reproduce by binary fission or sometimes by budding, but do not undergo meiotic sexual reproduction. However, many bacterial species can transfer DNA between individual cells by a horizontal gene transfer process referred to as natural transformation. Some species form extraordinarily resilient spores, but for bacteria this is a mechanism for survival, not reproduction. Under optimal conditions bacteria can grow extremely rapidly and their numbers can double as quickly as every 20 minutes.
 
-## Eukaryotes
+### Eukaryotes
 
 Most living things that are visible to the naked eye in their adult form are eukaryotes, including humans. However, many eukaryotes are also microorganisms. Unlike bacteria and archaea, eukaryotes contain organelles such as the cell nucleus, the Golgi apparatus and mitochondria in their cells. The nucleus is an organelle that houses the DNA that makes up a cell's genome. DNA (Deoxyribonucleic acid) itself is arranged in complex chromosomes. Mitochondria are organelles vital in metabolism as they are the site of the citric acid cycle and oxidative phosphorylation. They evolved from symbiotic bacteria and retain a remnant genome. Like bacteria, plant cells have cell walls, and contain organelles such as chloroplasts in addition to the organelles in other eukaryotes. Chloroplasts produce energy from light by photosynthesis, and were also originally symbiotic bacteria.
 
@@ -48,15 +48,15 @@ Unicellular eukaryotes consist of a single cell throughout their life cycle. Thi
 
 Unicellular eukaryotes usually reproduce asexually by mitosis under favorable conditions. However, under stressful conditions such as nutrient limitations and other conditions associated with DNA damage, they tend to reproduce sexually by meiosis and syngamy.
 
-## Protists
+### Protists
 
 Of eukaryotic groups, the protists are most commonly unicellular and microscopic. This is a highly diverse group of organisms that are not easy to classify. Several algae species are multicellular protists, and slime molds have unique life cycles that involve switching between unicellular, colonial, and multicellular forms. The number of species of protists is unknown since only a small proportion has been identified. Protist diversity is high in oceans, deep sea-vents, river sediment and an acidic river, suggesting that many eukaryotic microbial communities may yet be discovered.
 
-## Fungi
+### Fungi
 
 The fungi have several unicellular species, such as baker's yeast (Saccharomyces cerevisiae) and fission yeast (Schizosaccharomyces pombe). Some fungi, such as the pathogenic yeast Candida albicans, can undergo phenotypic switching and grow as single cells in some environments, and filamentous hyphae in others.
 
-## Plants
+### Plants
 
 The green algae are a large group of photosynthetic eukaryotes that include many microscopic organisms. Although some green algae are classified as protists, others such as charophyta are classified with embryophyte plants, which are the most familiar group of land plants. Algae can grow as single cells, or in long chains of cells. The green algae include unicellular and colonial flagellates, usually but not always with two flagella per cell, as well as various colonial, coccoid, and filamentous forms. In the Charales, which are the algae most closely related to higher plants, cells differentiate into several distinct tissues within the organism. There are about 6000 species of green algae.
 
@@ -66,7 +66,7 @@ Microorganisms are found in almost every habitat present in nature, including ho
 
 Bacteria use regulatory networks that allow them to adapt to almost every environmental niche on earth. A network of interactions among diverse types of molecules including DNA, RNA, proteins and metabolites, is utilised by the bacteria to achieve regulation of gene expression. In bacteria, the principal function of regulatory networks is to control the response to environmental changes, for example nutritional status and environmental stress. A complex organization of networks permits the microorganism to coordinate and integrate multiple environmental signals.
 
-## Microbiome
+### Microbiome
 
 The word microbiome (from the Greek micro meaning "small" and bíos meaning "life") was first used by J.L. Mohr in 1952 in The Scientific Monthly to mean the microorganisms found in a specific environment. It was defined in 1988 by Whipps et al. as "a characteristic microbial community occupying a reasonably well-defined habitat which has distinct physio-chemical properties. The term thus not only refers to the microorganisms involved but also encompasses their theatre of activity".
 
@@ -103,7 +103,7 @@ The panel extended the Whipps et al. definition, which contains all important po
 * The microbiome is defined as a characteristic microbial community occupying a reasonable well-defined habitat which has distinct physio-chemical properties. The microbiome not only refers to the microorganisms involved but also encompass their theatre of activity, which results in the formation of specific ecological niches. The microbiome, which forms a dynamic and interactive micro-ecosystem prone to change in time and scale, is integrated in macro-ecosystems including eukaryotic hosts, and here crucial for their functioning and health.
 * The microbiota consists of the assembly of microorganisms belonging to different kingdoms (prokaryotes (bacteria, archaea), eukaryotes (algae, protozoa, fungi etc), while "their theatre of activity" includes microbial structures, metabolites, mobile genetic elements (such as transposons, phages, and viruses), and relic DNA embedded in the environmental conditions of the habitat.
 
-Microbiota – members of the microbiome
+### Microbiota – members of the microbiome
 
 The microbiota comprises all living members forming the microbiome. Most microbiome researchers agree bacteria, archaea, fungi, algae, and small protists should be considered as members of the microbiome. The integration of phages, viruses, plasmids, and mobile genetic elements is a more controversial issue in the definition of the microbiome. There is also no clear consensus as to whether extracellular DNA derived from dead cells, so-called "relic DNA", belongs to the microbiome. Relic DNA can be up to 40% of the sequenced DNA in soil, and was up to 33% of the total bacterial DNA on average in a broader analysis of habitats with the highest proportion of 80% in some samples. Despite its omnipresence and abundance, relic DNA had a minimal effect on estimates of taxonomic and phylogenetic diversity.
 
@@ -113,7 +113,7 @@ The term microbiome, as it was originally postulated by Whipps and coworkers, in
 
 Microbiome studies sometimes focus on the behaviour of a specific group of microbiota, generally in relation to or justified by a clear hypothesis. More and more terms like bacteriome, archaeome, mycobiome, or virome have started appearing in the scientific literature, but these terms do not refer to biomes (a regional ecosystem with a distinct assemblage of (micro) organisms, and physical environment often reflecting a certain climate and soil) as the microbiome itself. Consequently, it would be better to use the original terms (bacterial, archaeal, or fungal community). In contrast to the microbiota, which can be studied separately, the microbiome is always composed by all members, which interact with each other, live in the same habitat, and form their ecological niche together. The well-established term virome is derived from virus and genome and is used to describe viral shotgun metagenomes consisting of a collection of nucleic acids associated with a particular ecosystem or holobiont. Viral metagenomes can be suggested as a semantically and scientifically better term.
 
-Microbial networks and interactionsMicrobial networks and interactions
+### Microbial Networks And Interaction
 
 Microbes interact with one another, and these symbiotic interactions have diverse consequences for microbial fitness, population dynamics, and functional capacities within the microbiome. These interactions can either be between microorganisms of the same species or between different species, genera, families, and domains of life. The interactive patterns within these webs may be positive (mutualism, synergism, or commensalism), negative (amensalism [including predation, parasitism, antagonism, or competition]), or neutral—where there is no (or no observed) effect on the functional capacities or fitness of interacting species (see diagram at right) Microbial life strategy concepts (i.e., copiotrophic and oligotrophic strategists and competitor–stress tolerator–ruderals framework) can influence outcomes of interactions. For example, microorganisms competing for the same source can also benefit from each other when competing for the same compound at different trophic levels. Stability of a complex microbial ecosystem depends on trophic interactions for the same substrate at different concentration levels. As of 2020 microbial social adaptations in nature have been understudied. Here molecular markers can provide insight into social adaptations by supporting the theories, e.g., of altruists and cheaters in native microbiomes.
 
@@ -129,7 +129,7 @@ The number of prokaryotic phyla may reach hundreds, and archaeal ones are among 
 
 In 1985 Staley and Konopka identified "the great plate count anomaly" which describes the fact that 90 to 99.9% of bacterial species cannot be grown under standard laboratory conditions. For some micro-habitats, especially those with high nutrient content and microbial activity, the proportion of representative strains available in culture relative to the molecular species detected by sequencing grew from 35 to 65%, as it was stated for the gut microbiota. Similar advances are needed for microbial populations from other natural habitats as well as for the eukaryotic members of the microbiome. Micro-eukaryotes, e.g., members of protozoa, fungi, and algae, can often be better cultivated and microscopically studied; however, their phylogeny and taxonomy are more complex and less studied. Interestingly, primer-free 16S and 18S rRNA gene sequencing from various environments has shown that among microeukaryotes there is a huge number of previously not detected taxa.
 
-Human microbiome
+### The Human Microbiome
 
 The human microbiome is the aggregate of all microbiota that reside on or within human tissues and biofluids along with the corresponding anatomical sites in which they reside, including the skin, mammary glands, seminal fluid, uterus, ovarian follicles, lung, saliva, oral mucosa, conjunctiva, biliary tract, and gastrointestinal tract. Types of human microbiota include bacteria, archaea, fungi, protists and viruses. Though micro-animals can also live on the human body, they are typically excluded from this definition. In the context of genomics, the term human microbiome is sometimes used to refer to the collective genomes of resident microorganisms; however, the term human metagenome has the same meaning.
 
@@ -175,11 +175,11 @@ Concerning the relationship of immune function and development of inflammation, 
 
 With death, the microbiome of the living body collapses and a different composition of microorganisms named necrobiome establishes itself as an important active constituent of the complex physical decomposition process. Its predictable changes over time are thought to be useful to help determine the time of death.
 
-## Extremophiles
+### Extremophiles
 
 Extremophiles are microorganisms that have adapted so that they can survive and even thrive in extreme environments that are normally fatal to most life-forms. Thermophiles and hyperthermophiles thrive in high temperatures. Psychrophiles thrive in extremely low temperatures. – Temperatures as high as 130 °C (266 °F), as low as −17 °C (1 °F) Halophiles such as Halobacterium salinarum (an archaean) thrive in high salt conditions, up to saturation. Alkaliphiles thrive in an alkaline pH of about 8.5–11. Acidophiles can thrive in a pH of 2.0 or less. Piezophiles thrive at very high pressures: up to 1,000–2,000 atm, down to 0 atm as in a vacuum of space. A few extremophiles such as Deinococcus radiodurans are radioresistant, resisting radiation exposure of up to 5k Gy. Extremophiles are significant in different ways. They extend terrestrial life into much of the Earth's hydrosphere, crust and atmosphere, their specific evolutionary adaptation mechanisms to their extreme environment can be exploited in biotechnology, and their very existence under such extreme conditions increases the potential for extraterrestrial life.
 
-## Soil Microorganisms
+### Soil Microorganisms
 
 The nitrogen cycle in soils depends on the fixation of atmospheric nitrogen. This is achieved by a number of diazotrophs. One way this can occur is in the root nodules of legumes that contain symbiotic bacteria of the genera Rhizobium, Mesorhizobium, Sinorhizobium, Bradyrhizobium, and Azorhizobium.
 
@@ -195,31 +195,31 @@ On the symbolic side, an early poem about brewing is the Sumerian "Hymn to Ninka
 
 Microorganisms such as bacteria and viruses are important as pathogens, causing disease to humans, crop plants, and domestic animals.
 
-## Food production
+### Food production
 
 Controlled fermentation with microbes in brewing, wine making, baking, pickling and cultured dairy products such as yogurt and cheese, is used to modify ingredients to make foods with desirable properties. The principal microbes involved are yeasts, in the case of beer, wine, and ordinary bread; and bacteria, in the case of anaerobically fermented vegetables, dairy products, and sourdough bread. The cultures variously provide flavour and aroma, inhibit pathogens, increase digestibility and palatability, make bread rise, reduce cooking time, and create useful products including alcohol, organic acids, vitamins, amino acids, and carbon dioxide. Safety is maintained with the help of food microbiology.
 
-## Water Treatment
+### Water Treatment
 
 Oxidative sewage treatment processes rely on microorganisms to oxidise organic constituents. Anaerobic microorganisms reduce sludge solids producing methane gas and a sterile mineralised residue. In potable water treatment, one method, the slow sand filter, employs a complex gelatinous layer composed of a wide range of microorganisms to remove both dissolved and particulate material from raw water.
 
-## Fuel Production
+### Fuel Production
 
 Microorganisms are used in fermentation to produce ethanol, and in biogas reactors to produce methane. Scientists are researching the use of algae to produce liquid fuels, and bacteria to convert various forms of agricultural and urban waste into usable fuels.
 
-## Production Of Chemicals And Enzymes
+### Production Of Chemicals And Enzymes
 
 Microorganisms are used for many commercial and industrial purposes, including the production of chemicals, enzymes and other bioactive molecules, often through protein engineering. For example, acetic acid is produced by the bacterium Acetobacter aceti, while citric acid is produced by the fungus Aspergillus niger. Microorganisms are used to prepare a widening range of bioactive molecules and enzymes. For example, Streptokinase produced by the bacterium Streptococcus and modified by genetic engineering is used to remove clots from the blood vessels of patients who have suffered a heart attack. Cyclosporin A is an immunosuppressive agent in organ transplantation, while statins produced by the yeast Monascus purpureus serve as blood cholesterol lowering agents, competitively inhibiting the enzyme that synthesizes cholesterol.
 
-## Use Of Microorganisms In Science
+### Use Of Microorganisms In Science
 
 Microorganisms are essential tools in biotechnology, biochemistry, genetics, and molecular biology. The yeasts brewer's yeast (Saccharomyces cerevisiae) and fission yeast (Schizosaccharomyces pombe) are important model organisms in science, since they are simple eukaryotes that can be grown rapidly in large numbers and are easily manipulated.
 
-## Use of Microorganisms For Warfare
+### Use of Microorganisms For Warfare
 
 Pathogenic microbes, and toxins that they produce, have been developed as possible agents of warfare. Crude forms of biological warfare have been practiced since antiquity. In the 6th century BC, the Assyrians poisoned enemy wells with a fungus said to render the enemy delirious. In 1346, the bodies of Mongol warriors of the Golden Horde who had died of plague were thrown over the walls of the besieged Crimean city of Kaffa, possibly assisting the spread of the Black Death into Europe. Advances in bacteriology in the 20th century increased the sophistication of possible bio-agents in war. Biological sabotage—in the form of anthrax and glanders—was undertaken on behalf of the Imperial German government during World War I, with indifferent results. In World War II, Britain weaponised tularemia, anthrax, brucellosis, and botulism toxins, but never used them. The USA similarly explored biological warfare agents, developing anthrax spores, brucellosis, and botulism toxins for possible military use. Japan developed biological warfare agents, with the use of experiments on human prisoners, and was about to use them when the war ended.
 
-## Role Of Microorganisms in Disease
+## Role Of Microorganisms In Disease
 
 Microorganisms are the causative agents (pathogens) in many infectious diseases of humans and domestic animals. Pathogenic bacteria cause diseases such as plague, tuberculosis and anthrax. Protozoa cause diseases including malaria, sleeping sickness, dysentery and toxoplasmosis. Microscopic fungi cause diseases such as ringworm, candidiasis and histoplasmosis. Pathogenic viruses cause diseases such as influenza, yellow fever and AIDS.
 
@@ -297,7 +297,7 @@ An "authority" may be placed after a scientific name. The authority is the name 
 <p class="caption">(\#fig:tree)(ref:tree)</p>
 </div>
 
-## The Concept of Species in Biology
+### The Concept of Species in Biology
 
 In biology, a species is the basic unit of classification and a taxonomic rank of an organism, as well as a unit of biodiversity. A species is often defined as the largest group of organisms in which any two individuals of the appropriate sexes or mating types can produce fertile offspring, typically by sexual reproduction. Other ways of defining species include their karyotype, DNA sequence, morphology, behaviour or ecological niche. In addition, paleontologists use the concept of the chronospecies since fossil reproduction cannot be examined.
 
@@ -330,7 +330,7 @@ The number of named species of bacteria and archaea (approximately 13,000) is su
 
 The most commonly accepted definition is the polyphasic species definition, which takes into account both phenotypic and genetic differences. However, a quicker diagnostic ad hoc threshold to separate species is less than 70% DNA–DNA hybridisation, which corresponds to less than 97% 16S DNA sequence identity. It has been noted that if this were applied to animal classification, the order primates would be a single species. For this reason, more stringent species definitions based on whole genome sequences have been proposed.
 
-## Binomial Nomenclature
+### Binomial Nomenclature
 
 The commonly used names for kinds of organisms are often ambiguous: "cat" could mean the domestic cat  or the cat family. Another problem with common names is that they often vary from place to place, so that puma, cougar, catamount, panther, painter and mountain lion all mean *Puma concolor* in various parts of America, while "panther" may also mean the jaguar (*Panthera onca*) of Latin America or the leopard (*Panthera pardus*) of Africa and Asia. In contrast, the scientific names of species are chosen to be unique and universal; they are in two parts used together: the genus as in *Puma*, and the specific epithet as in *concolor*.
 
@@ -346,7 +346,7 @@ In scientific works, the authority for a binomial name is usually given, at leas
 
 For Bacteria, valid names must have a Latin or Neolatin name and can only use basic latin letters (w and j inclusive, see History of the Latin alphabet for these), consequently hyphens, accents and other letters are not accepted and should be transliterated correctly (e.g. ß=ss). Ancient Greek being written in the Greek alphabet, needs to be transliterated into the Latin alphabet.
 
-## Taxonomy And Systematics
+### Taxonomy And Systematics
 
 [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy_(biology)) (from Ancient Greek taxis, meaning 'arrangement', and nomia, meaning 'method') is the science of defining and naming groups of biological organisms on the basis of shared characteristics. Organisms are grouped together into taxa (singular: taxon) and these groups are given a taxonomic rank; groups of a given rank can be aggregated to form a super-group of higher rank, thus creating a taxonomic hierarchy. The principal ranks in modern use are domain, kingdom, phylum (division is sometimes used in botany in place of phylum), class, order, family, genus and species. The Swedish botanist [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) (1707–1778) is regarded as the father of taxonomy, as he developed a system known as Linnaean taxonomy for categorization of organisms and binomial nomenclature for naming organisms. With the advent of such fields of study as phylogenetics, cladistics, and systematics, the Linnaean system has progressed to a system of modern biological classification based on the evolutionary relationships between organisms, both living and extinct.
 
@@ -391,7 +391,7 @@ Several identification methods exists:
     * Multi-gene sequence analysis
     * Whole-genome sequence based analysis
 
-## Kingdoms And Domains
+### Kingdoms And Domains
 
 Well before Linnaeus, plants and animals were considered separate Kingdoms. Linnaeus used this as the top rank, dividing the physical world into the plant, animal and mineral kingdoms. As advances in microscopy made classification of microorganisms possible, the number of kingdoms increased, five and six-kingdom systems being the most common.
 
@@ -419,7 +419,7 @@ Woese argued, on the basis of differences in 16S rRNA genes, that bacteria, arch
 
 Acceptance of the validity of Woese's phylogenetically valid classification was a slow process. Prominent biologists including Salvador Luria and Ernst Mayr objected to his division of the prokaryotes. Not all criticism of him was restricted to the scientific level. A decade of labor-intensive oligonucleotide cataloging left him with a reputation as "a crank," and Woese would go on to be dubbed as "Microbiology's Scarred Revolutionary" by a news article printed in the journal Science. The growing amount of supporting data led the scientific community to accept the Archaea by the mid-1980s. Today, few scientists cling to the idea of a unified Prokarya.
 
-## Bergey's Manual of Systematic Bacteriology
+### Bergey's Manual of Systematic Bacteriology
 
 
 [Bergey's Manual of Systematics of Archaea and Bacteria (BMSAB)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118960608) is the main resource for determining the identity of prokaryotic organisms, emphasizing bacterial species, using every characterizing aspect.

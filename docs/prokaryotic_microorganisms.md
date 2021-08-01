@@ -1,6 +1,6 @@
 # An Introduction To Prokaryotic Cells And Microorganisms
 
-## Characteristics of Life
+## Characteristics Of Life
 
 In the past, there have been many attempts to define what is meant by "life" through obsolete concepts such as odic force, hylomorphism, spontaneous generation and vitalism, that have now been disproved by biological discoveries. Aristotle is considered to be the first person to classify organisms. Later, Carl Linnaeus introduced his system of binomial nomenclature for the classification of species. Eventually new groups and categories of life were discovered, such as cells and microorganisms, forcing dramatic revisions of the structure of relationships between living organisms. Though currently only known on Earth, life need not be restricted to it, and many scientists speculate in the existence of extraterrestrial life. Artificial life is a computer simulation or human-made reconstruction of any aspect of life, which is often used to examine systems related to natural life.
 
@@ -24,7 +24,7 @@ More than 99% of all species of life forms, amounting to over five billion speci
 
 Although the number of Earth's catalogued species of lifeforms is between 1.2 million and 2 million, the total number of species in the planet is uncertain. Estimates range from 8 million to 100 million, with a more narrow range between 10 and 14 million, but it may be as high as 1 trillion (with only one-thousandth of one percent of the species described) according to studies realized in May 2016. The total number of related DNA base pairs on Earth is estimated at 5.0 x 10^37^ and weighs 50 billion tonnes. In comparison, the total mass of the biosphere has been estimated to be as much as 4 TtC (trillion tons of carbon). In July 2016, scientists reported identifying a set of 355 genes from the Last Universal Common Ancestor (LUCA) of all organisms living on Earth.
 
-## Origin of Life
+## Origin Of Life
 
 The Ancient Greeks believed that living things could spontaneously come into being from nonliving matter, and that the goddess Gaia could make life arise spontaneously from stones – a process known as Generatio spontanea. [Aristotle](https://en.wikipedia.org/wiki/Aristotle) disagreed, but he still believed that creatures could arise from dissimilar organisms or from soil. Variations of this concept of spontaneous generation still existed as late as the 17th century, but towards the end of the 17th century, a series of observations and arguments began that eventually discredited such ideas. This advance in scientific understanding was met with much opposition, with personal beliefs and individual prejudices often obscuring the facts.
 
@@ -78,9 +78,9 @@ Since its primordial beginnings, life on Earth has changed its environment on a 
 <p class="caption">(\#fig:celltypecartoon)(ref:celltypes)</p>
 </div>
 
-## Foundations of Modern Biology
+## The Foundations Of Modern Biology
 
-### Cell theory
+### The Cell Theory
 
 [Cell theory](https://en.wikipedia.org/wiki/Cell_theory) states that the cell is the fundamental unit of life, that all living things are composed of one or more cells, and that all cells arise from pre-existing cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes. In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA), which is passed from cell to cell during cell division. Research into the origin of life, abiogenesis, amounts to an attempt to discover the origin of the first cells.
 
@@ -105,7 +105,7 @@ Multicellular organisms may have first evolved through the formation of colonies
 
 Cells have evolved methods to perceive and respond to their microenvironment, thereby enhancing their adaptability. Cell signaling coordinates cellular activities, and hence governs the basic functions of multicellular organisms. Signaling between cells can occur through direct cell contact using juxtacrine signalling, or indirectly through the exchange of agents as in the endocrine system. In more complex organisms, coordination of activities can occur through a dedicated nervous system.
 
-### The Theory of Evolution
+### The Theory Of Evolution
 
 A central organizing concept in biology is that life changes and develops through [evolution](https://en.wikipedia.org/wiki/Evolution), and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago. Biologists regard the ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes.
 
@@ -346,7 +346,7 @@ Many bacteria get their carbon from other organic carbon, called heterotrophy. O
 
 In many ways, bacterial metabolism provides traits that are useful for ecological stability and for human society. One example is that some bacteria have the ability to fix nitrogen gas using the enzyme nitrogenase. This environmentally important trait can be found in bacteria of most metabolic types listed above. This leads to the ecologically important processes of denitrification, sulfate reduction, and acetogenesis, respectively. Bacterial metabolic processes are also important in biological responses to pollution; for example, sulfate-reducing bacteria are largely responsible for the production of the highly toxic forms of mercury (methyl- and dimethylmercury) in the environment. Non-respiratory anaerobes use fermentation to generate energy and reducing power, secreting metabolic by-products (such as ethanol in brewing) as waste. Facultative anaerobes can switch between fermentation and different terminal electron acceptors depending on the environmental conditions in which they find themselves.
 
-### Growth and reproduction
+### Growth And Reproduction
 
 Many bacteria reproduce through binary fission, which is compared to mitosis and meiosis in this image.
 
@@ -358,7 +358,7 @@ Most laboratory techniques for growing bacteria use high levels of nutrients to 
 
 Bacterial growth follows four phases. When a population of bacteria first enter a high-nutrient environment that allows growth, the cells need to adapt to their new environment. The first phase of growth is the lag phase, a period of slow growth when the cells are adapting to the high-nutrient environment and preparing for fast growth. The lag phase has high biosynthesis rates, as proteins necessary for rapid growth are produced. The second phase of growth is the logarithmic phase, also known as the exponential phase. The log phase is marked by rapid exponential growth. The rate at which cells grow during this phase is known as the growth rate (k), and the time it takes the cells to double is known as the generation time (g). During log phase, nutrients are metabolised at maximum speed until one of the nutrients is depleted and starts limiting growth. The third phase of growth is the stationary phase and is caused by depleted nutrients. The cells reduce their metabolic activity and consume non-essential cellular proteins. The stationary phase is a transition from rapid growth to a stress response state and there is increased expression of genes involved in DNA repair, antioxidant metabolism and nutrient transport. The final phase is the death phase where the bacteria run out of nutrients and die.
 
-### Genetics
+### Bacterial Genetics
 
 Most bacteria have a single circular chromosome that can range in size from only 160,000 base pairs in the endosymbiotic bacteria Carsonella ruddii, to 12,200,000 base pairs (12.2 Mbp) in the soil-dwelling bacteria Sorangium cellulosum. There are many exceptions to this, for example some Streptomyces and Borrelia species contain a single linear chromosome, while some Vibrio species contain more than one chromosome. Bacteria can also contain plasmids, small extra-chromosomal molecules of DNA that may contain genes for various useful functions such as antibiotic resistance, metabolic capabilities, or various virulence factors.
 
@@ -368,7 +368,7 @@ Bacteria, as asexual organisms, inherit an identical copy of the parent's genome
 
 Some bacteria also transfer genetic material between cells. This can occur in three main ways. First, bacteria can take up exogenous DNA from their environment, in a process called transformation. Many bacteria can naturally take up DNA from the environment, while others must be chemically altered in order to induce them to take up DNA. The development of competence in nature is usually associated with stressful environmental conditions, and seems to be an adaptation for facilitating repair of DNA damage in recipient cells. The second way bacteria transfer genetic material is by transduction, when the integration of a bacteriophage introduces foreign DNA into the chromosome. Many types of bacteriophage exist, some simply infect and lyse their host bacteria, while others insert into the bacterial chromosome. Bacteria resist phage infection through restriction modification systems that degrade foreign DNA, and a system that uses CRISPR sequences to retain fragments of the genomes of phage that the bacteria have come into contact with in the past, which allows them to block virus replication through a form of RNA interference. The third method of gene transfer is conjugation, whereby DNA is transferred through direct cell contact. In ordinary circumstances, transduction, conjugation, and transformation involve transfer of DNA between individual bacteria of the same species, but occasionally transfer may occur between individuals of different bacterial species and this may have significant consequences, such as the transfer of antibiotic resistance. In such cases, gene acquisition from other bacteria or the environment is called horizontal gene transfer and may be common under natural conditions.
 
-### Movement
+### Movement Of Bacteria
 
 Many bacteria are motile (able to move themselves) and do so using a variety of mechanisms. The best studied of these are flagella, long filaments that are turned by a motor at the base to generate propeller-like movement. The bacterial flagellum is made of about 20 proteins, with approximately another 30 proteins required for its regulation and assembly. The flagellum is a rotating structure driven by a reversible motor at the base that uses the electrochemical gradient across the membrane for power.
 
@@ -380,7 +380,7 @@ Motile bacteria are attracted or repelled by certain stimuli in behaviours calle
 
 Several Listeria and Shigella species move inside host cells by usurping the cytoskeleton, which is normally used to move organelles inside the cell. By promoting actin polymerisation at one pole of their cells, they can form a kind of tail that pushes them through the host cell's cytoplasm.
 
-### Communication
+### Bacterial Communication
 
 Bacteria often function as multicellular aggregates known as biofilms, exchanging a variety of molecular signals for inter-cell communication, and engaging in coordinated multicellular behaviour.
 
@@ -390,7 +390,7 @@ One type of inter-cellular communication by a molecular signal is called quorum 
 
 Quorum sensing allows bacteria to coordinate gene expression, and enables them to produce, release and detect autoinducers or pheromones which accumulate with the growth in cell population.
 
-### Classification and identification
+### Classification And identification
 
 Classification seeks to describe the diversity of bacterial species by naming and grouping organisms based on similarities. Bacteria can be classified on the basis of cell structure, cellular metabolism or on differences in cell components, such as DNA, fatty acids, pigments, antigens and quinones. While these schemes allowed the identification and classification of bacterial strains, it was unclear whether these differences represented variation between distinct species or between strains of the same species. This uncertainty was due to the lack of distinctive structures in most bacteria, as well as lateral gene transfer between unrelated species. Due to lateral gene transfer, some closely related bacteria can have very different morphologies and metabolisms. To overcome this uncertainty, modern bacterial classification emphasises molecular systematics, using genetic techniques such as guanine cytosine ratio determination, genome-genome hybridisation, as well as sequencing genes that have not undergone extensive lateral gene transfer, such as the rRNA gene. Classification of bacteria is determined by publication in the International Journal of Systematic Bacteriology, and Bergey's Manual of Systematic Bacteriology. The International Committee on Systematic Bacteriology (ICSB) maintains international rules for the naming of bacteria and taxonomic categories and for the ranking of them in the International Code of Nomenclature of Bacteria.
 
@@ -414,7 +414,7 @@ Certain bacteria form close spatial associations that are essential for their su
 
 In soil, microorganisms that reside in the rhizosphere (a zone that includes the root surface and the soil that adheres to the root after gentle shaking) carry out nitrogen fixation, converting nitrogen gas to nitrogenous compounds. This serves to provide an easily absorbable form of nitrogen for many plants, which cannot fix nitrogen themselves. Many other bacteria are found as symbionts in humans and other organisms. For example, the presence of over 1,000 bacterial species in the normal human gut flora of the intestines can contribute to gut immunity, synthesise vitamins, such as folic acid, vitamin K and biotin, convert sugars to lactic acid (see Lactobacillus), as well as fermenting complex undigestible carbohydrates. The presence of this gut flora also inhibits the growth of potentially pathogenic bacteria (usually through competitive exclusion) and these beneficial bacteria are consequently sold as probiotic dietary supplements.
 
-### Bacteria as Pathogens
+### Bacteria As Pathogens
 
 If bacteria form a parasitic association with other organisms, they are classed as pathogens. Pathogenic bacteria are a major cause of human death and disease and cause infections such as tetanus (Caused by Clostridium tetani), typhoid fever, diphtheria, syphilis, cholera, foodborne illness, leprosy (caused by Micobacterium leprae) and tuberculosis (Caused by Mycobacterium tuberculosis). A pathogenic cause for a known medical disease may only be discovered many years after, as was the case with Helicobacter pylori and peptic ulcer disease. Bacterial diseases are also important in agriculture, with bacteria causing leaf spot, fire blight and wilts in plants, as well as Johne's disease, mastitis, salmonella and anthrax in farm animals.
 
@@ -422,7 +422,7 @@ Each species of pathogen has a characteristic spectrum of interactions with its 
 
 Bacterial infections may be treated with antibiotics, which are classified as bacteriocidal if they kill bacteria, or bacteriostatic if they just prevent bacterial growth. There are many types of antibiotics and each class inhibits a process that is different in the pathogen from that found in the host. An example of how antibiotics produce selective toxicity are chloramphenicol and puromycin, which inhibit the bacterial ribosome, but not the structurally different eukaryotic ribosome. Antibiotics are used both in treating human disease and in intensive farming to promote animal growth, where they may be contributing to the rapid development of antibiotic resistance in bacterial populations. Infections can be prevented by antiseptic measures such as sterilising the skin prior to piercing it with the needle of a syringe, and by proper care of indwelling catheters. Surgical and dental instruments are also sterilised to prevent contamination by bacteria. Disinfectants such as bleach are used to kill bacteria or other pathogens on surfaces to prevent contamination and further reduce the risk of infection.
 
-### Significance in Technology And Industry
+### Significance In Technology And Industry
 
 Bacteria, often lactic acid bacteria, such as Lactobacillus and Lactococcus, in combination with yeasts and moulds, have been used for thousands of years in the preparation of fermented foods, such as cheese, pickles, soy sauce, sauerkraut, vinegar, wine and yogurt.
 
@@ -446,7 +446,7 @@ Archaea are a major part of Earth's life. They are part of the microbiota of all
 
 No clear examples of archaeal pathogens or parasites are known. Instead they are often mutualists or commensals, such as the methanogens (methane-producing strains) that inhabit the gastrointestinal tract in humans and ruminants, where their vast numbers aid digestion. Methanogens are also used in biogas production and sewage treatment, and biotechnology exploits enzymes from extremophile archaea that can endure high temperatures and organic solvents.
 
-### Origin and evolution
+### Origin And evolution
 
 The age of the Earth is about 4.54 billion years. Scientific evidence suggests that life began on Earth at least 3.5 billion years ago. The earliest evidence for life on Earth is graphite found to be biogenic in 3.7-billion-year-old metasedimentary rocks discovered in Western Greenland and microbial mat fossils found in 3.48-billion-year-old sandstone discovered in Western Australia. In 2015, possible remains of biotic matter were found in 4.1-billion-year-old rocks in Western Australia.
 
@@ -530,13 +530,13 @@ Woese used his new rRNA comparison method to categorize and contrast different o
 
 One property unique to archaea is the abundant use of ether-linked lipids in their cell membranes. Ether linkages are more chemically stable than the ester linkages found in bacteria and eukarya, which may be a contributing factor to the ability of many archaea to survive in extreme environments that place heavy stress on cell membranes, such as extreme heat and salinity. Comparative analysis of archaeal genomes has also identified several molecular conserved signature indels and signature proteins uniquely present in either all archaea or different main groups within archaea. Another unique feature of archaea, found in no other organisms, is methanogenesis (the metabolic production of methane). Methanogenic archaea play a pivotal role in ecosystems with organisms that derive energy from oxidation of methane, many of which are bacteria, as they are often a major source of methane in such environments and can play a role as primary producers. Methanogens also play a critical role in the carbon cycle, breaking down organic carbon into methane, which is also a major greenhouse gas.
 
-### Relationship to Bacteria
+### Relationship To Bacteria
 
 The relationships among the three domains are of central importance for understanding the origin of life. Most of the metabolic pathways, which are the object of the majority of an organism's genes, are common between Archaea and Bacteria, while most genes involved in genome expression are common between Archaea and Eukarya. Within prokaryotes, archaeal cell structure is most similar to that of gram-positive bacteria, largely because both have a single lipid bilayer and usually contain a thick sacculus (exoskeleton) of varying chemical composition. In some phylogenetic trees based upon different gene/protein sequences of prokaryotic homologs, the archaeal homologs are more closely related to those of gram-positive bacteria. Archaea and gram-positive bacteria also share conserved indels in a number of important proteins, such as Hsp70 and glutamine synthetase I; but the phylogeny of these genes was interpreted to reveal interdomain gene transfer, and might not reflect the organismal relationship(s).
 
 It has been proposed that the archaea evolved from gram-positive bacteria in response to antibiotic selection pressure. This is suggested by the observation that archaea are resistant to a wide variety of antibiotics that are produced primarily by gram-positive bacteria, and that these antibiotics act primarily on the genes that distinguish archaea from bacteria. The proposal is that the selective pressure towards resistance generated by the gram-positive antibiotics was eventually sufficient to cause extensive changes in many of the antibiotics' target genes, and that these strains represented the common ancestors of present-day Archaea. The evolution of Archaea in response to antibiotic selection, or any other competitive selective pressure, could also explain their adaptation to extreme environments (such as high temperature or acidity) as the result of a search for unoccupied niches to escape from antibiotic-producing organisms; Cavalier-Smith has made a similar suggestion. This proposal is also supported by other work investigating protein structural relationships and studies that suggest that gram-positive bacteria may constitute the earliest branching lineages within the prokaryotes.
 
-### Relation to Eukaryotes
+### Relation To Eukaryotes
 
 The evolutionary relationship between archaea and eukaryotes remains unclear. Aside from the similarities in cell structure and function that are discussed below, many genetic trees group the two.
 
@@ -582,7 +582,7 @@ The phospholipids of archaea are unusual in four ways:
 <p class="caption">(\#fig:membranestruccomp)(ref:membcomp)</p>
 </div>
 
-### Metabolism
+### Archaeal Metabolism
 
 Archaea exhibit a great variety of chemical reactions in their metabolism and use many sources of energy. These reactions are classified into nutritional groups, depending on energy and carbon sources. Some archaea obtain energy from inorganic compounds such as sulfur or ammonia (they are chemotrophs). These include nitrifiers, methanogens and anaerobic methane oxidisers. In these reactions one compound passes electrons to another (in a redox reaction), releasing energy to fuel the cell's activities. One compound acts as an electron donor and one as an electron acceptor. The energy released is used to generate adenosine triphosphate (ATP) through chemiosmosis, the same basic process that happens in the mitochondrion of eukaryotic cells.
 
@@ -627,7 +627,7 @@ Other archaea use CO~2~ in the atmosphere as a source of carbon, in a process ca
 
 Phototrophic archaea use light to produce chemical energy in the form of ATP. In the Halobacteria, light-activated ion pumps like bacteriorhodopsin and halorhodopsin generate ion gradients by pumping ions out of and into the cell across the plasma membrane. The energy stored in these electrochemical gradients is then converted into ATP by ATP synthase. This process is a form of photophosphorylation. The ability of these light-driven pumps to move ions across membranes depends on light-driven changes in the structure of a retinol cofactor buried in the center of the protein.
 
-### Genetics
+### Archaeal Genetics
 
 Archaea usually have a single circular chromosome, with as many as 5,751,492 base pairs in Methanosarcina acetivorans, the largest known archaeal genome. The tiny 490,885 base-pair genome of Nanoarchaeum equitans is one-tenth of this size and the smallest archaeal genome known; it is estimated to contain only 537 protein-encoding genes. Smaller independent pieces of DNA, called plasmids, are also found in archaea. Plasmids may be transferred between cells by physical contact, in a process that may be similar to bacterial conjugation.
 
@@ -636,7 +636,7 @@ Archaea are genetically distinct from bacteria and eukaryotes, with up to 15% of
 Transcription in archaea more closely resembles eukaryotic than bacterial transcription, with the archaeal RNA polymerase being very close to its equivalent in eukaryotes, while archaeal translation shows signs of both bacterial and eukaryotic equivalents. Although archaea have only one type of RNA polymerase, its structure and function in transcription seems to be close to that of the eukaryotic RNA polymerase II, with similar protein assemblies (the general transcription factors) directing the binding of the RNA polymerase to a gene's promoter, but other archaeal transcription factors are closer to those found in bacteria. Post-transcriptional modification is simpler than in eukaryotes, since most archaeal genes lack introns, although there are many introns in their transfer RNA and ribosomal RNA genes, and introns may occur in a few protein-encoding genes.
 
 
-### Ecology
+### Archaeal Ecology
 
 Archaea exist in a broad range of habitats, and are now recognized as a major part of global ecosystems, and may represent about 20% of microbial cells in the oceans. However, the first-discovered archaeans were extremophiles. Indeed, some archaea survive high temperatures, often above 100 °C (212 °F), as found in geysers, black smokers, and oil wells. Other common habitats include very cold habitats and highly saline, acidic, or alkaline water, but archaea include mesophiles that grow in mild conditions, in swamps and marshland, sewage, the oceans, the intestinal tract of animals, and soils.
 
@@ -652,12 +652,11 @@ Recently, several studies have shown that archaea exist not only in mesophilic a
 
 Vast numbers of archaea are also found in the sediments that cover the sea floor, with these organisms making up the majority of living cells at depths over 1 meter below the ocean bottom. It has been demonstrated that in all oceanic surface sediments (from 1000- to 10,000-m water depth), the impact of viral infection is higher on archaea than on bacteria and virus-induced lysis of archaea accounts for up to one-third of the total microbial biomass killed, resulting in the release of ~0.3 to 0.5 gigatons of carbon per year globally.
 
-### Significance in Technology And Industry
+### Significance In Technology And Industry
 
 Extremophile archaea, particularly those resistant either to heat or to extremes of acidity and alkalinity, are a source of enzymes that function under these harsh conditions. These enzymes have found many uses. For example, thermostable DNA polymerases, such as the Pfu DNA polymerase from Pyrococcus furiosus, revolutionized molecular biology by allowing the polymerase chain reaction to be used in research as a simple and rapid technique for cloning DNA. In industry, amylases, galactosidases and pullulanases in other species of Pyrococcus that function at over 100 °C (212 °F) allow food processing at high temperatures, such as the production of low lactose milk and whey. Enzymes from these thermophilic archaea also tend to be very stable in organic solvents, allowing their use in environmentally friendly processes in green chemistry that synthesize organic compounds. This stability makes them easier to use in structural biology. Consequently, the counterparts of bacterial or eukaryotic enzymes from extremophile archaea are often used in structural studies.
 
 In contrast with the range of applications of archaean enzymes, the use of the organisms themselves in biotechnology is less developed. Methanogenic archaea are a vital part of sewage treatment, since they are part of the community of microorganisms that carry out anaerobic digestion and produce biogas. In mineral processing, acidophilic archaea display promise for the extraction of metals from ores, including gold, cobalt and copper.
 
 Archaea host a new class of potentially useful antibiotics. A few of these archaeocins have been characterized, but hundreds more are believed to exist, especially within Haloarchaea and Sulfolobus. These compounds differ in structure from bacterial antibiotics, so they may have novel modes of action. In addition, they may allow the creation of new selectable markers for use in archaeal molecular biology.
-
 
