@@ -34,6 +34,10 @@ fig:livorgtree
 fig:stromatolites
 fig:semecoli
 fig:haloarchaea
+fig:hookemicrographia
+fig:hookescope
+fig:hookecork
+fig:typicalprokcell
 fig:bacteriashape
 fig:helicopylori
 fig:flagellum
@@ -216,7 +220,7 @@ agar-plate
 blood-agar-plate
 chocolate-agar
 an-introduction-to-prokaryotic-cells-and-microorganisms
-characteristics-of-life
+basic-characteristics-of-life
 origin-of-life
 the-foundations-of-modern-biology
 the-cell-theory
@@ -224,6 +228,8 @@ the-theory-of-evolution
 genetics
 homeostasis
 energy-1
+basic-characteristics-of-cells
+prokaryotic-cells
 bacteria-1
 intracellular-structure
 extracellular-structures
@@ -277,12 +283,15 @@ algae
 slime-molds
 reproduction-of-protists
 an-introduction-to-viruses
-role-in-human-disease
+theories-of-the-origin-of-viruses
+structure-and-morphology-of-viruses
+replication-of-viruses
+role-of-viruses-in-human-disease
 animal-viruses
 plant-viruses
 bacterial-viruses
-classification
-baltimore-classification
+classification-of-viruses
+baltimore-classification-of-viruses
 microbial-nutrition-ecology-and-growth
 thermodynamics-of-living-organisms
 an-introducdtion-to-microbial-metabolism

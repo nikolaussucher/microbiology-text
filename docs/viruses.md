@@ -26,12 +26,14 @@ The second half of the 20th century was the golden age of virus discovery, and m
 
 Viruses are found wherever there is life and have probably existed since living cells first evolved. The origin of viruses is unclear because they do not form fossils, so molecular techniques are used to investigate how they arose. In addition, viral genetic material occasionally integrates into the germline of the host organisms, by which they can be passed on vertically to the offspring of the host for many generations. This provides an invaluable source of information for paleovirologists to trace back ancient viruses that have existed up to millions of years ago. There are three main hypotheses that aim to explain the origins of viruses:
 
-Regressive hypothesis
+## Theories Of The Origin Of Viruses
+
 Viruses may have once been small cells that parasitised larger cells. Over time, genes not required by their parasitism were lost. The bacteria rickettsia and chlamydia are living cells that, like viruses, can reproduce only inside host cells. They lend support to this hypothesis, as their dependence on parasitism is likely to have caused the loss of genes that enabled them to survive outside a cell. This is also called the 'degeneracy hypothesis', or 'reduction hypothesis'.
-Cellular origin hypothesis
+
 Some viruses may have evolved from bits of DNA or RNA that "escaped" from the genes of a larger organism. The escaped DNA could have come from plasmids (pieces of naked DNA that can move between cells) or transposons (molecules of DNA that replicate and move around to different positions within the genes of the cell). Once called "jumping genes", transposons are examples of mobile genetic elements and could be the origin of some viruses. They were discovered in maize by Barbara McClintock in 1950. This is sometimes called the 'vagrancy hypothesis', or the 'escape hypothesis'.
-Co-evolution hypothesis
+
 This is also called the 'virus-first hypothesis' and proposes that viruses may have evolved from complex molecules of protein and nucleic acid at the same time that cells first appeared on Earth and would have been dependent on cellular life for billions of years. Viroids are molecules of RNA that are not classified as viruses because they lack a protein coat. They have characteristics that are common to several viruses and are often called subviral agents. Viroids are important pathogens of plants. They do not code for proteins but interact with the host cell and use the host machinery for their replication. The hepatitis delta virus of humans has an RNA genome similar to viroids but has a protein coat derived from hepatitis B virus and cannot produce one of its own. It is, therefore, a defective virus. Although hepatitis delta virus genome may replicate independently once inside a host cell, it requires the help of hepatitis B virus to provide a protein coat so that it can be transmitted to new cells. In similar manner, the sputnik virophage is dependent on mimivirus, which infects the protozoan Acanthamoeba castellanii. These viruses, which are dependent on the presence of other virus species in the host cell, are called 'satellites' and may represent evolutionary intermediates of viroids and viruses.
+
 In the past, there were problems with all of these hypotheses: the regressive hypothesis did not explain why even the smallest of cellular parasites do not resemble viruses in any way. The escape hypothesis did not explain the complex capsids and other structures on virus particles. The virus-first hypothesis contravened the definition of viruses in that they require host cells. Viruses are now recognised as ancient and as having origins that pre-date the divergence of life into the three domains. This discovery has led modern virologists to reconsider and re-evaluate these three classical hypotheses.
 
 The evidence for an ancestral world of RNA cells and computer analysis of viral and host DNA sequences are giving a better understanding of the evolutionary relationships between different viruses and may help identify the ancestors of modern viruses. To date, such analyses have not proved which of these hypotheses is correct. It seems unlikely that all currently known viruses have a common ancestor, and viruses have probably arisen numerous times in the past by one or more mechanisms.
@@ -41,6 +43,8 @@ Viruses are found wherever there is life and have probably existed since living 
 The word is from the Latin neuter vīrus referring to poison and other noxious liquids, from the same Indo-European base as Sanskrit viṣa, Avestan vīša, and ancient Greek ἰός (all meaning "poison"), first attested in English in 1398 in John Trevisa's translation of Bartholomeus Anglicus's De Proprietatibus Rerum. Virulent, from Latin virulentus (poisonous), dates to c. 1400. A meaning of "agent that causes infectious disease" is first recorded in 1728, long before the discovery of viruses by Dmitri Ivanovsky in 1892. The English plural is viruses (sometimes also vira) whereas the Latin word is a mass noun, which has no classically attested plural (vīra is used in Neo-Latin). The adjective viral dates to 1948. The term virion (plural virions), which dates from 1959, is also used to refer to a single viral particle that is released from the cell and is capable of infecting other cells of the same type.
 
 Scientific opinions differ on whether viruses are a form of life, or organic structures that interact with living organisms. They have been described as "organisms at the edge of life", since they resemble organisms in that they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves through self-assembly. Although they have genes, they do not have a cellular structure, which is often seen as the basic unit of life. Viruses do not have their own metabolism, and require a host cell to make new products. They therefore cannot naturally reproduce outside a host cell—although bacterial species such as rickettsia and chlamydia are considered living organisms despite the same limitation. Accepted forms of life use cell division to reproduce, whereas viruses spontaneously assemble within cells. They differ from autonomous growth of crystals as they inherit genetic mutations while being subject to natural selection. Virus self-assembly within host cells has implications for the study of the origin of life, as it lends further credence to the hypothesis that life could have started as self-assembling organic molecules.
+
+## Structure And Morphology Of Viruses
 
 Viruses display a wide diversity of shapes and sizes, called 'morphologies'. In general, viruses are much smaller than bacteria. Most viruses that have been studied have a diameter between 20 and 300 nanometres. Some filoviruses have a total length of up to 1400 nm; their diameters are only about 80 nm. Most viruses cannot be seen with an optical microscope, so scanning and transmission electron microscopes are used to visualise them. To increase the contrast between viruses and the background, electron-dense "stains" are used. These are solutions of salts of heavy metals, such as tungsten, that scatter the electrons from regions covered with the stain. When virions are coated with stain (positive staining), fine detail is obscured. Negative staining overcomes this problem by staining the background only.
 
@@ -100,6 +104,8 @@ Segmented genomes confer evolutionary advantages; different strains of a virus w
 
 Genetic recombination is the process by which a strand of DNA is broken and then joined to the end of a different DNA molecule. This can occur when viruses infect cells simultaneously and studies of viral evolution have shown that recombination has been rampant in the species studied. Recombination is common to both RNA and DNA viruses.
 
+## Replication Of Viruses
+
 Viral populations do not grow through cell division, because they are acellular. Instead, they use the machinery and metabolism of a host cell to produce multiple copies of themselves, and they assemble in the cell. When infected, the host cell is forced to rapidly produce thousands of identical copies of the original virus.
 
 (ref:repc) [A typical virus replication cycle.](https://commons.wikimedia.org/wiki/File:HepC_replication.png) 
@@ -138,13 +144,13 @@ Reverse transcribing viruses have ssRNA (Retroviridae, Metaviridae, Pseudovirida
 <p class="caption">(\#fig:rnavirus)(ref:rnavir)</p>
 </div>
 
+### Role Of Viruses In Human Disease
+
 The range of structural and biochemical effects that viruses have on the host cell is extensive. These are called 'cytopathic effects'. Most virus infections eventually result in the death of the host cell. The causes of death include cell lysis, alterations to the cell's surface membrane and apoptosis. Often cell death is caused by cessation of its normal activities because of suppression by virus-specific proteins, not all of which are components of the virus particle. The distinction between cytopathic and harmless is gradual. Some viruses, such as Epstein–Barr virus, can cause cells to proliferate without causing malignancy, while others, such as papillomaviruses, are established causes of cancer.
 
 Some viruses cause no apparent changes to the infected cell. Cells in which the virus is latent and inactive show few signs of infection and often function normally. This causes persistent infections and the virus is often dormant for many months or years. This is often the case with herpes viruses.
 
 Viruses are by far the most abundant biological entities on Earth and they outnumber all the others put together. They infect all types of cellular life including animals, plants, bacteria and fungi. Different types of viruses can infect only a limited range of hosts and many are species-specific. Some, such as smallpox virus for example, can infect only one species—in this case humans, and are said to have a narrow host range. Other viruses, such as rabies virus, can infect different species of mammals and are said to have a broad range. The viruses that infect plants are harmless to animals, and most viruses that infect other animals are harmless to humans. The host range of some bacteriophages is limited to a single strain of bacteria and they can be used to trace the source of outbreaks of infections by a method called phage typing. The complete set of viruses in an organism or habitat is called the virome; for example, all human viruses constitute the human virome.
-
-### Role in human disease
 
 Examples of common human diseases caused by viruses include the common cold, influenza, chickenpox, and cold sores. Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. The relative ability of viruses to cause disease is described in terms of virulence. Other diseases are under investigation to discover if they have a virus as the causative agent, such as the possible connection between human herpesvirus 6 (HHV6) and neurological diseases such as multiple sclerosis and chronic fatigue syndrome. There is controversy over whether the bornavirus, previously thought to cause neurological diseases in horses, could be responsible for psychiatric illnesses in humans.
 
@@ -192,11 +198,11 @@ Antiviral drugs are often nucleoside analogues (fake DNA building-blocks), which
 
 Hepatitis C is caused by an RNA virus. In 80% of people infected, the disease is chronic, and without treatment, they are infected for the remainder of their lives. There is now an effective treatment that uses the nucleoside analogue drug ribavirin combined with interferon. The treatment of chronic carriers of the hepatitis B virus by using a similar strategy using lamivudine has been developed.
 
-### Animal viruses
+### Animal Viruses
 
 Viruses are important pathogens of livestock. Diseases such as foot-and-mouth disease and bluetongue are caused by viruses. Companion animals such as cats, dogs, and horses, if not vaccinated, are susceptible to serious viral infections. Canine parvovirus is caused by a small DNA virus and infections are often fatal in pups. Like all invertebrates, the honey bee is susceptible to many viral infections. Most viruses co-exist harmlessly in their host and cause no signs or symptoms of disease.
 
-### Plant viruses
+### Plant Viruses
 
 There are many types of plant virus, but often they cause only a loss of yield, and it is not economically viable to try to control them. Plant viruses are often spread from plant to plant by organisms, known as vectors. These are usually insects, but some fungi, nematode worms, and single-celled organisms have been shown to be vectors. When control of plant virus infections is considered economical, for perennial fruits, for example, efforts are concentrated on killing the vectors and removing alternate hosts such as weeds. Plant viruses cannot infect humans and other animals because they can reproduce only in living plant cells.
 
@@ -206,7 +212,7 @@ Plants have elaborate and effective defence mechanisms against viruses. One of t
 
 Plant virus particles or virus-like particles (VLPs) have applications in both biotechnology and nanotechnology. The capsids of most plant viruses are simple and robust structures and can be produced in large quantities either by the infection of plants or by expression in a variety of heterologous systems. Plant virus particles can be modified genetically and chemically to encapsulate foreign material and can be incorporated into supramolecular structures for use in biotechnology.
 
-### Bacterial viruses
+### Bacterial Viruses
 
 A bacteriophage, also known informally as a phage, is a virus that infects and replicates within bacteria and archaea. The term was derived from "bacteria" and the Greek φαγεῖν (phagein), meaning "to devour". Bacteriophages are composed of proteins that encapsulate a DNA or RNA genome, and may have structures that are either simple or elaborate. Their genomes may encode as few as four genes and as many as hundreds of genes.
 
@@ -232,14 +238,14 @@ Bacteriophages are among the most common and diverse entities in the biosphere. 
 
 Phages have been used since the late 20th century as an alternative to antibiotics in the former Soviet Union and Central Europe, as well as in France. They are seen as a possible therapy against multi-drug-resistant strains of many bacteria (see phage therapy). On the other hand, phages of Inoviridae have been shown to complicate biofilms involved in pneumonia and cystic fibrosis and to shelter the bacteria from drugs meant to eradicate disease, thus promoting persistent infection.
 
-## Classification
+## Classification Of Viruses
 
 Classification seeks to describe the diversity of viruses by naming and grouping them on the basis of similarities. In 1962, André Lwoff, Robert Horne, and Paul Tournier were the first to develop a means of virus classification, based on the Linnaean hierarchical system. This system based classification on phylum, class, order, family, genus, and species. Viruses were grouped according to their shared properties (not those of their hosts) and the type of nucleic acid forming their genomes. In 1966, the International Committee on Taxonomy of Viruses (ICTV) was formed. The system proposed by Lwoff, Horne and Tournier was initially not accepted by the ICTV because the small genome size of viruses and their high rate of mutation made it difficult to determine their ancestry beyond order. As such, the Baltimore classification system has come to be used to supplement the more traditional hierarchy. Starting in 2018, the ICTV began to acknowledge deeper evolutionary relationships between viruses that have been discovered over time and adopted a 15-rank classification system ranging from realm to species.
 
 ICTV classification
 The ICTV developed the current classification system and wrote guidelines that put a greater weight on certain virus properties to maintain family uniformity. A unified taxonomy (a universal system for classifying viruses) has been established. Only a small part of the total diversity of viruses has been studied. As of 2020, 6 realms, 10 kingdoms, 17 phyla, 2 subphyla, 39 classes, 59 orders, 8 suborders, 189 families, 136 subfamilies, 2,224 genera, 70 subgenera, and 9,110 species of viruses have been defined by the ICTV.
 
-## Baltimore classification
+## Baltimore Classification Of Viruses
 
 The Nobel Prize-winning biologist David Baltimore devised the Baltimore classification system. The ICTV classification system is used in conjunction with the Baltimore classification system in modern virus classification.
 
