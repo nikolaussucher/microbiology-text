@@ -4,7 +4,36 @@ Nutrition is the biochemical and physiological process by which an organism uses
 
 The science that studies the physiological process of nutrition is called nutritional science (also nutrition science).
 
-Organisms primarily provide themselves with carbon in one of two ways: autotrophy (the self-production of organic food) and heterotrophy (the consumption of existing organic carbon). Combined with the source of energy, either light (phototrophy) or chemical (chemotrophy), there are four primary nutritional groups for organisms.
+Organisms primarily provide themselves with carbon in one of two ways: autotrophy (the self-production of organic food) and heterotrophy (the consumption of existing organic carbon). Combined with the source of energy, either light (phototrophy) or chemical (chemotrophy), there are four primary nutritional groups of organisms. Primary nutritional groups are groups of organisms, divided in relation to the nutrition mode according to the sources of energy and carbon, needed for living, growth and reproduction. The sources of energy can be light or chemical compounds; the sources of carbon can be of organic or inorganic origin.
+
+## Primary Sources Of Energy
+
+Phototrophs absorb light in photoreceptors and transform it into chemical energy.
+Chemotrophs release bond energy from chemical compounds.
+
+The freed energy is stored as potential energy in ATP, carbohydrates, or proteins. Eventually, the energy is used for life processes such as moving, growth and reproduction.
+
+Plants and some bacteria can alternate between phototrophy and chemotrophy, depending on the availability of light.
+
+## Primary Sources Of Reducing Equivalents
+
+Organotrophs use organic compounds as electron/hydrogen donors.
+Lithotrophs use inorganic compounds as electron/hydrogen donors.
+
+The electrons or hydrogen atoms from reducing equivalents (electron donors) are needed by both phototrophs and chemotrophs in reduction-oxidation reactions that transfer energy in the anabolic processes of ATP synthesis (in heterotrophs) or biosynthesis (in autotrophs). The electron or hydrogen donors are taken up from the environment.
+
+Organotrophic organisms are often also heterotrophic, using organic compounds as sources of both electrons and carbon. Similarly, lithotrophic organisms are often also autotrophic, using inorganic sources of electrons and CO~2~ as their inorganic carbon source.
+
+Some lithotrophic bacteria can utilize diverse sources of electrons, depending on the availability of possible donors.
+
+The organic or inorganic substances (e.g., oxygen) used as electron acceptors needed in the catabolic processes of aerobic or anaerobic respiration and fermentation are not taken into account here.
+
+For example, plants are lithotrophs because they use water as their electron donor for biosynthesis. Animals are organotrophs because they use organic compounds as electron donors to synthesize ATP (plants also do this, but this is not taken into account). Both use oxygen in respiration as electron acceptor and the main source of energy, but this character is not used to define them as lithotrophs.
+
+## Primary Sources of Carbon
+
+Heterotrophs metabolize organic compounds to obtain carbon for growth and development.
+Autotrophs use carbon dioxide (CO~2~) as their source of carbon.
 
 ## Nutrients
 
@@ -38,127 +67,6 @@ knitr::include_graphics("./figures/nutrition/Adenosintriphosphat_protoniert.svg"
 Living organisms produce ATP from energy sources, such as sunlight and organic compounds including carbohydrates, lipids and proteins, mainly via oxidative phosphorylation. The terminal phosphate bonds of ATP are relatively weak compared with the stronger bonds formed when ATP is hydrolyzed to adenosine diphosphate and inorganic phosphate. Here it is the thermodynamically favorable free energy of hydrolysis that results in energy release; the phosphoanhydride bond between the terminal phosphate group and the rest of the ATP molecule does not itself contain this energy. An organism's stockpile of ATP is used as a battery to store energy in cells. Utilization of chemical energy from such molecular bond rearrangement powers biological processes in every biological organism.
 
 Living organisms obtain energy from organic and inorganic materials; i.e. ATP can be synthesized from a variety of biochemical precursors. For example, lithotrophs can oxidize minerals such as nitrites or forms of sulfur, such as elemental sulfur, sulfites, and hydrogen sulfide to produce ATP. In photosynthesis, autotrophs produce ATP using light energy, whereas heterotrophs must consume organic compounds, mostly including carbohydrates, fats, and proteins. The amount of energy actually obtained by the organism is lower than the amount released in combustion of the food; there are losses in digestion, metabolism, and thermogenesis.
-
-## Thermodynamics of Living Organisms
-
-Thermodynamics is a branch of physics that deals with heat, work, and temperature, and their relation to energy, radiation, and properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics which convey a quantitative description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents by statistical mechanics. 
-
-Historically, thermodynamics developed out of a desire to increase the efficiency of early steam engines, particularly through the work of French physicist [Nicolas Léonard Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_Léonard_Sadi_Carnot) (1824) who believed that engine efficiency was the key that could help France win the Napoleonic Wars. Scots-Irish physicist [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) (Lord Kelvin) was the first to formulate a concise definition of thermodynamics in 1854 which stated, "Thermo-dynamics is the subject of the relation of heat to forces acting between contiguous parts of bodies, and the relation of heat to electrical agency."
-
-The initial application of thermodynamics to mechanical heat engines was quickly extended to the study of chemical compounds and chemical reactions. Biological thermodynamics is the quantitative study of the energy transductions that occur in or between living organisms, structures, and cells and of the nature and function of the chemical processes underlying these transductions. Biological thermodynamics may address the question of whether the benefit associated with any particular phenotypic trait is worth the energy investment it requires.
-
-Living organisms must obey the laws of thermodynamics, which describe the transfer of heat and work. The First Law of Thermodynamics is a statement of the conservation of energy; though it can be changed from one form to another, energy can be neither created nor destroyed. The Second Law of Thermodynamics is concerned primarily with whether or not a given process is possible. The Second Law states that no natural process can occur unless it is accompanied by an increase in the entropy of the universe. Stated differently, an isolated system will always tend to disorder. Although living organisms' amazing complexity appears to contradict this law, life is possible as all organisms are open systems that exchange matter and energy with their surroundings. Thus living systems are not in equilibrium, but instead are dissipative systems that maintain their state of high complexity by causing a larger increase in the entropy of their environments. The metabolism of a cell achieves this by coupling the spontaneous processes of catabolism to the non-spontaneous processes of anabolism. In thermodynamic terms, metabolism maintains order by creating disorder.
-
-As the environments of most organisms are constantly changing, the reactions of metabolism must be finely regulated to maintain a constant set of conditions within cells, a condition called homeostasis. Metabolic regulation also allows organisms to respond to signals and interact actively with their environments. Two closely linked concepts are important for understanding how metabolic pathways are controlled. Firstly, the regulation of an enzyme in a pathway is how its activity is increased and decreased in response to signals. Secondly, the control exerted by this enzyme is the effect that these changes in its activity have on the overall rate of the pathway (the flux through the pathway). For example, an enzyme may show large changes in activity (i.e. it is highly regulated) but if these changes have little effect on the flux of a metabolic pathway, then this enzyme is not involved in the control of the pathway.
-
-There are multiple levels of metabolic regulation. In intrinsic regulation, the metabolic pathway self-regulates to respond to changes in the levels of substrates or products; for example, a decrease in the amount of product can increase the flux through the pathway to compensate. This type of regulation often involves allosteric regulation of the activities of multiple enzymes in the pathway. Extrinsic control involves a cell in a multicellular organism changing its metabolism in response to signals from other cells. These signals are usually in the form of water soluble messengers such as hormones and growth factors and are detected by specific receptors on the cell surface. These signals are then transmitted inside the cell by second messenger systems that often involved the phosphorylation of proteins.
-
-A very well understood example of extrinsic control is the regulation of glucose metabolism by the hormone insulin. Insulin is produced in response to rises in blood glucose levels. Binding of the hormone to insulin receptors on cells then activates a cascade of protein kinases that cause the cells to take up glucose and convert it into storage molecules such as fatty acids and glycogen. The metabolism of glycogen is controlled by activity of phosphorylase, the enzyme that breaks down glycogen, and glycogen synthase, the enzyme that makes it. These enzymes are regulated in a reciprocal fashion, with phosphorylation inhibiting glycogen synthase, but activating phosphorylase. Insulin causes glycogen synthesis by activating protein phosphatases and producing a decrease in the phosphorylation of these enzymes.
-
-The central pathways of metabolism described below, such as glycolysis and the citric acid cycle, are present in all three domains of living things and were present in the last universal common ancestor. This universal ancestral cell was prokaryotic and probably a methanogen that had extensive amino acid, nucleotide, carbohydrate and lipid metabolism. The retention of these ancient pathways during later evolution may be the result of these reactions having been an optimal solution to their particular metabolic problems, with pathways such as glycolysis and the citric acid cycle producing their end products highly efficiently and in a minimal number of steps. The first pathways of enzyme-based metabolism may have been parts of purine nucleotide metabolism, while previous metabolic pathways were a part of the ancient RNA world.
-
-Many models have been proposed to describe the mechanisms by which novel metabolic pathways evolve. These include the sequential addition of novel enzymes to a short ancestral pathway, the duplication and then divergence of entire pathways as well as the recruitment of pre-existing enzymes and their assembly into a novel reaction pathway. The relative importance of these mechanisms is unclear, but genomic studies have shown that enzymes in a pathway are likely to have a shared ancestry, suggesting that many pathways have evolved in a step-by-step fashion with novel functions created from pre-existing steps in the pathway. An alternative model comes from studies that trace the evolution of proteins' structures in metabolic networks, this has suggested that enzymes are pervasively recruited, borrowing enzymes to perform similar functions in different metabolic pathways. These recruitment processes result in an evolutionary enzymatic mosaic. A third possibility is that some parts of metabolism might exist as "modules" that can be reused in different pathways and perform similar functions on different molecules.
-
-As well as the evolution of new metabolic pathways, evolution can also cause the loss of metabolic functions. For example, in some parasites metabolic processes that are not essential for survival are lost and preformed amino acids, nucleotides and carbohydrates may instead be scavenged from the host. Similar reduced metabolic capabilities are seen in endosymbiotic organisms.
-
-(ref:sun) [The Sun](https://commons.wikimedia.org/wiki/File:Sun_in_February_(black_version).jpg) is the source of energy for most of life on Earth. It derives its energy mainly from nuclear fusion in its core, converting mass to energy as protons are combined to form helium. This energy is transported to the sun's surface then released into space mainly in the form of radiant (light) energy.
-
-```{r energyfromsun, fig.cap='(ref:sun)', echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("./figures/nutrition/Sun_in_February_black_version.jpg")
-```
-
-The sun is the primary source of energy for living organisms on earth. The relationship between the energy of the incoming sunlight and its wavelength λ or frequency ν is given by
-
-$$ E={\frac  {hc}{\lambda }}=h\nu $$ 
-
-where h is the Planck constant (6.63x10^−34^Js) and c is the speed of light (2.998x10^8 m/s). Plants trap this energy from the sunlight and perform photosynthesis, effectively converting solar energy into chemical energy. To transfer the energy once again, animals will feed on plants (or other animals) and use the energy of digested plant (or animal) materials to create biological macromolecules.
-
-Energy flow, also called the calorific flow, refers to the flow of energy through a food chain. 
-
-A general energy flow scenario follows:
-
-* Solar energy is fixed by the photoautotrophs, called primary producers, like green plants. Primary consumers absorb most of the stored energy in the plant through digestion, and transform it into the form of energy they need, such as adenosine triphosphate (ATP), through respiration. A part of the energy received by primary consumers, herbivores, is converted to body heat (an effect of respiration), which is radiated away and lost from the system. The loss of energy through body heat is far greater in warm-blooded animals, which must eat much more frequently than those that are cold-blooded. Energy loss also occurs in the expulsion of undigested food (egesta) by excretion or regurgitation.
-* Secondary consumers, carnivores, then consume the primary consumers, although omnivores also consume primary producers. Energy that had been used by the primary consumers for growth and storage is thus absorbed into the secondary consumers through the process of digestion. As with primary consumers, secondary consumers convert this energy into a more suitable form (ATP) during respiration. Again, some energy is lost from the system, since energy which the primary consumers had used for respiration and regulation of body temperature cannot be utilized by the secondary consumers.
-* Tertiary consumers, which may or may not be apex predators, then consume the secondary consumers, with some energy passed on and some lost, as with the lower levels of the food chain.
-* A final link in the food chain are decomposers which break down the organic matter of the tertiary consumers (or whichever consumer is at the top of the chain) and release nutrients into the soil. They also break down plants, herbivores and carnivores that were not eaten by organisms higher on the food chain, as well as the undigested food that is excreted by herbivores and carnivores. Saprotrophic bacteria and fungi are decomposers, and play a pivotal role in the nitrogen and carbon cycles.
-  
-The energy is passed on from trophic level to trophic level and each time about 90% of the energy is lost, with some being lost as heat into the environment (an effect of respiration) and some being lost as incompletely digested food (egesta). Therefore, primary consumers get about 10% of the energy produced by autotrophs, while secondary consumers get 1% and tertiary consumers get 0.1%. This means the top consumer of a food chain receives the least energy, as much of the food chain's energy has been lost between trophic levels. This loss of energy at each level limits typical food chains to only four to six links.
-
-## Heterotrophic Microbial Metabolism
-
-Some microbes are heterotrophic (more precisely chemoorganoheterotrophic), using organic compounds as both carbon and energy sources. Heterotrophic microbes live off of nutrients that they scavenge from living hosts (as commensals or parasites) or find in dead organic matter of all kind (saprophages). Microbial metabolism is the main contribution for the bodily decay of all organisms after death. Many eukaryotic microorganisms are heterotrophic by predation or parasitism, properties also found in some bacteria such as Bdellovibrio (an intracellular parasite of other bacteria, causing death of its victims) and Myxobacteria such as Myxococcus (predators of other bacteria which are killed and lysed by cooperating swarms of many single cells of Myxobacteria). Most pathogenic bacteria can be viewed as heterotrophic parasites of humans or the other eukaryotic species they affect. Heterotrophic microbes are extremely abundant in nature and are responsible for the breakdown of large organic polymers such as cellulose, chitin or lignin which are generally indigestible to larger animals. Generally, the oxidative breakdown of large polymers to carbon dioxide (mineralization) requires several different organisms, with one breaking down the polymer into its constituent monomers, one able to use the monomers and excreting simpler waste compounds as by-products, and one able to use the excreted wastes. There are many variations on this theme, as different organisms are able to degrade different polymers and secrete different waste products. Some organisms are even able to degrade more recalcitrant compounds such as petroleum compounds or pesticides, making them useful in bioremediation.
-
-Biochemically, prokaryotic heterotrophic metabolism is much more versatile than that of eukaryotic organisms, although many prokaryotes share the most basic metabolic models with eukaryotes, e. g. using glycolysis (also called EMP pathway) for sugar metabolism and the citric acid cycle to degrade acetate, producing energy in the form of ATP and reducing power in the form of NADH or quinols. These basic pathways are well conserved because they are also involved in biosynthesis of many conserved building blocks needed for cell growth (sometimes in reverse direction). However, many bacteria and archaea utilize alternative metabolic pathways other than glycolysis and the citric acid cycle. A well-studied example is sugar metabolism via the keto-deoxy-phosphogluconate pathway (also called ED pathway) in Pseudomonas. Moreover, there is a third alternative sugar-catabolic pathway used by some bacteria, the pentose phosphate pathway. The metabolic diversity and ability of prokaryotes to use a large variety of organic compounds arises from the much deeper evolutionary history and diversity of prokaryotes, as compared to eukaryotes. It is also noteworthy that the mitochondrion, the small membrane-bound intracellular organelle that is the site of eukaryotic oxygen-driven energy metabolism, arose from the endosymbiosis of a bacterium related to obligate intracellular Rickettsia, and also to plant-associated Rhizobium or Agrobacterium. Therefore, it is not surprising that all mitrochondriate eukaryotes share metabolic properties with these Proteobacteria. Most microbes respire (use an electron transport chain), although oxygen is not the only terminal electron acceptor that may be used. As discussed below, the use of terminal electron acceptors other than oxygen has important biogeochemical consequences.
-
-## Phototrophy
-
-Many microbes (phototrophs) are capable of using light as a source of energy to produce ATP and organic compounds such as carbohydrates, lipids, and proteins. Of these, algae are particularly significant because they are oxygenic, using water as an electron donor for electron transfer during photosynthesis. Phototrophic bacteria are found in the phyla Cyanobacteria, Chlorobi, Proteobacteria, Chloroflexi, and Firmicutes. Along with plants these microbes are responsible for all biological generation of oxygen gas on Earth. Because chloroplasts were derived from a lineage of the Cyanobacteria, the general principles of metabolism in these endosymbionts can also be applied to chloroplasts. In addition to oxygenic photosynthesis, many bacteria can also photosynthesize anaerobically, typically using sulfide (H
-2S) as an electron donor to produce sulfate. Inorganic sulfur (S
-0), thiosulfate (S
-2O2−
-3) and ferrous iron (Fe2+
-) can also be used by some organisms. Phylogenetically, all oxygenic photosynthetic bacteria are Cyanobacteria, while anoxygenic photosynthetic bacteria belong to the purple bacteria (Proteobacteria), Green sulfur bacteria (e.g. Chlorobium), Green non-sulfur bacteria (e.g. Chloroflexus), or the heliobacteria (Low %G+C Gram positives). In addition to these organisms, some microbes (e.g. the Archaeon Halobacterium or the bacterium Roseobacter, among others) can utilize light to produce energy using the enzyme bacteriorhodopsin, a light-driven proton pump. However, there are no known Archaea that carry out photosynthesis.
-
-As befits the large diversity of photosynthetic bacteria, there are many different mechanisms by which light is converted into energy for metabolism. All photosynthetic organisms locate their photosynthetic reaction centers within a membrane, which may be invaginations of the cytoplasmic membrane (Proteobacteria), thylakoid membranes (Cyanobacteria), specialized antenna structures called chlorosomes (Green sulfur and non-sulfur bacteria), or the cytoplasmic membrane itself (heliobacteria). Different photosynthetic bacteria also contain different photosynthetic pigments, such as chlorophylls and carotenoids, allowing them to take advantage of different portions of the electromagnetic spectrum and thereby inhabit different niches. Some groups of organisms contain more specialized light-harvesting structures (e.g. phycobilisomes in Cyanobacteria and chlorosomes in Green sulfur and non-sulfur bacteria), allowing for increased efficiency in light utilization.
-
-Biochemically, anoxygenic photosynthesis is very different from oxygenic photosynthesis. Cyanobacteria (and by extension, chloroplasts) use the Z scheme of electron flow in which electrons eventually are used to form NADH. Two different reaction centers (photosystems) are used and proton motive force is generated both by using cyclic electron flow and the quinone pool. In anoxygenic photosynthetic bacteria, electron flow is cyclic, with all electrons used in photosynthesis eventually being transferred back to the single reaction center. A proton motive force is generated using only the quinone pool. In heliobacteria, Green sulfur, and Green non-sulfur bacteria, NADH is formed using the protein ferredoxin, an energetically favorable reaction. In purple bacteria, NADH is formed by reverse electron flow due to the lower chemical potential of this reaction center. In all cases, however, a proton motive force is generated and used to drive ATP production via an ATPase.
-
-Most photosynthetic microbes are autotrophic, fixing carbon dioxide via the Calvin cycle. Some photosynthetic bacteria (e.g. Chloroflexus) are photoheterotrophs, meaning that they use organic carbon compounds as a carbon source for growth. Some photosynthetic organisms also fix nitrogen (see below).
-
-## Chemolithotrophy
-
-Chemolithotrophy is a type of metabolism where energy is obtained from the oxidation of inorganic compounds. Most chemolithotrophic organisms are also autotrophic. There are two major objectives to chemolithotrophy: the generation of energy (ATP) and the generation of reducing power (NADH).
-
-Hydrogen oxidation
-Main article: Hydrogen oxidizing bacteria
-Many organisms are capable of using hydrogen (H
-2) as a source of energy. While several mechanisms of anaerobic hydrogen oxidation have been mentioned previously (e.g. sulfate reducing- and acetogenic bacteria), hydrogen can also be used to unlock the chemical energy of O2  in the aerobic Knallgas reaction:
-
-2 H2 + O2 → 2 H2O + energy
-In these organisms, hydrogen is oxidized by a membrane-bound hydrogenase causing proton pumping via electron transfer to various quinones and cytochromes. In many organisms, a second cytoplasmic hydrogenase is used to generate reducing power in the form of NADH, which is subsequently used to fix carbon dioxide via the Calvin cycle. Hydrogen-oxidizing organisms, such as Cupriavidus necator (formerly Ralstonia eutropha), often inhabit oxic-anoxic interfaces in nature to take advantage of the hydrogen produced by anaerobic fermentative organisms while still maintaining a supply of oxygen.
-
-Sulfur oxidation
-Sulfur oxidation involves the oxidation of reduced sulfur compounds (such as sulfide H
-2S), inorganic sulfur (S), and thiosulfate (S
-2O2−
-3) to form sulfuric acid (H
-2SO
-4). A classic example of a sulfur-oxidizing bacterium is Beggiatoa, a microbe originally described by Sergei Winogradsky, one of the founders of environmental microbiology. Another example is Paracoccus. Generally, the oxidation of sulfide occurs in stages, with inorganic sulfur being stored either inside or outside of the cell until needed. This two step process occurs because energetically sulfide is a better electron donor than inorganic sulfur or thiosulfate, allowing for a greater number of protons to be translocated across the membrane. Sulfur-oxidizing organisms generate reducing power for carbon dioxide fixation via the Calvin cycle using reverse electron flow, an energy-requiring process that pushes the electrons against their thermodynamic gradient to produce NADH. Biochemically, reduced sulfur compounds are converted to sulfite (SO2−
-3) and subsequently converted to sulfate (SO2−
-4) by the enzyme sulfite oxidase. Some organisms, however, accomplish the same oxidation using a reversal of the APS reductase system used by sulfate-reducing bacteria (see above). In all cases the energy liberated is transferred to the electron transport chain for ATP and NADH production. In addition to aerobic sulfur oxidation, some organisms (e.g. Thiobacillus denitrificans) use nitrate (NO−
-3) as a terminal electron acceptor and therefore grow anaerobically.
-
-Ferrous iron (Fe2+) oxidation
-
-Ferrous iron is a soluble form of iron that is stable at extremely low pHs or under anaerobic conditions. Under aerobic, moderate pH conditions ferrous iron is oxidized spontaneously to the ferric (Fe3+
-) form and is hydrolyzed abiotically to insoluble ferric hydroxide (Fe(OH)
-3). There are three distinct types of ferrous iron-oxidizing microbes. The first are acidophiles, such as the bacteria Acidithiobacillus ferrooxidans and Leptospirillum ferrooxidans, as well as the archaeon Ferroplasma. These microbes oxidize iron in environments that have a very low pH and are important in acid mine drainage. The second type of microbes oxidize ferrous iron at near-neutral pH. These micro-organisms (for example Gallionella ferruginea, Leptothrix ochracea, or Mariprofundus ferrooxydans) live at the oxic-anoxic interfaces and are microaerophiles. The third type of iron-oxidizing microbes are anaerobic photosynthetic bacteria such as Rhodopseudomonas, which use ferrous iron to produce NADH for autotrophic carbon dioxide fixation. Biochemically, aerobic iron oxidation is a very energetically poor process which therefore requires large amounts of iron to be oxidized by the enzyme rusticyanin to facilitate the formation of proton motive force. Like sulfur oxidation, reverse electron flow must be used to form the NADH used for carbon dioxide fixation via the Calvin cycle.
-
-Nitrification
-Nitrification is the process by which ammonia (NH
-3) is converted to nitrate (NO−
-3). Nitrification is actually the net result of two distinct processes: oxidation of ammonia to nitrite (NO−
-2) by nitrosifying bacteria (e.g. Nitrosomonas) and oxidation of nitrite to nitrate by the nitrite-oxidizing bacteria (e.g. Nitrobacter). Both of these processes are extremely energetically poor leading to very slow growth rates for both types of organisms. Biochemically, ammonia oxidation occurs by the stepwise oxidation of ammonia to hydroxylamine (NH
-2OH) by the enzyme ammonia monooxygenase in the cytoplasm, followed by the oxidation of hydroxylamine to nitrite by the enzyme hydroxylamine oxidoreductase in the periplasm.
-
-Electron and proton cycling are very complex but as a net result only one proton is translocated across the membrane per molecule of ammonia oxidized. Nitrite oxidation is much simpler, with nitrite being oxidized by the enzyme nitrite oxidoreductase coupled to proton translocation by a very short electron transport chain, again leading to very low growth rates for these organisms. Oxygen is required in both ammonia and nitrite oxidation, meaning that both nitrosifying and nitrite-oxidizing bacteria are aerobes. As in sulfur and iron oxidation, NADH for carbon dioxide fixation using the Calvin cycle is generated by reverse electron flow, thereby placing a further metabolic burden on an already energy-poor process.
-
-In 2015, two groups independently showed the microbial genus Nitrospira is capable of complete nitrification (Comammox).
-
-Nitrogen fixation
-
-Nitrogen is an element required for growth by all biological systems. While extremely common (80% by volume) in the atmosphere, dinitrogen gas (N
-2) is generally biologically inaccessible due to its high activation energy. Throughout all of nature, only specialized bacteria and Archaea are capable of nitrogen fixation, converting dinitrogen gas into ammonia (NH
-3), which is easily assimilated by all organisms. These prokaryotes, therefore, are very important ecologically and are often essential for the survival of entire ecosystems. This is especially true in the ocean, where nitrogen-fixing cyanobacteria are often the only sources of fixed nitrogen, and in soils, where specialized symbioses exist between legumes and their nitrogen-fixing partners to provide the nitrogen needed by these plants for growth.
-
-Nitrogen fixation can be found distributed throughout nearly all bacterial lineages and physiological classes but is not a universal property. Because the enzyme nitrogenase, responsible for nitrogen fixation, is very sensitive to oxygen which will inhibit it irreversibly, all nitrogen-fixing organisms must possess some mechanism to keep the concentration of oxygen low. Examples include:
-
-* heterocyst formation (cyanobacteria e.g. Anabaena) where one cell does not photosynthesize but instead fixes nitrogen for its neighbors which in turn provide it with energy
-* root nodule symbioses (e.g. Rhizobium) with plants that supply oxygen to the bacteria bound to molecules of leghaemoglobin
-* anaerobic lifestyle (e.g. Clostridium pasteurianum)
-* very fast metabolism (e.g. Azotobacter vinelandii)
-The production and activity of nitrogenases is very highly regulated, both because nitrogen fixation is an extremely energetically expensive process (16–24 ATP are used per N
-2 fixed) and due to the extreme sensitivity of the nitrogenase to oxygen.
 
 ## Transport And Movement Of Substances Across The Cell Membrane
 
@@ -219,7 +127,7 @@ Exocytosis involves the removal of substances through the fusion of the outer ce
 
 Bacterial growth is proliferation of bacterium into two daughter cells, in a process called binary fission. Providing no event occurs, the resulting daughter cells are genetically identical to the original cell. Hence, bacterial growth occurs. Both daughter cells from the division do not necessarily survive. However, if the number surviving exceeds unity on average, the bacterial population undergoes exponential growth. The measurement of an exponential bacterial growth curve in batch culture was traditionally a part of the training of all microbiologists; the basic means requires bacterial enumeration (cell counting) by direct and individual (microscopic, flow cytometry), direct and bulk (biomass), indirect and individual (colony counting), or indirect and bulk (most probable number, turbidity, nutrient uptake) methods. Models reconcile theory with the measurements.
 
-(ref:curve)[A Bacterial growth curve\Kinetic Curve](https://commons.wikimedia.org/wiki/File:Bacterial_growth_en.svg)
+(ref:curve) [A Bacterial growth curve\Kinetic Curve](https://commons.wikimedia.org/wiki/File:Bacterial_growth_en.svg)
 
 ```{r growthcurve, fig.cap='(ref:curve)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/nutrition/Bacterial_growth_en.svg")
@@ -242,7 +150,65 @@ Bacterial growth can be suppressed with bacteriostats, without necessarily killi
 
 Liquid is not the only laboratory environment for bacterial growth. Spatially structured environments such as biofilms or agar surfaces present additional complex growth models.
 
-## Environmental Facors Influencing Growth
+## Cell Counting
+
+Numerous procedures in biology and medicine require the counting of cells. By the counting of cells in a known small volume, the concentration can be mediated. Examples of the need for cell counting include:
+
+* In medicine, the concentration of various blood cells, such as red blood cells and white blood cells, can give crucial information regarding the health situation of a person (see: complete blood count).
+* In cell therapy, to control the dose of cells administered to a patient.
+* Similarly, the concentration of bacteria, viruses and other pathogens in the blood or in other bodily fluids can reveal information about the progress of an infectious disease and about the degree of success with which the immune system is dealing with the infection.
+* The cell concentration needs to be known for many experiments in molecular biology, in order to adjust accordingly the amount of reagents and chemicals that are to be applied in the experiment.
+* Studies that examine the growth rate of microorganisms (in other words, how fast they divide to create new cells) require cell counting.
+* Calculating the fraction of dead to live cells as a measure of cell viability, such as of cells exposed to poison.
+
+There are several methods for cell counting. Some are primitive and do not require special equipment, thus can be done in any biological laboratory, whereas others rely on sophisticated electronic appliances.
+
+### Counting Chamber
+
+A counting chamber, is a microscope slide that is especially designed to enable cell counting. Hemocytometers and Sedgewick Rafter counting chambers are two types of counting chambers. The hemocytometer has two gridded chambers in its middle, which are covered with a special glass slide when counting. A drop of cell culture is placed in the space between the chamber and the glass cover, filling it via capillary action. Looking at the sample under the microscope, the researcher uses the grid to manually count the number of cells in a certain area of known size. The separating distance between the chamber and the cover is predefined, thus the volume of the counted culture can be calculated and with it the concentration of cells. Cell viability can also be determined if viability dyes are added to the fluid.
+
+Their advantage is being cheap and fast; this makes them the preferred counting method in fast biological experiments where it is only necessary to determine if a cell culture has grown as expected. Usually the culture examined needs to be diluted, otherwise the high density of cells would make counting impossible. The need for dilution is a disadvantage as every dilution adds inaccuracy to the measurement.
+
+### Plating And The Colony-Forming Unit Counting
+
+To quantify the number of cells in a culture, the cells can be simply plated on a petri dish with growth medium. If the cells are efficiently distributed on the plate, it can be generally assumed that each cell will give rise to a single colony or Colony Forming Unit (CFU). The colonies can then be counted, and based on the known volume of culture that was spread on the plate, the cell concentration can be calculated. This is often carried out following the ASTM D5465 standard.
+
+As is with counting chambers, cultures usually need to be heavily diluted prior to plating; otherwise, instead of obtaining single colonies that can be counted, a so-called "lawn" will form: thousands of colonies lying over each other. Additionally, plating is the slowest method of all: most microorganisms need at least 12 hours to form visible colonies.
+
+Although this method can be time-consuming, it gives an accurate estimate of the number of viable cells (because only they will be able to grow and form visible colonies). It is therefore extensively used in experiments aiming to quantify the number of cells resisting drugs or other external conditions (for instance the Luria–Delbrück experiment or the gentamicin protection assay). In addition, the enumeration of colonies on agar plates can be greatly facilitated by using colony counters.
+
+A colony-forming unit (CFU, cfu, Cfu) is a unit used in microbiology to estimate the number of viable bacteria or fungal cells in a sample. Viable is defined as the ability to multiply via binary fission under the controlled conditions. Counting with colony-forming units requires culturing the microbes and counts only viable cells, in contrast with microscopic examination which counts all cells, living or dead. The visual appearance of a colony in a cell culture requires significant growth, and when counting colonies it is uncertain if the colony arose from one cell or a group of cells. Expressing results as colony-forming units reflects this uncertainty.
+
+The purpose of plate counting is to estimate the number of cells present based on their ability to give rise to colonies under specific conditions of nutrient medium, temperature and time. Theoretically, one viable cell can give rise to a colony through replication. However, solitary cells are the exception in nature, and most likely the progenitor of the colony was a mass of cells deposited together. In addition, many bacteria grow in chains (e.g. Streptococcus) or clumps (e.g., Staphylococcus). Estimation of microbial numbers by CFU will, in most cases, undercount the number of living cells present in a sample for these reasons. This is because the counting of CFU assumes that every colony is separate and founded by a single viable microbial cell.
+
+The plate count is linear for E. coli over the range of 30 to 300 CFU on a standard sized Petri dish. Therefore, to ensure that a sample will yield CFU in this range requires dilution of the sample and plating of several dilutions. Typically, ten-fold dilutions are used, and the dilution series is plated in replicates of 2 or 3 over the chosen range of dilutions. Often 100µl are plated but also larger amounts up to 1ml are used. Higher plating volumes increase drying times but often don't result in higher accuracy, since additional dilution steps may be needed. The CFU/plate is read from a plate in the linear range, and then the CFU/g (or CFU/mL) of the original is deduced mathematically, factoring in the amount plated and its dilution factor (e.g. CLSI VET01S).An advantage to this method is that different microbial species may give rise to colonies that are clearly different from each other, both microscopically and macroscopically. The colony morphology can be of great use in the identification of the microorganism present.
+
+A prior understanding of the microscopic anatomy of the organism can give a better understanding of how the observed CFU/mL relates to the number of viable cells per milliliter. Alternatively it is possible to decrease the average number of cells per CFU in some cases by vortexing the sample before conducting the dilution. However many microorganisms are delicate and would suffer a decrease in the proportion of cells that are viable when placed in a vortex.
+
+Counting colonies is traditionally performed manually using a pen and a click-counter. This is generally a straightforward task, but can become very laborious and time-consuming when many plates have to be enumerated. Alternatively semi-automatic (software) and automatic (hardware + software) solutions can be used.
+
+### Electrical Resistance
+￼
+The electrode of a Coulter counter
+
+
+A Coulter counter is an appliance that can count cells as well as measure their volume. It is based on the fact that cells show great electrical resistance; in other words, they conduct almost no electricity. In a Coulter counter the cells, swimming in a solution that conducts electricity, are sucked one by one into a tiny gap. Flanking the gap are two electrodes that conduct electricity. When no cell is in the gap, electricity flows unabated, but when a cell is sucked into the gap the current is resisted. The Coulter counter counts the number of such events and also measures the current (and hence the resistance), which directly correlates to the volume of the cell trapped. A similar system is the CASY cell counting technology.
+
+Coulter and CASY counters are much cheaper than flow cytometers, and for applications that require cell numbers and sizes, such as cell-cycle research, they are the method of choice. Its advantage over the methods above is the large number of cells that can be processed in a short time, namely: thousands of cells per second. This offers great accuracy and statistical significance.
+
+### Flow Cytometry
+
+Flow cytometry is by far the most sophisticated and expensive method for cell counting. In a flow cytometer the cells flow in a narrow stream in front of a laser beam. The beam hits them one by one, and a light detector picks up the light that is reflected from the cells.
+
+Flow cytometers have many other abilities, such as analyzing the shape of cells and their internal and external structures, as well as measuring the amount of specific proteins and other biochemicals in the cells. Therefore, flow cytometers are rarely purchased for the sole purpose of counting cells.
+
+### Spectrophotometry
+
+Cell suspensions are turbid. Cells absorb and scatter the light. The higher the cell concentration, the higher the turbidity. Spectrophotometers can measure intensity of light very accurately. The cell culture is placed in a transparent cuvette and the absorption is measured relative to medium alone. Optical density (OD) is directly proportional to the biomass in the cell suspension in a given range that is specific to the cell type. Using spectrophotometry for measuring the turbidity of cultures is known as turbidometry.
+
+This has made spectrophotometry the methods of choice for measurements of bacterial growth and related applications. Spectrophotometry's drawback is its inability to provide an absolute count or distinguish between living and dead cells.
+
+## Environmental Factors Influencing Growth
 
 Environmental factors influence rate of bacterial growth such as acidity (pH), temperature, water activity, macro and micro nutrients, oxygen levels, and toxins. Conditions tend to be relatively consistent between bacteria with the exception of extremophiles. Bacterium have optimal growth conditions under which they thrive, but once outside of those conditions the stress can result in either reduced or stalled growth, dormancy (such as formation spores), or death. Maintaining sub-optimal growth conditions is a key principle to food preservation.
 
