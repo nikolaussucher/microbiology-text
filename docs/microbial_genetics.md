@@ -278,11 +278,9 @@ In molecular biology and genetics, transformation is the genetic alteration of a
 (ref:trans) [In this diagram](https://commons.wikimedia.org/wiki/File:Bacterial_Transformation.svg) , a gene from bacterial cell 1 is moved from bacterial cell 1 to bacterial cell 2. This process of bacterial cell 2 taking up new genetic material is called transformation. Step I: The DNA of a bacterial cell is located in the cytoplasm (1), but also in the plasmid, an independent, circular loop of DNA. The gene to be transferred (4) is located on the plasmid of cell 1 (3), but not on the plasmid of bacterial cell 2 (2). In order to remove the gene from the plasmid of bacterial cell 1, a restriction enzyme (5) is used. The restriction enzyme binds to a specific site on the DNA and “cuts” it, releasing the satisfactory gene. Genes are naturally removed and released into the environment usually after a cell dies and disintegrates. Step II: Bacterial cell 2 takes up the gene. This integration of genetic material from the environment is an evolutionary tool and is common in bacterial cells. Step III: The enzyme DNA ligase (6) adds the gene to the plasmid of bacterial cell 2 by forming chemical bonds between the two segments which join them together. Step IV: The plasmid of bacterial cell 2 now contains the gene from bacterial cell 1 (7). The gene has been transferred from one bacterial cell to another, and transformation is complete.
 
 <div class="figure" style="text-align: center">
-<img src="./figures/genetics/Bacterial_Transformation.svg" alt="(ref:conj)" width="70%" />
-<p class="caption">(\#fig:transormation)(ref:conj)</p>
+<img src="./figures/genetics/Bacterial_Transformation.svg" alt="(ref:trans)" width="70%" />
+<p class="caption">(\#fig:transormation)(ref:trans)</p>
 </div>
-
-
 
 Transformation is one of three processes for horizontal gene transfer, in which exogenous genetic material passes from one bacterium to another, the other two being conjugation (transfer of genetic material between two bacterial cells in direct contact) and transduction (injection of foreign DNA by a bacteriophage virus into the host bacterium). In transformation, the genetic material passes through the intervening medium, and uptake is completely dependent on the recipient bacterium.
 
@@ -296,8 +294,6 @@ It was originally thought that Escherichia coli, a commonly used laboratory orga
 2 treatment is also effective for transformation of plasmid DNA. The method of transformation by Mandel and Higa was later improved upon by Douglas Hanahan. The discovery of artificially induced competence in E. coli created an efficient and convenient procedure for transforming bacteria which allows for simpler molecular cloning methods in biotechnology and research, and it is now a routinely used laboratory procedure.
 
 Transformation using electroporation was developed in the late 1980s, increasing the efficiency of in-vitro transformation and increasing the number of bacterial strains that could be transformed. Transformation of animal and plant cells was also investigated with the first transgenic mouse being created by injecting a gene for a rat growth hormone into a mouse embryo in 1982. In 1897 a bacterium that caused plant tumors, Agrobacterium tumefaciens, was discovered and in the early 1970s the tumor-inducing agent was found to be a DNA plasmid called the Ti plasmid. By removing the genes in the plasmid that caused the tumor and adding in novel genes, researchers were able to infect plants with A. tumefaciens and let the bacteria insert their chosen DNA into the genomes of the plants. Not all plant cells are susceptible to infection by A. tumefaciens, so other methods were developed, including electroporation and micro-injection. Particle bombardment was made possible with the invention of the Biolistic Particle Delivery System (gene gun) by John Sanford in the 1980s.
-
-As of 2014 about 80 species of bacteria were known to be capable of transformation, about evenly divided between Gram-positive and Gram-negative bacteria; the number might be an overestimate since several of the reports are supported by single papers.
 
 Naturally competent bacteria carry sets of genes that provide the protein machinery to bring DNA across the cell membrane(s). The transport of the exogenous DNA into the cells may require proteins that are involved in the assembly of type IV pili and type II secretion system, as well as DNA translocase complex at the cytoplasmic membrane.
 
