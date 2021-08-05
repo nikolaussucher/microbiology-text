@@ -327,7 +327,7 @@ Genetic engineering has potential applications in conservation and natural area 
 
 Genetic engineering is also being used to create microbial art. Some bacteria have been genetically engineered to create black and white photographs. Novelty items such as lavender-colored carnations, blue roses, and glowing fish have also been produced through genetic engineering.
 
-### Regulation oF Genetic Engineering
+### Regulation Of Genetic Engineering
 
 The regulation of genetic engineering concerns the approaches taken by governments to assess and manage the risks associated with the development and release of GMOs. The development of a regulatory framework began in 1975, at Asilomar, California. The Asilomar meeting recommended a set of voluntary guidelines regarding the use of recombinant technology. As the technology improved the US established a committee at the Office of Science and Technology, which assigned regulatory approval of GM food to the USDA, FDA and EPA. The Cartagena Protocol on Biosafety, an international treaty that governs the transfer, handling, and use of GMOs, was adopted on 29 January 2000. One hundred and fifty-seven countries are members of the Protocol and many use it as a reference point for their own regulations.
 

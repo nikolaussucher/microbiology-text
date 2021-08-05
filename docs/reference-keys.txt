@@ -110,6 +110,8 @@ fig:sexlinked
 fig:dnacartoon
 tab:geneticcode
 fig:transcriptionfactor
+fig:transormation
+fig:conjugation
 fig:dnastructure
 fig:basestruc
 fig:groove
@@ -409,6 +411,8 @@ genetic-change
 natural-selection-and-evolution
 bacterial-genetics-1
 bacterial-transformation
+practical-aspects-of-transformation-in-molecular-biology
+selection-and-screening-in-plasmid-transformation
 bacterial-conjugation
 structure-and-function-of-deoxyribonucleic-acid
 dna-damage
