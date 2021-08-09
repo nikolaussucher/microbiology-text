@@ -307,6 +307,7 @@ With their potential for unpredictable and explosive impacts, infectious disease
 * In the 19th century, tuberculosis killed an estimated one-quarter of the adult population of Europe; by 1918 one in six deaths in France were still caused by TB.
 * The Influenza Pandemic of 1918 (or the Spanish flu) killed 25–50 million people (about 2% of world population of 1.7 billion). Today Influenza kills about 250,000 to 500,000 worldwide each year.
 Emerging diseases
+
 In most cases, microorganisms live in harmony with their hosts via mutual or commensal interactions. Diseases can emerge when existing parasites become pathogenic or when new pathogenic parasites enter a new host.
 
 1. Coevolution between parasite and host can lead to hosts becoming resistant to the parasites or the parasites may evolve greater virulence, leading to immunopathological disease.

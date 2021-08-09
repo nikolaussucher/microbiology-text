@@ -592,6 +592,8 @@ aminoglycoside-antibiotics
 mechanism-of-action-of-amimoglycoside-antibiotics
 drug-resistance
 bacterial-resistence-to-penicillin
+testing-for-antibiotic-sensitivity
+the-disk-diffusion-test
 replenishing-the-antibiotic-pipeline-and-developing-other-new-therapies
 natural-product-based-antibiotic-discovery
 immunoglobulin-therapy
@@ -599,8 +601,6 @@ phage-therapy
 fecal-microbiota-transplants
 antisense-rna-based-treatments
 crispr-cas9-based-treatments
-testing-for-antibiotic-sensitivity
-the-disk-diffusion-test
 infection-and-disease
 pathogenic-bacteria
 pathogenic-susceptibility
