@@ -96,6 +96,7 @@ Most of the structures that make up animals, plants and microbes are made from f
   </tr>
 </tbody>
 </table>
+
 The history of the scientific study of metabolism spans several centuries and has moved from examining whole animals in early studies, to examining individual metabolic reactions in modern biochemistry. The first controlled experiments in human metabolism were published by Santorio Santorio in 1614 in his book Ars de statica medicina. He described how he weighed himself before and after eating, sleep, working, sex, fasting, drinking, and excreting. He found that most of the food he took in was lost through what he called "insensible perspiration".
 
 In these early studies, the mechanisms of these metabolic processes had not been identified and a vital force was thought to animate living tissue. In the 19th century, when studying the fermentation of sugar to alcohol by yeast, [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) concluded that fermentation was catalyzed by substances within the yeast cells he called "ferments". He wrote that "alcoholic fermentation is an act correlated with the life and organization of the yeast cells, not with the death or putrefaction of the cells." This discovery, along with the publication by Friedrich Wöhler in 1828 of a paper on the chemical synthesis of urea, and is notable for being the first organic compound prepared from wholly inorganic precursors. This proved that the organic compounds and chemical reactions found in cells were no different in principle than any other part of chemistry.

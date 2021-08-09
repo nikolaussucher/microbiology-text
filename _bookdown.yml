@@ -14,6 +14,7 @@ rmd_files:   [ "index.Rmd",
                "genetic_engineering.Rmd",
                "microbial_control.Rmd",
                "antimicrobial_drugs.Rmd",
+               "infection_disease.Rmd",
                "host_defenses.Rmd",
                "adaptive_immunity.Rmd"
              ]

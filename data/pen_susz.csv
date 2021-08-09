@@ -1,0 +1,7 @@
+Bacterium,Susceptible (S),Intermediate (I),Resistant (R)
+Staphylococcus aureus,≤0.12 mcg/ml,-,≥0.25 mcg/ml
+Streptococcus pneumoniae meningitis,≤0.06 mcg/ml,-,≥0.12 mcg/ml
+Streptococcus pneumoniae (not meningitis),≤2 mcg/ml,,≥8 mcg/ml
+Streptococcus Viridans group,0.12 mcg/ml,0.25–2 mcg/ml,4 mcg/ml
+Listeria monocytogenes,≤2 mcg/ml,-,-
+Bacillus anthracis,≤0.12 mcg/ml,-,≥0.25 mcg/ml
