@@ -283,13 +283,13 @@ The most [up-to-date schedules](https://www.cdc.gov/vaccines/schedules/index.htm
 
 (ref:child) [Child and adolescent immunization schedule.](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html)
 
-```{r childschedule , fig.cap='(ref:child)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r childschedule, fig.cap='(ref:child)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/adaptive_immunity/child_schedule.png")
 ```
 
 (ref:adult) [Adult immunization schedule.](https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html)
 
-```{r adultschedule , fig.cap='(ref:adult)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r adultschedule, fig.cap='(ref:adult)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/adaptive_immunity/adult_schedule.png")
 ```
 

@@ -136,6 +136,8 @@ tab:resistance
 tab:path
 tab:immune
 fig:hematopoiesis
+fig:childschedule
+fig:adultschedule
 the-main-themes-of-microbiology
 general-characteristics-and-evolution-of-microorganisms
 archaea

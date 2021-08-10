@@ -285,13 +285,13 @@ The most [up-to-date schedules](https://www.cdc.gov/vaccines/schedules/index.htm
 
 <div class="figure" style="text-align: center">
 <img src="./figures/adaptive_immunity/child_schedule.png" alt="(ref:child)" width="70%" />
-<p class="caption">(\#fig:childschedule )(ref:child)</p>
+<p class="caption">(\#fig:childschedule)(ref:child)</p>
 </div>
 
 (ref:adult) [Adult immunization schedule.](https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html)
 
 <div class="figure" style="text-align: center">
 <img src="./figures/adaptive_immunity/adult_schedule.png" alt="(ref:adult)" width="70%" />
-<p class="caption">(\#fig:adultschedule )(ref:adult)</p>
+<p class="caption">(\#fig:adultschedule)(ref:adult)</p>
 </div>
 
