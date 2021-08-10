@@ -1,9 +1,7 @@
 # The Adaptive Immune System And Immunization
 
 The adaptive immune system, also referred as the acquired immune system, is a subsystem of the immune system that is composed of specialized, systemic cells and processes that eliminate pathogens or prevent their growth. The acquired immune system is one of the two main immunity strategies found in vertebrates (the other being the innate immune system).
-
 ￼
-Google Ngram of "acquired immunity " vs. "adaptive immunity". The peak for "adaptive" in the 1960s reflects its introduction to immunology by Robert A. Good and use by colleagues; the explosive increase in the 1990s was correlated with the use of the phrase "innate immunity".
 Like the innate system, the adaptive immune system includes both humoral immunity components and cell-mediated immunity components and destroys invading pathogens. Unlike the innate immune system, which is pre-programmed to react to common broad categories of pathogen, the adaptive immune system is highly specific to each particular pathogen the body has encountered.
 
 Adaptive immunity creates immunological memory after an initial response to a specific pathogen, and leads to an enhanced response to future encounters with that pathogen. Antibodies are a critical part of the adaptive immune system. Adaptive immunity can provide long-lasting protection, sometimes for the person's entire lifetime. For example, someone who recovers from measles is now protected against measles for their lifetime; in other cases it does not provide lifetime protection, as with chickenpox. This process of adaptive immunity is the basis of vaccination.
@@ -27,6 +25,55 @@ The major functions of the acquired immune system include:
 * Development of immunological memory, in which pathogens are "remembered" through memory B cells and memory T cells.
 
 In humans, it takes 4-7 days for the adaptive immune system to mount a significant response.
+
+## Humoral immunity
+
+Humoral immunity is the aspect of immunity that is mediated by macromolecules found in extracellular fluids such as secreted antibodies, complement proteins, and certain antimicrobial peptides. Humoral immunity is named so because it involves substances found in the humors, or body fluids. It contrasts with cell-mediated immunity. Humoral immunity is also referred to as antibody-mediated immunity.
+
+The study of the molecular and cellular components that form the immune system, including their function and interaction, is the central science of immunology. The immune system is divided into a more primitive innate immune system and an acquired or adaptive immune system of vertebrates, each of which contain both humoral and cellular immune elements.
+
+Humoral immunity refers to antibody production and the coinciding processes that accompany it, including: Th2 activation and cytokine production, germinal center formation and isotype switching, and affinity maturation and memory cell generation. It also refers to the effector functions of antibodies, which include pathogen and toxin neutralization, classical complement activation, and opsonin promotion of phagocytosis and pathogen elimination.
+
+The concept of humoral immunity developed based on the analysis of antibacterial activity of the serum components. Hans Buchner is credited with the development of the humoral theory. In 1890, Buchner described alexins as "protective substances" that exist in the blood serum and other bodily fluids and are capable of killing microorganisms. Alexins, later redefined as "complements" by Paul Ehrlich, were shown to be the soluble components of the innate response that leads to a combination of cellular and humoral immunity. This discovery helped to bridge the features of innate and acquired immunity.
+
+Following the 1888 discovery of the bacteria that cause diphtheria and tetanus, Emil von Behring and Kitasato Shibasaburō showed that disease need not be caused by microorganisms themselves. They discovered that cell-free filtrates were sufficient to cause disease. In 1890, filtrates of diphtheria, later named diphtheria toxins, were used to vaccinate animals in an attempt to demonstrate that immunized serum contained an antitoxin that could neutralize the activity of the toxin and could transfer immunity to non-immune animals. In 1897, Paul Ehrlich showed that antibodies form against the plant toxins ricin and abrin, and proposed that these antibodies are responsible for immunity. Ehrlich, with his colleague von Behring, went on to develop the diphtheria antitoxin, which became the first major success of modern immunotherapy. The discovery of specified compatible antibodies became a major tool in the standardization of immunity and the identification of lingering infections.
+
+## Antibodies
+
+Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. The terms antibody and immunoglobulin are often used interchangeably. They are found in the blood and tissue fluids, as well as many secretions. In structure, they are large Y-shaped globular proteins. In mammals there are five types of antibody: IgA, IgD, IgE, IgG, and IgM. Each immunoglobulin class differs in its biological properties and has evolved to deal with different antigens. Antibodies are synthesized and secreted by plasma cells that are derived from the B cells of the immune system.
+
+An antibody is used by the acquired immune system to identify and neutralize foreign objects like bacteria and viruses. Each antibody recognizes a specific antigen unique to its target. By binding their specific antigens, antibodies can cause agglutination and precipitation of antibody-antigen products, prime for phagocytosis by macrophages and other cells, block viral receptors, and stimulate other immune responses, such as the complement pathway.
+
+An incompatible blood transfusion causes a transfusion reaction, which is mediated by the humoral immune response. This type of reaction, called an acute hemolytic reaction, results in the rapid destruction (hemolysis) of the donor red blood cells by host antibodies. The cause is usually a clerical error, such as the wrong unit of blood being given to the wrong patient. The symptoms are fever and chills, sometimes with back pain and pink or red urine (hemoglobinuria). The major complication is that hemoglobin released by the destruction of red blood cells can cause acute kidney failure.
+
+### Antibody production
+
+In humoral immune response, the B cells first mature in the bone marrow and gain B-cell receptors (BCR's) which are displayed in large numbers on the cell surface.
+
+These membrane-bound protein complexes have antibodies which are specific for antigen detection. Each B cell has a unique antibody that binds with an antigen. The mature B cells then migrate from the bone marrow to the lymph nodes or other lymphatic organs, where they begin to encounter pathogens.
+
+### B cell activation
+
+When a B cell encounters an antigen, the antigen binds to the receptor and is taken inside the B cell by endocytosis. The antigen is processed and presented on the B cell's surface again by MHC-II proteins.
+
+### B cell proliferation
+
+The B cell waits for a helper T cell (TH) to bind to the complex. This binding will activate the TH cell, which then releases cytokines that induce B cells to divide rapidly, making thousands of identical clones of the B cell. These daughter cells either become plasma cells or memory cells. The memory B cells remain inactive here; later, when these memory B cells encounter the same antigen due to reinfection, they divide and form plasma cells. On the other hand, the plasma cells produce a large number of antibodies which are released freely into the circulatory system.
+
+### Antibody-antigen reaction
+
+These antibodies will encounter antigens and bind with them. This will either interfere with the chemical interaction between host and foreign cells, or they may form bridges between their antigenic sites hindering their proper functioning. Their presence might also attract macrophages or killer cells to attack and phagocytose them.
+
+## Cell-mediated immunity
+
+Cellular immunity protects the body through:
+
+* T-cell mediated immunity or T-cell immunity: activating antigen-specific cytotoxic T cells that are able to induce apoptosis in body cells displaying epitopes of foreign antigen on their surface, such as virus-infected cells, cells with intracellular bacteria, and cancer cells displaying tumor antigens;
+* Macrophage and natural killer cell action: enabling the destruction of pathogens via recognition and secretion of cytotoxic granules (for natural killer cells) and phagocytosis (for macrophages); and
+* Stimulating cells to secrete a variety of cytokines that influence the function of other cells involved in adaptive immune responses and innate immune responses.
+* Cell-mediated immunity is directed primarily at microbes that survive in phagocytes and microbes that infect non-phagocytic cells. It is most effective in removing virus-infected cells, but also participates in defending against fungi, protozoans, cancers, and intracellular bacteria. It also plays a major role in transplant rejection.
+
+Type 1 immunity is directed primarily at viruses, bacteria, and protozoa and is responsible for activating macrophages, turning them into potent effector cells. This is achieved by the secretion of interferon gamma and TNF.:
 
 ## Lymphocytes
 
@@ -57,8 +104,8 @@ Endogenous antigens are produced by intracellular bacteria and viruses replicati
 
 ## T lymphocytes
 
-CD8+ T lymphocytes and cytotoxicity
-Main article: Cytotoxic T cell
+### CD8+ T lymphocytes and cytotoxicity
+
 Cytotoxic T cells (also known as TC, killer T cell, or cytotoxic T-lymphocyte (CTL)) are a sub-group of T cells that induce the death of cells that are infected with viruses (and other pathogens), or are otherwise damaged or dysfunctional.
 
 Naive cytotoxic T cells are activated when their T-cell receptor (TCR) strongly interacts with a peptide-bound MHC class I molecule. This affinity depends on the type and orientation of the antigen/MHC complex, and is what keeps the CTL and infected cell bound together. Once activated, the CTL undergoes a process called clonal selection, in which it gains functions and divides rapidly to produce an army of “armed” effector cells. Activated CTL then travels throughout the body searching for cells that bear that unique MHC Class I + peptide.
@@ -67,14 +114,14 @@ When exposed to these infected or dysfunctional somatic cells, effector CTL rele
 
 On resolution of the infection, most effector cells die and phagocytes clear them away—but a few of these cells remain as memory cells. On a later encounter with the same antigen, these memory cells quickly differentiate into effector cells, dramatically shortening the time required to mount an effective response.
 
-Helper T-cells
-Main article: T helper cell
+### Helper T-cells
 
 CD4+ lymphocytes, also called "helper" T cells, are immune response mediators, and play an important role in establishing and maximizing the capabilities of the acquired immune response. These cells have no cytotoxic or phagocytic activity; and cannot kill infected cells or clear pathogens, but, in essence "manage" the immune response, by directing other cells to perform these tasks.
 
 Helper T cells express T cell receptors (TCR) that recognize antigen bound to Class II MHC molecules. The activation of a naive helper T-cell causes it to release cytokines, which influences the activity of many cell types, including the APC (Antigen-Presenting Cell) that activated it. Helper T-cells require a much milder activation stimulus than cytotoxic T cells. Helper T cells can provide extra signals that "help" activate cytotoxic cells.
 
-Th1 and Th2: helper T cell responses
+### Th1 And Th2: Helper T Cell Responses
+
 Classically, two types of effector CD4+ T helper cell responses can be induced by a professional APC, designated Th1 and Th2, each designed to eliminate different types of pathogens. The factors that dictate whether an infection triggers a Th1 or Th2 type response are not fully understood, but the response generated does play an important role in the clearance of different pathogens.
 
 The Th1 response is characterized by the production of Interferon-gamma, which activates the bactericidal activities of macrophages, and induces B cells to make opsonizing (marking for phagocytosis) and complement-fixing antibodies, and leads to cell-mediated immunity. In general, Th1 responses are more effective against intracellular pathogens (viruses and bacteria that are inside host cells).
@@ -85,59 +132,48 @@ Increasingly, there is strong evidence from mouse and human-based scientific stu
 
 The relevance of CD4+ T helper cells is highlighted during an HIV infection. HIV is able to subvert the immune system by specifically attacking the CD4+ T cells, precisely the cells that could drive the clearance of the virus, but also the cells that drive immunity against all other pathogens encountered during an organism's lifetime.
 
-Gamma delta T cells
-Main article: Gamma delta T cell
+### Gamma Delta T Cells
+
 Gamma delta T cells (γδ T cells) possess an alternative T cell receptor (TCR) as opposed to CD4+ and CD8+ αβ T cells and share characteristics of helper T cells, cytotoxic T cells and natural killer cells. Like other 'unconventional' T cell subsets bearing invariant TCRs, such as CD1d-restricted natural killer T cells, γδ T cells exhibit characteristics that place them at the border between innate and acquired immunity. On one hand, γδ T cells may be considered a component of adaptive immunity in that they rearrange TCR genes via V(D)J recombination, which also produces junctional diversity, and develop a memory phenotype. On the other hand, however, the various subsets may also be considered part of the innate immune system where a restricted TCR or NK receptors may be used as a pattern recognition receptor. For example, according to this paradigm, large numbers of Vγ9/Vδ2 T cells respond within hours to common molecules produced by microbes, and highly restricted intraepithelial Vδ1 T cells respond to stressed epithelial cells.
 
-B lymphocytes and antibody production
+## B Lymphocytes And Antibody Production
 
 B Cells are the major cells involved in the creation of antibodies that circulate in blood plasma and lymph, known as humoral immunity. Antibodies (also known as immunoglobulin, Ig), are large Y-shaped proteins used by the immune system to identify and neutralize foreign objects. In mammals, there are five types of antibody: IgA, IgD, IgE, IgG, and IgM, differing in biological properties; each has evolved to handle different kinds of antigens. Upon activation, B cells produce antibodies, each of which recognize a unique antigen, and neutralizing specific pathogens.
 
 Antigen and antibody binding would cause five different protective mechanisms:
 
-Agglutination: Reduces number of infectious units to be dealt with
-Activation of complement: Cause inflammation and cell lysis
-Opsonization: Coating antigen with antibody enhances phagocytosis
-Antibody-dependent cell-mediated cytotoxicity: Antibodies attached to target cell cause destruction by macrophages, eosinophils, and NK cells
-Neutralization: Blocks adhesion of bacteria and viruses to mucosa
+* Agglutination: Reduces number of infectious units to be dealt with
+* Activation of complement: Cause inflammation and cell lysis
+* Opsonization: Coating antigen with antibody enhances phagocytosis
+* Antibody-dependent cell-mediated cytotoxicity: Antibodies attached to target cell cause destruction by macrophages, eosinophils, and NK cells
+* Neutralization: Blocks adhesion of bacteria and viruses to mucosa
+
 Like the T cell, B cells express a unique B cell receptor (BCR), in this case, a membrane-bound antibody molecule. All the BCR of any one clone of B cells recognizes and binds to only one particular antigen. A critical difference between B cells and T cells is how each cell "sees" an antigen. T cells recognize their cognate antigen in a processed form – as a peptide in the context of an MHC molecule, whereas B cells recognize antigens in their native form. Once a B cell encounters its cognate (or specific) antigen (and receives additional signals from a helper T cell (predominately Th2 type)), it further differentiates into an effector cell, known as a plasma cell.
 
 Plasma cells are short-lived cells (2–3 days) that secrete antibodies. These antibodies bind to antigens, making them easier targets for phagocytes, and trigger the complement cascade. About 10% of plasma cells survive to become long-lived antigen-specific memory B cells. Already primed to produce specific antibodies, these cells can be called upon to respond quickly if the same pathogen re-infects the host, while the host experiences few, if any, symptoms.
 
-Alternative systems
-In jawless vertebrates
-Main article: Adaptive immunity in jawless vertebrates
-Primitive jawless vertebrates, such as the lamprey and hagfish, have an adaptive immune system that shows 3 different cell lineages, each sharing a common origin with B cells, αβ T cells, and innate-like γΔ T cells. Instead of the classical antibodies and T cell receptors, these animals possess a large array of molecules called variable lymphocyte receptors (VLRs for short) that, like the antigen receptors of jawed vertebrates, are produced from only a small number (one or two) of genes. These molecules are believed to bind pathogenic antigens in a similar way to antibodies, and with the same degree of specificity.
+## Immunological Memory
 
-In insects
-For a long time it was thought that insects and other invertebrates possess only innate immune system. However, in recent years some of the basic hallmarks of adaptive immunity have been discovered in insects. Those traits are immune memory and specificity. Although the hallmarks are present the mechanisms are different from those in vertebrates.
-
-Immune memory in insects was discovered through the phenomenon of priming. When insects are exposed to non-lethal dose or heat killed bacteria they are able to develop a memory of that infection that allows them to withstand otherwise lethal dose of the same bacteria they were exposed to before. Unlike in vertebrates, insects do not possess cells specific for adaptive immunity. Instead those mechanisms are mediated by hemocytes. Hemocytes function similarly to phagocytes and after priming they are able to more effectively recognize and engulf the pathogen. It was also shown that it is possible to transfer the memory into offspring. For example, in honeybees if the queen is infected with bacteria then the newly born workers have enhanced abilities in fighting with the same bacteria. Other experimental model based on red flour beetle also showed pathogen specific primed memory transfer into offspring from both mothers and fathers.
-
-Most commonly accepted theory of the specificity is based on Dscam gene. Dscam gene also known as Down syndrome cell adhesive molecule is a gene that contains 3 variable Ig domains. Those domains can be alternatively spliced reaching high numbers of variations. It was shown that after exposure to different pathogens there are different splice forms of dscam produced. After the animals with different splice forms are exposed to the same pathogen only the individuals with the splice form specific for that pathogen survive.
-
-Other mechanisms supporting the specificity of insect immunity is RNA interference (RNAi). RNAi is a form of antiviral immunity with high specificity. It has several different pathways that all end with the virus being unable to replicate. One of the pathways is siRNA in which long double stranded RNA is cut into pieces that serve as templates for protein complex Ago2-RISC that finds and degrades complementary RNA of the virus. MiRNA pathway in cytoplasm binds to Ago1-RISC complex and functions as a template for viral RNA degradation. Last one is piRNA where small RNA binds to the Piwi protein family and controls transposones and other mobile elements. Despite the research the exact mechanisms responsible for immune priming and specificity in insects are not well described.
-
-Immunological memory
-Further information: Immunity (medical)
 When B cells and T cells are activated some become memory B cells and some memory T cells. Throughout the lifetime of an animal these memory cells form a database of effective B and T lymphocytes. Upon interaction with a previously encountered antigen, the appropriate memory cells are selected and activated. In this manner, the second and subsequent exposures to an antigen produce a stronger and faster immune response. This is "adaptive" in the sense that the body's immune system prepares itself for future challenges, but is "maladaptive" of course if the receptors are autoimmune. Immunological memory can be in the form of either passive short-term memory or active long-term memory.
 
-Passive memory
+### Passive Memory
 Passive memory is usually short-term, lasting between a few days and several months. Newborn infants have had no prior exposure to microbes and are particularly vulnerable to infection. Several layers of passive protection are provided by the mother. In utero, maternal IgG is transported directly across the placenta, so that, at birth, human babies have high levels of antibodies, with the same range of antigen specificities as their mother. Breast milk contains antibodies (mainly IgA) that are transferred to the gut of the infant, protecting against bacterial infections, until the newborn can synthesize its own antibodies.
 
 This is passive immunity because the fetus does not actually make any memory cells or antibodies: It only borrows them. Short-term passive immunity can also be transferred artificially from one individual to another via antibody-rich serum.
 
-Active memory
+### Active Memory
+
 In general, active immunity is long-term and can be acquired by infection followed by B cell and T cell activation, or artificially acquired by vaccines, in a process called immunization.
 
-Immunization
+### Immunization
+
 Historically, infectious disease has been the leading cause of death in the human population. Over the last century, two important factors have been developed to combat their spread: sanitation and immunization. Immunization (commonly referred to as vaccination) is the deliberate induction of an immune response, and represents the single most effective manipulation of the immune system that scientists have developed. Immunizations are successful because they utilize the immune system's natural specificity as well as its inducibility.
 
 The principle behind immunization is to introduce an antigen, derived from a disease-causing organism, that stimulates the immune system to develop protective immunity against that organism, but that does not itself cause the pathogenic effects of that organism. An antigen (short for antibody generator), is defined as any substance that binds to a specific antibody and elicits an adaptive immune response.
 
 Most viral vaccines are based on live attenuated viruses, whereas many bacterial vaccines are based on acellular components of microorganisms, including harmless toxin components. Many antigens derived from acellular vaccines do not strongly induce an adaptive response, and most bacterial vaccines require the addition of adjuvants that activate the antigen-presenting cells of the innate immune system to enhance immunogenicity.
 
-Immunological diversity
+### Immunological Diversity
 
 Most large molecules, including virtually all proteins and many polysaccharides, can serve as antigens. The parts of an antigen that interact with an antibody molecule or a lymphocyte receptor, are called epitopes, or antigenic determinants. Most antigens contain a variety of epitopes and can stimulate the production of antibodies, specific T cell responses, or both. A very small proportion (less than 0.01%) of the total lymphocytes are able to bind to a particular antigen, which suggests that only a few cells respond to each antigen.
 
@@ -147,11 +183,115 @@ Myriad receptors are produced through a process known as clonal selection. Accor
 
 Note that the innate and acquired portions of the immune system work together, not in spite of each other. The acquired arm, B, and T cells couldn't function without the innate system input. T cells are useless without antigen-presenting cells to activate them, and B cells are crippled without T cell help. On the other hand, the innate system would likely be overrun with pathogens without the specialized action of the adaptive immune response.
 
-Acquired immunity during pregnancy
-The cornerstone of the immune system is the recognition of "self" versus "non-self". Therefore, the mechanisms that protect the human fetus (which is considered "non-self") from attack by the immune system, are particularly interesting. Although no comprehensive explanation has emerged to explain this mysterious, and often repeated, lack of rejection, two classical reasons may explain how the fetus is tolerated. The first is that the fetus occupies a portion of the body protected by a non-immunological barrier, the uterus, which the immune system does not routinely patrol. The second is that the fetus itself may promote local immunosuppression in the mother, perhaps by a process of active nutrient depletion. A more modern explanation for this induction of tolerance is that specific glycoproteins expressed in the uterus during pregnancy suppress the uterine immune response (see eu-FEDS).
+## Immunization
 
-During pregnancy in viviparous mammals (all mammals except Monotremes), endogenous retroviruses (ERVs) are activated and produced in high quantities during the implantation of the embryo. They are currently known to possess immunosuppressive properties, suggesting a role in protecting the embryo from its mother's immune system. Also, viral fusion proteins cause the formation of the placental syncytium to limit exchange of migratory cells between the developing embryo and the body of the mother (something an epithelium can't do sufficiently, as certain blood cells specialize to insert themselves between adjacent epithelial cells). The immunodepressive action was the initial normal behavior of the virus, similar to HIV. The fusion proteins were a way to spread the infection to other cells by simply merging them with the infected one (HIV does this too). It is believed that the ancestors of modern viviparous mammals evolved after an infection by this virus, enabling the fetus to survive the immune system of the mother.
+Immunization, or immunisation, is the process by which an individual's immune system becomes fortified against an agent (known as the immunogen).
 
-The human genome project found several thousand ERVs classified into 24 families.
+When this system is exposed to molecules that are foreign to the body, called non-self, it will orchestrate an immune response, and it will also develop the ability to quickly respond to a subsequent encounter because of immunological memory. This is a function of the adaptive immune system. Therefore, by exposing an animal to an immunogen in a controlled way, its body can learn to protect itself: this is called active immunization.
 
+The most important elements of the immune system that are improved by immunization are the T cells, B cells, and the antibodies B cells produce. Memory B cells and memory T cells are responsible for a swift response to a second encounter with a foreign molecule. Passive immunization is direct introduction of these elements into the body, instead of production of these elements by the body itself.
+
+Immunization is done through various techniques, most commonly vaccination. Vaccines against microorganisms that cause diseases can prepare the body's immune system, thus helping to fight or prevent an infection. The fact that mutations can cause cancer cells to produce proteins or other molecules that are known to the body forms the theoretical basis for therapeutic cancer vaccines. Other molecules can be used for immunization as well, for example in experimental vaccines against nicotine (NicVAX) or the hormone ghrelin in experiments to create an obesity vaccine.
+
+Immunizations are often widely stated as less risky and an easier way to become immune to a particular disease than risking a milder form of the disease itself. They are important for both adults and children in that they can protect us from the many diseases out there. Immunization not only protects children against deadly diseases but also helps in developing children's immune systems. Through the use of immunizations, some infections and diseases have almost completely been eradicated throughout the United States and the World. One example is polio. Thanks to dedicated health care professionals and the parents of children who vaccinated on schedule, polio has been eliminated in the U.S. since 1979. Polio is still found in other parts of the world so certain people could still be at risk of getting it. This includes those people who have never had the vaccine, those who didn't receive all doses of the vaccine, or those traveling to areas of the world where polio is still prevalent.
+
+Active immunization/vaccination has been named one of the "Ten Great Public Health Achievements in the 20th Century".
+
+Before the introduction of vaccines, people could only become immune to an infectious disease by contracting the disease and surviving it. Smallpox (variola) was prevented in this way by inoculation, which produced a milder effect than the natural disease. The first clear reference to smallpox inoculation was made by the Chinese author Wan Quan (1499–1582) in his Douzhen xinfa (痘疹心法) published in 1549. In China, powdered smallpox scabs were blown up the noses of the healthy. The patients would then develop a mild case of the disease and from then on were immune to it. The technique did have a 0.5–2.0% mortality rate, but that was considerably less than the 20–30% mortality rate of the disease itself. Two reports on the Chinese practice of inoculation were received by the Royal Society in London in 1700; one by Dr. Martin Lister who received a report by an employee of the East India Company stationed in China and another by Clopton Havers. According to Voltaire (1742), the Turks derived their use of inoculation from neighbouring Circassia. Voltaire does not speculate on where the Circassians derived their technique from, though he reports that the Chinese have practiced it "these hundred years". It was introduced into England from Turkey by Lady Mary Wortley Montagu in 1721 and used by Zabdiel Boylston in Boston the same year. In 1798 Edward Jenner introduced inoculation with cowpox (smallpox vaccine), a much safer procedure. This procedure, referred to as vaccination, gradually replaced smallpox inoculation, now called variolation to distinguish it from vaccination. Until the 1880s vaccine/vaccination referred only to smallpox, but Louis Pasteur developed immunization methods for chicken cholera and anthrax in animals and for human rabies, and suggested that the terms vaccine/vaccination should be extended to cover the new procedures. This can cause confusion if care is not taken to specify which vaccine is used e.g. measles vaccine or influenza vaccine.
+
+Immunization can be achieved in an active or passive manner: vaccination is an active form of immunization.
+
+Active immunization
+
+Active immunization can occur naturally when a person comes in contact with, for example, a microbe. The immune system will eventually create antibodies and other defenses against the microbe. The next time, the immune response against this microbe can be very efficient; this is the case in many of the childhood infections that a person only contracts once, but then is immune.
+
+Artificial active immunization is where the microbe, or parts of it, are injected into the person before they are able to take it in naturally. If whole microbes are used, they are pre-treated.
+
+The importance of immunization is so great that the American Centers for Disease Control and Prevention has named it one of the "Ten Great Public Health Achievements in the 20th Century". Live attenuated vaccines have decreased pathogenicity. Their effectiveness depends on the immune systems ability to replicate and elicits a response similar to natural infection. It is usually effective with a single dose. Examples of live, attenuated vaccines include measles, mumps, rubella, MMR, yellow fever, varicella, rotavirus, and influenza (LAIV).
+
+Passive immunization
+
+Passive immunization is where pre-synthesized elements of the immune system are transferred to a person so that the body does not need to produce these elements itself. Currently, antibodies can be used for passive immunization. This method of immunization begins to work very quickly, but it is short lasting, because the antibodies are naturally broken down, and if there are no B cells to produce more antibodies, they will disappear.
+
+Passive immunization occurs physiologically, when antibodies are transferred from mother to fetus during pregnancy, to protect the fetus before and shortly after birth.
+
+Artificial passive immunization is normally administered by injection and is used if there has been a recent outbreak of a particular disease or as an emergency treatment for toxicity, as in for tetanus. The antibodies can be produced in animals, called "serum therapy," although there is a high chance of anaphylactic shock because of immunity against animal serum itself. Thus, humanized antibodies produced in vitro by cell culture are used instead if available.
+
+## Vaccination
+
+Vaccination is the administration of a vaccine to help the immune system develop protection from a disease. Vaccines contain a microorganism or virus in a weakened, live or killed state, or proteins or toxins from the organism. In stimulating the body's adaptive immunity, they help prevent sickness from an infectious disease. When a sufficiently large percentage of a population has been vaccinated, herd immunity results. Herd immunity protects those who may be immunocompromised and cannot get a vaccine because even a weakened version would harm them. The effectiveness of vaccination has been widely studied and verified. Vaccination is the most effective method of preventing infectious diseases; widespread immunity due to vaccination is largely responsible for the worldwide eradication of smallpox and the elimination of diseases such as polio and tetanus from much of the world. However, some diseases, such as measles outbreaks in America, have seen rising cases due to relatively low vaccination rates in the 2010s – attributed, in part, to vaccine hesitancy.
+
+The first disease people tried to prevent by inoculation was most likely smallpox, with the first recorded use of variolation occurring in the 16th century in China. It was also the first disease for which a vaccine was produced. Although at least six people had used the same principles years earlier, the smallpox vaccine was invented in 1796 by English physician Edward Jenner. He was the first to publish evidence that it was effective and to provide advice on its production. Louis Pasteur furthered the concept through his work in microbiology. The immunization was called vaccination because it was derived from a virus affecting cows (Latin: vacca 'cow'). Smallpox was a contagious and deadly disease, causing the deaths of 20–60% of infected adults and over 80% of infected children. When smallpox was finally eradicated in 1979, it had already killed an estimated 300–500 million people in the 20th century.
+
+Vaccination and immunization have a similar meaning in everyday language. This is distinct from inoculation, which uses unweakened live pathogens. Vaccination efforts have been met with some reluctance on scientific, ethical, political, medical safety, and religious grounds, although no major religions oppose vaccination, and some consider it an obligation due to the potential to save lives. In the United States, people may receive compensation for alleged injuries under the National Vaccine Injury Compensation Program. Early success brought widespread acceptance, and mass vaccination campaigns have greatly reduced the incidence of many diseases in numerous geographic regions.
+
+### Mechanism of Action
+
+Vaccines are a way of artificially activating the immune system to protect against infectious disease. The activation occurs through priming the immune system with an immunogen. Stimulating immune responses with an infectious agent is known as immunization. Vaccination includes various ways of administering immunogens.
+
+Most vaccines are administered before a patient has contracted a disease to help increase future protection. However, some vaccines are administered after the patient already has contracted a disease. Vaccines given after exposure to smallpox are reported to offer some protection from disease or may reduce the severity of disease. The first rabies immunization was given by Louis Pasteur to a child after he was bitten by a rabid dog. Since its discovery, the rabies vaccine has been proven effective in preventing rabies in humans when administered several times over 14 days along with rabies immune globulin and wound care. Other examples include experimental AIDS, cancer and Alzheimer's disease vaccines. Such immunizations aim to trigger an immune response more rapidly and with less harm than natural infection.
+
+Most vaccines are given by injection as they are not absorbed reliably through the intestines. Live attenuated polio, rotavirus, some typhoid, and some cholera vaccines are given orally to produce immunity in the bowel. While vaccination provides a lasting effect, it usually takes several weeks to develop. This differs from passive immunity (the transfer of antibodies, such as in breastfeeding), which has immediate effect.
+
+A vaccine failure is when an organism contracts a disease in spite of being vaccinated against it. Primary vaccine failure occurs when an organism's immune system does not produce antibodies when first vaccinated. Vaccines can fail when several series are given and fail to produce an immune response. The term "vaccine failure" does not necessarily imply that the vaccine is defective. Most vaccine failures are simply from individual variations in immune response.
+
+￼
+Measles infection rate vs vaccination rate, 1980 - 2011. Source: WHO
+Vaccination versus inoculation
+The term inoculation is often used interchangeably with vaccination. However, the terms are not synonymous. Dr Byron Plant explains: "Vaccination is the more commonly used term, which actually consists of a 'safe' injection of a sample taken from a cow suffering from cowpox... Inoculation, a practice probably as old as the disease itself, is the injection of the variola virus taken from a pustule or scab of a smallpox sufferer into the superficial layers of the skin, commonly on the upper arm of the subject. Often inoculation was done 'arm-to-arm' or, less effectively, 'scab-to-arm'..." Inoculation oftentimes caused the patient to become infected with smallpox, and in some cases the infection turned into a severe case.
+
+Confirmed applications of inoculation for smallpox happened in China in the 1550s.
+
+Vaccinations began in the 18th century with the work of Edward Jenner and the smallpox vaccine.
+
+Vaccine development and approval
+Just like any medication or procedure, no vaccine can be 100% safe or effective for everyone because each person's body can react differently. While minor side effects, such as soreness or low grade fever, are relatively common, serious side effects are very rare and occur in about 1 out of every 100,000 vaccinations and typically involve allergic reactions that can cause hives or difficulty breathing. However, vaccines are the safest they ever have been in history and each vaccine undergoes rigorous clinical trials to ensure their safety and efficacy before FDA approval.
+
+Prior to human testing, vaccines are run through computer algorithms to model how they will interact with the immune system and are tested on cells in a culture. During the next round of testing, researchers study vaccines in animals, including mice, rabbits, guinea pigs, and monkeys. Vaccines that pass each of these stages of testing are then approved by the FDA to start a three-phase series of human testing, advancing to higher phases only if they are deemed safe and effective at the previous phase. The people in these trials participate voluntarily and are required to prove they understand the purpose of the study and the potential risks.
+
+During phase I trials, a vaccine is tested in a group of about 20 people with the primary goal of assessing the vaccine's safety. Phase II trials expand the testing to include 50 to several hundred people. During this stage, the vaccine's safety continues to be evaluated and researchers also gather data on the effectiveness and the ideal dose of the vaccine. Vaccines determined to be safe and efficacious then advance to phase III trials, which focuses on the efficacy of the vaccine in hundreds to thousands of volunteers. This phase can take several years to complete and researchers use this opportunity to compare the vaccinated volunteers to those who have not been vaccinated to highlight any true reactions to the vaccine that occur.
+
+If a vaccine passes all of the phases of testing, the manufacturer can then apply for licensure of the vaccine through the FDA. Before the FDA approves use in the general public, they extensively review the results to the clinical trials, safety tests, purity tests, and manufacturing methods and establish that the manufacturer itself is up to government standards in many other areas. However, safety testing of the vaccines never ends.
+
+After FDA approval, the FDA continues to monitor the manufacturing protocols, batch purity, and the manufacturing facility itself. Additionally, most vaccines also undergo phase IV trials, which monitors the safety and efficacy of vaccines in tens of thousands of people, or more, across many years. This allows for delayed or very rare reactions to be detected and evaluated.
+
+Side effects
+
+The Centers for Disease Control and Prevention (CDC) has compiled a list of vaccines and their possible side effects. The risk of side effects varies from one vaccine to the next, but below are examples of side effects and their approximate rate of occurrence with the diphtheria, tetanus, and acellular pertussis (DTaP) vaccine, a common childhood vaccine.
+
+Mild side effects (common)
+
+* Mild fever (1 in 4)
+* Redness, soreness, swelling at the injection site (1 in 4)
+* Fatigue, poor appetite (1 in 10)
+* Vomiting (1 in 50)
+
+Moderate side effects (uncommon)
+
+* Seizure (1 in 14,000)
+* High fever (over 105 °F) (1 in 16,000)
+
+Severe side effects (rare)
+
+* Serious allergic reaction (1 in 1,000,000)
+* Other severe problems including long-term seizure, coma, brain damage have been reported, but are so rare that it is not possible to tell if they are from the vaccine or not.
+
+Certain vaccines have had adverse outcomes identified after being used in mass vaccination programs. In 1976 in the United States, a mass vaccination program swine flu vaccine was discontinued after cases of Guillain–Barré syndrome. William Foege of the CDC estimated that the incidence of Guillain-Barré was four times higher in vaccinated people than in those not receiving the swine flu vaccine. Dengvaxia, the only approved vaccine for Dengue fever, was found to increase the risk of hospitalization for Dengue fever by 1.58 times in children of 9 years or younger, resulting in the suspension of a mass vaccination program in the Philippines in 2017. Pandemrix – a vaccine for the H1N1 pandemic of 2009 given to around 31 million people – was found to have a higher level of adverse events than alternative vaccines resulting in legal action. In a response to the narcolepsy reports following immunization with Pandemrix, the CDC carried out a population-based study and found the FDA-approved 2009 H1N1 flu shots were not associated with an increased risk for the neurological disorder.
+
+The most [up-to-date schedules](https://www.cdc.gov/vaccines/schedules/index.html) are available from the [Centers  for Disease Control and Prevention (CDC)](https://www.cdc.gov/). In the US, the National Childhood Vaccine Injury Act requires all health-care providers to provide parents or patients with copies of Vaccine Information Statements before administering vaccines.
+
+
+(ref:child) [Child and adolescent immunization schedule.](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/child_schedule.png" alt="(ref:child)" width="70%" />
+<p class="caption">(\#fig:childschedule )(ref:child)</p>
+</div>
+
+(ref:adult) [Adult immunization schedule.](https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/adult_schedule.png" alt="(ref:adult)" width="70%" />
+<p class="caption">(\#fig:adultschedule )(ref:adult)</p>
+</div>
 

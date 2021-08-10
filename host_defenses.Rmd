@@ -104,6 +104,82 @@ The inflammatory response is characterized by the following symptoms:
 * pain, either local pain, such as painful joints or a sore throat, or affecting the whole body, such as body aches; and
 * possible dysfunction of the organs or tissues involved.
 
+### Process of Acute Inflammation
+
+The process of acute inflammation is initiated by resident immune cells already present in the involved tissue, mainly resident macrophages, dendritic cells, histiocytes, Kupffer cells and mast cells. These cells possess surface receptors known as pattern recognition receptors (PRRs), which recognize (i.e., bind) two subclasses of molecules: pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs). PAMPs are compounds that are associated with various pathogens, but which are distinguishable from host molecules. DAMPs are compounds that are associated with host-related injury and cell damage.
+
+At the onset of an infection, burn, or other injuries, these cells undergo activation (one of the PRRs recognize a PAMP or DAMP) and release inflammatory mediators responsible for the clinical signs of inflammation. Vasodilation and its resulting increased blood flow causes the redness (rubor) and increased heat (calor). Increased permeability of the blood vessels results in an exudation (leakage) of plasma proteins and fluid into the tissue (edema), which manifests itself as swelling (tumor). Some of the released mediators such as bradykinin increase the sensitivity to pain (hyperalgesia, dolor). The mediator molecules also alter the blood vessels to permit the migration of leukocytes, mainly neutrophils and macrophages, to flow out of the blood vessels (extravasation) and into the tissue. The neutrophils migrate along a chemotactic gradient created by the local cells to reach the site of injury. The loss of function (functio laesa) is probably the result of a neurological reflex in response to pain.
+
+In addition to cell-derived mediators, several acellular biochemical cascade systems consisting of preformed plasma proteins act in parallel to initiate and propagate the inflammatory response. These include the complement system activated by bacteria and the coagulation and fibrinolysis systems activated by necrosis, e.g. a burn or a trauma.
+
+Acute inflammation may be regarded as the first line of defense against injury. Acute inflammatory response requires constant stimulation to be sustained. Inflammatory mediators are short-lived and are quickly degraded in the tissue. Hence, acute inflammation begins to cease once the stimulus has been removed.
+
+### Vasodilation And Increased Permeability
+
+As defined, acute inflammation is an immunovascular response to an inflammatory stimulus. This means acute inflammation can be broadly divided into a vascular phase that occurs first, followed by a cellular phase involving immune cells (more specifically myeloid granulocytes in the acute setting). The vascular component of acute inflammation involves the movement of plasma fluid, containing important proteins such as fibrin and immunoglobulins (antibodies), into inflamed tissue.
+
+Upon contact with PAMPs, tissue macrophages and mastocytes release vasoactive amines such as histamine and serotonin, as well as eicosanoids such as prostaglandin E2 and leukotriene B4 to remodel the local vasculature. Macrophages and endothelial cells release nitric oxide. These mediators vasodilate and permeabilize the blood vessels, which results in the net distribution of blood plasma from the vessel into the tissue space. The increased collection of fluid into the tissue causes it to swell (edema). This exuded tissue fluid contains various antimicrobial mediators from the plasma such as complement, lysozyme, antibodies, which can immediately deal damage to microbes, and opsonise the microbes in preparation for the cellular phase. If the inflammatory stimulus is a lacerating wound, exuded platelets, coagulants, plasmin and kinins can clot the wounded area and provide haemostasis in the first instance. These clotting mediators also provide a structural staging framework at the inflammatory tissue site in the form of a fibrin lattice – as would construction scaffolding at a construction site – for the purpose of aiding phagocytic debridement and wound repair later on. Some of the exuded tissue fluid is also funnelled by lymphatics to the regional lymph nodes, flushing bacteria along to start the recognition and attack phase of the adaptive immune system.
+
+Acute inflammation is characterized by marked vascular changes, including vasodilation, increased permeability and increased blood flow, which are induced by the actions of various inflammatory mediators. Vasodilation occurs first at the arteriole level, progressing to the capillary level, and brings about a net increase in the amount of blood present, causing the redness and heat of inflammation. Increased permeability of the vessels results in the movement of plasma into the tissues, with resultant stasis due to the increase in the concentration of the cells within blood – a condition characterized by enlarged vessels packed with cells. Stasis allows leukocytes to marginate (move) along the endothelium, a process critical to their recruitment into the tissues. Normal flowing blood prevents this, as the shearing force along the periphery of the vessels moves cells in the blood into the middle of the vessel.
+
+Plasma cascade systems
+* The complement system, when activated, creates a cascade of chemical reactions that promotes opsonization, chemotaxis, and agglutination, and produces the MAC.
+* The kinin system generates proteins capable of sustaining vasodilation and other physical inflammatory effects.
+* The coagulation system or clotting cascade, which forms a protective protein mesh over sites of injury.
+* The fibrinolysis system, which acts in opposition to the coagulation system, to counterbalance clotting and generate several other inflammatory mediators.
+
+The cellular component involves leukocytes, which normally reside in blood and must move into the inflamed tissue via extravasation to aid in inflammation. Some act as phagocytes, ingesting bacteria, viruses, and cellular debris. Others release enzymatic granules that damage pathogenic invaders. Leukocytes also release inflammatory mediators that develop and maintain the inflammatory response. In general, acute inflammation is mediated by granulocytes, whereas chronic inflammation is mediated by mononuclear cells such as monocytes and lymphocytes.
+
+### Leukocyte Extravasation
+
+Various leukocytes, particularly neutrophils, are critically involved in the initiation and maintenance of inflammation. These cells must be able to move to the site of injury from their usual location in the blood, therefore mechanisms exist to recruit and direct leukocytes to the appropriate place. The process of leukocyte movement from the blood to the tissues through the blood vessels is known as extravasation and can be broadly divided up into a number of steps:
+
+1. Leukocyte margination and endothelial adhesion: The white blood cells within the vessels which are generally centrally located move peripherally towards the walls of the vessels. Activated macrophages in the tissue release cytokines such as IL-1 and TNFα, which in turn leads to production of chemokines that bind to proteoglycans forming gradient in the inflamed tissue and along the endothelial wall. Inflammatory cytokines induce the immediate expression of P-selectin on endothelial cell surfaces and P-selectin binds weakly to carbohydrate ligands on the surface of leukocytes and causes them to "roll" along the endothelial surface as bonds are made and broken. Cytokines released from injured cells induce the expression of E-selectin on endothelial cells, which functions similarly to P-selectin. Cytokines also induce the expression of integrin ligands such as ICAM-1 and VCAM-1 on endothelial cells, which mediate the adhesion and further slow leukocytes down. These weakly bound leukocytes are free to detach if not activated by chemokines produced in injured tissue after signal transduction via respective G protein-coupled receptors that activates integrins on the leukocyte surface for firm adhesion. Such activation increases the affinity of bound integrin receptors for ICAM-1 and VCAM-1 on the endothelial cell surface, firmly binding the leukocytes to the endothelium.
+1. Migration across the endothelium, known as transmigration, via the process of diapedesis: Chemokine gradients stimulate the adhered leukocytes to move between adjacent endothelial cells. The endothelial cells retract and the leukocytes pass through the basement membrane into the surrounding tissue using adhesion molecules such as ICAM-1.
+1. Movement of leukocytes within the tissue via chemotaxis: Leukocytes reaching the tissue interstitium bind to extracellular matrix proteins via expressed integrins and CD44 to prevent them from leaving the site. A variety of molecules behave as chemoattractants, for example, C3a or C5, and cause the leukocytes to move along a chemotactic gradient towards the source of inflammation.
+
+### Phagocytosis
+
+Extravasated neutrophils in the cellular phase come into contact with microbes at the inflamed tissue. Phagocytes express cell-surface endocytic pattern recognition receptors (PRRs) that have affinity and efficacy against non-specific microbe-associated molecular patterns (PAMPs). Most PAMPs that bind to endocytic PRRs and initiate phagocytosis are cell wall components, including complex carbohydrates such as mannans and β-glucans, lipopolysaccharides (LPS), peptidoglycans, and surface proteins. Endocytic PRRs on phagocytes reflect these molecular patterns, with C-type lectin receptors binding to mannans and β-glucans, and scavenger receptors binding to LPS.
+
+Upon endocytic PRR binding, actin-myosin cytoskeletal rearrangement adjacent to the plasma membrane occurs in a way that endocytoses the plasma membrane containing the PRR-PAMP complex, and the microbe. Phosphatidylinositol and Vps34-Vps15-Beclin1 signalling pathways have been implicated to traffic the endocytosed phagosome to intracellular lysosomes, where fusion of the phagosome and the lysosome produces a phagolysosome. The reactive oxygen species, superoxides and hypochlorite bleach within the phagolysosomes then kill microbes inside the phagocyte.
+
+Phagocytic efficacy can be enhanced by opsonization. Plasma derived complement C3b and antibodies that exude into the inflamed tissue during the vascular phase bind to and coat the microbial antigens. As well as endocytic PRRs, phagocytes also express opsonin receptors Fc receptor and complement receptor 1 (CR1), which bind to antibodies and C3b, respectively. The co-stimulation of endocytic PRR and opsonin receptor increases the efficacy of the phagocytic process, enhancing the lysosomal elimination of the infective agent.
+
+The inflammatory response must be actively terminated when no longer needed to prevent unnecessary "bystander" damage to tissues. Failure to do so results in chronic inflammation, and cellular destruction. Resolution of inflammation occurs by different mechanisms in different tissues. Mechanisms that serve to terminate inflammation include:
+
+* Short half-life of inflammatory mediators in vivo.
+* Production and release of transforming growth factor (TGF) beta from macrophages
+* Production and release of interleukin 10 (IL-10)
+* Production of anti-inflammatory specialized proresolving mediators, i.e. lipoxins, resolvins, maresins, and neuroprotectins
+* Downregulation of pro-inflammatory molecules, such as leukotrienes.
+* Upregulation of anti-inflammatory molecules such as the interleukin 1 receptor antagonist or the soluble tumor necrosis factor receptor (TNFR)
+* Apoptosis of pro-inflammatory cells
+* Desensitization of receptors.
+* Increased survival of cells in regions of inflammation due to their interaction with the extracellular matrix (ECM)
+* Downregulation of receptor activity by high concentrations of ligands
+Cleavage of chemokines by matrix metalloproteinases (MMPs) might lead to production of anti-inflammatory factors.
+
+### Systemic Inflammation And Obesity[Edit]
+
+With the discovery of interleukins (IL), the concept of systemic inflammation developed. Although the processes involved are identical to tissue inflammation, systemic inflammation is not confined to a particular tissue but involves the endothelium and other organ systems.
+
+Chronic inflammation is widely observed in obesity. Obese people commonly have many elevated markers of inflammation, including:
+
+* IL-6 (Interleukin-6)
+* IL-8 (Interleukin-8)
+* IL-18 (Interleukin-18)
+* TNF-α (Tumor necrosis factor-alpha)
+* CRP (C-reactive protein)
+* Insulin
+* Blood glucose
+* Leptin
+* Low-grade chronic inflammation is characterized by a two- to threefold increase in the systemic concentrations of cytokines such as TNF-α, IL-6, and CRP. Waist circumference correlates significantly with systemic inflammatory response.
+
+Loss of white adipose tissue reduces levels of inflammation markers. The association of systemic inflammation with insulin resistance and type 2 diabetes, and with atherosclerosis is under preliminary research, although rigorous clinical trials have not been conducted to confirm such relationships.
+
+C-reactive protein (CRP) is generated at a higher level in obese people, and may increase the risk for cardiovascular diseases.
+
 ### Complement System
 
 The complement system is a biochemical cascade of the immune system that helps, or “complements”, the ability of antibodies to clear pathogens or mark them for destruction by other cells. The cascade is composed of many plasma proteins, synthesized in the liver, primarily by hepatocytes. The proteins work together to:
