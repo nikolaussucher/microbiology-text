@@ -1,0 +1,7 @@
+Pathogen,Main examples[15],Phagocytosis[15],complement[15],NK cells[15]
+Intracellular and cytoplasmic virus,influenza mumps measles rhinovirus,yes,yes[16],yes
+Intracellular bacteria,Listeria monocytogenes Legionella Mycobacterium Rickettsia,"yes (specifically neutrophils, no for rickettsia)",yes[17],yes (no for rickettsia)
+Extracellular bacteria,Staphylococcus Streptococcus Neisseria Salmonella typhi,yes,yes,no
+Intracellular protozoa,Plasmodium malariae Leishmania donovani,no,no,no
+Extracellular protozoa,Entamoeba histolytica Giardia lamblia,yes,yes,no
+Extracellular fungi,Candida Histoplasma Cryptococcus,no,yes,yes [18]
