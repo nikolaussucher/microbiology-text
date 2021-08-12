@@ -32,6 +32,9 @@ fig:microscopetypes
 fig:unnamed-chunk-1
 fig:compoundmicroscope
 fig:unnamed-chunk-2
+fig:slidecover
+fig:petridish
+fig:inoculationloop
 fig:millerurey
 fig:celltypecartoon
 fig:livorgtree

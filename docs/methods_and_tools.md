@@ -62,8 +62,8 @@ All modern optical microscopes designed for viewing samples by transmitted light
 (ref:microsc) [Basic optical transmission microscope elements (1990s).](https://commons.wikimedia.org/wiki/File:Optical_microscope_nikon_alphaphot.jpg)
 
 <div class="figure" style="text-align: center">
-<img src="./figures/tools/Optical_microscope_nikon_alphaphot.jpg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-2)(ref:)</p>
+<img src="./figures/tools/Optical_microscope_nikon_alphaphot.jpg" alt="(ref:microsc)i" width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-2)(ref:microsc)i</p>
 </div>
 
 * Eyepiece (ocular lens) (1)
@@ -141,6 +141,13 @@ Usually a wavelength of 550 nm is assumed, which corresponds to green light. Wit
 ### The Microscope Slide
 
 A microscope slide is a thin flat piece of glass, typically 75 by 26 mm (3 by 1 inches) and about 1 mm thick, used to hold objects for examination under a microscope. Typically the object is mounted (secured) on the slide, and then both are inserted together in the microscope for viewing. This arrangement allows several slide-mounted objects to be quickly inserted and removed from the microscope, labeled, transported, and stored in appropriate slide cases or folders etc.
+
+(ref:slide) [A microscope slide (top) and a cover slip (bottom).](https://commons.wikimedia.org/wiki/File:Fedolemez.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Fedolemez.jpg" alt="(ref:slide)" width="70%" />
+<p class="caption">(\#fig:slidecover)(ref:slide)</p>
+</div>
 
 Microscope slides are often used together with a cover slip or cover glass, a smaller and thinner sheet of glass that is placed over the specimen. Slides are held in place on the microscope's stage by slide clips, slide clamps or a cross-table which is used to achieve precise, remote movement of the slide upon the microscope's stage (such as in an automated/computer operated system, or where touching the slide with fingers is inappropriate either due to the risk of contamination or lack of precision).
 
@@ -305,6 +312,13 @@ Until the invention of sub-diffraction microscopy, the wavelength of the light l
 
 The original form of the electron microscope, the transmission electron microscope (TEM), uses a high voltage electron beam to illuminate the specimen and create an image. The electron beam is produced by an electron gun, commonly fitted with a tungsten filament cathode as the electron source. The electron beam is accelerated by an anode typically at +100 keV (40 to 400 keV) with respect to the cathode, focused by electrostatic and electromagnetic lenses, and transmitted through the specimen that is in part transparent to electrons and in part scatters them out of the beam. When it emerges from the specimen, the electron beam carries information about the structure of the specimen that is magnified by the objective lens system of the microscope. The spatial variation in this information (the "image") may be viewed by projecting the magnified electron image onto a fluorescent viewing screen coated with a phosphor or scintillator material such as zinc sulfide. Alternatively, the image can be photographically recorded by exposing a photographic film or plate directly to the electron beam, or a high-resolution phosphor may be coupled by means of a lens optical system or a fibre optic light-guide to the sensor of a digital camera. The image detected by the digital camera may be displayed on a monitor or computer.
 
+(ref:elecmic) [A modern transmission electron microscope.](https://commons.wikimedia.org/wiki/File:Electron_Microscope.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Electron_Microscope.jpg" alt="(ref:elecmic)" width="70%" />
+<p class="caption">(\#fig:electronmicroscop e)(ref:elecmic)</p>
+</div>
+
 The resolution of TEMs is limited primarily by spherical aberration, but a new generation of hardware correctors can reduce spherical aberration to increase the resolution in high-resolution transmission electron microscopy (HRTEM) to below 0.5 angstrom (50 picometres), enabling magnifications above 50 million times. The ability of HRTEM to determine the positions of atoms within materials is useful for nano-technologies research and development.
 
 Transmission electron microscopes are often used in electron diffraction mode. The advantages of electron diffraction over X-ray crystallography are that the specimen need not be a single crystal or even a polycrystalline powder, and also that the Fourier transform reconstruction of the object's magnified structure occurs physically and thus avoids the need for solving the phase problem faced by the X-ray crystallographers after obtaining their X-ray diffraction patterns.
@@ -365,7 +379,7 @@ A growth medium or culture medium is a solid, liquid, or semi-solid designed to 
 
 The two major types of growth media are those used for cell culture, which use specific cell types derived from plants or animals, and those used for microbiological culture, which are used for growing microorganisms such as bacteria or fungi. The most common growth media for microorganisms are nutrient broths and agar plates; specialized media are sometimes required for microorganism and cell culture growth. Some organisms, termed fastidious organisms, require specialized environments due to complex nutritional requirements. Viruses, for example, are obligate intracellular parasites and require a growth medium containing living cells.
 
-he most common growth media for microorganisms are nutrient broths (liquid nutrient medium) or lysogeny broth medium. Liquid media are often mixed with agar and poured via a sterile media dispenser into Petri dishes to solidify. These agar plates provide a solid medium on which microbes may be cultured. They remain solid, as very few bacteria are able to decompose agar (the exception being some species in the genera: Cytophaga, Flavobacterium, Bacillus, Pseudomonas, and Alcaligenes). Bacteria grown in liquid cultures often form colloidal suspensions.
+The most common growth media for microorganisms are nutrient broths (liquid nutrient medium) or lysogeny broth medium. Liquid media are often mixed with agar and poured via a sterile media dispenser into Petri dishes to solidify. These agar plates provide a solid medium on which microbes may be cultured. They remain solid, as very few bacteria are able to decompose agar (the exception being some species in the genera: Cytophaga, Flavobacterium, Bacillus, Pseudomonas, and Alcaligenes). Bacteria grown in liquid cultures often form colloidal suspensions.
 
 The difference between growth media used for cell culture and those used for microbiological culture is that cells derived from whole organisms and grown in culture often cannot grow without the addition of, for instance, hormones or growth factors which usually occur in vivo. In the case of animal cells, this difficulty is often addressed by the addition of blood serum or a synthetic serum replacement to the medium. In the case of microorganisms, no such limitations exist, as they are often unicellular organisms. One other major difference is that animal cells in culture are often grown on a flat surface to which they attach, and the medium is provided in a liquid form, which covers the cells. In contrast, bacteria such as Escherichia coli may be grown on solid or in liquid media.
 
@@ -475,10 +489,30 @@ Enriched media contain the nutrients required to support the growth of a wide va
 
 An agar plate is a Petri dish that contains a growth medium solidified with agar, used to culture microorganisms. Sometimes selective compounds are added to influence growth, such as antibiotics.
 
-96 pinner used to perform spot assays with yeast, fungal or bacterial cells
+(ref:petri) [A Petri dish with bacterial colonies on an agar-based growth medium.](A Petri dish with bacterial colonies on an agar-based growth medium)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Agar_plate_with_colonies.jpg" alt="(ref:petri)" width="70%" />
+<p class="caption">(\#fig:petridish)(ref:petri)</p>
+</div>
+
 Individual microorganisms placed on the plate will grow into individual colonies, each a clone genetically identical to the individual ancestor organism (except for the low, unavoidable rate of mutation). Thus, the plate can be used either to estimate the concentration of organisms in a liquid culture or a suitable dilution of that culture using a colony counter, or to generate genetically pure cultures from a mixed culture of genetically different organisms.
 
-Several methods are available to plate out cells. One technique is known as "streaking". In this technique, a drop of the culture on the end of a thin, sterile loop of wire, sometimes known as an inoculator, is streaked across the surface of the agar leaving organisms behind, a higher number at the beginning of the streak and a lower number at the end. At some point during a successful "streak", the number of organisms deposited will be such that distinct individual colonies will grow in that area which may be removed for further culturing, using another sterile loop. It is crucial to work sterile to prevent contamination on the plates.
+Several methods are available to plate out cells. One technique is known as "streaking". In this technique, a drop of the culture on the end of a thin, sterile loop of wire, sometimes known as an inoculator or inoculation loop, is streaked across the surface of the agar leaving organisms behind, a higher number at the beginning of the streak and a lower number at the end. At some point during a successful "streak", the number of organisms deposited will be such that distinct individual colonies will grow in that area which may be removed for further culturing, using another sterile loop. It is crucial to work sterile to prevent contamination on the plates.
+
+Cells in a centrally place drop can also be evenvly spread across the surface of and agar plate using a cell spreader.
+
+(ref:inoloop) [An inoculation loop made of twisted metal wire, with a metal handle. It is used to introduce bacteria or other microorganisms into a culture medium.](https://commons.wikimedia.org/wiki/File:Inoculation_loop_rot45.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Inoculation_loop_rot45.jpg" alt="(ref:inoloop)" width="70%" />
+<p class="caption">(\#fig:inoculationloop)(ref:inoloop)</p>
+</div>
+
+(ref:spread) [A set of plate spreaders (Drigalski's spatulas).](https://commons.wikimedia.org/wiki/File:Plate_spreaders-set.jpg)
+
+
+
 
 Another way of plating organisms, next to streaking, on agar plates is the spot analysis. This type of analysis is often used to check the viability of cells and performed with pinners (often also called froggers). A third used technique is the use of sterile glass beads to plate out cells. In this technique cells are grown in a liquid culture of which a small volume is pipetted on the agar plate and then spread out with the beads. Replica plating is another technique in order to plate out cells on agar plates. These four techniques are the most common, but others are also possible. It is crucial to work in a sterile manner in order to prevent contamination on the agar plates. Plating is thus often done in a laminar flow cabinet or on the working bench next to a bunsen burner.
 
