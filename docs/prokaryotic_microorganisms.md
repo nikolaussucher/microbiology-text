@@ -561,47 +561,47 @@ The following table (\@ref(tab:domaincomparison) compares some major characteris
  <thead>
   <tr>
    <th style="text-align:left;"> Property </th>
-   <th style="text-align:left;"> Bacteria </th>
    <th style="text-align:left;"> Archaea </th>
+   <th style="text-align:left;"> Bacteria </th>
    <th style="text-align:left;"> Eukarya </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:left;"> Cell membrane </td>
-   <td style="text-align:left;"> Ether-linked lipids </td>
+   <td style="text-align:left;"> Ether-linked lipids </td>
    <td style="text-align:left;"> Ester-linked lipids </td>
    <td style="text-align:left;"> Ester-linked lipids </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Cell wall </td>
-   <td style="text-align:left;"> Pseudopeptidoglycan, glycoprotein, or S-layer </td>
+   <td style="text-align:left;"> Pseudopeptidoglycan, glycoprotein, or S-layer </td>
    <td style="text-align:left;"> Peptidoglycan, S-layer, or no cell wall </td>
    <td style="text-align:left;"> Various structures </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Gene structure </td>
-   <td style="text-align:left;"> Circular chromosomes, similar translation and transcription to Eukarya </td>
+   <td style="text-align:left;"> Gene structure </td>
+   <td style="text-align:left;"> Circular chromosomes, similar translation and transcription to Eukarya </td>
    <td style="text-align:left;"> Circular chromosomes, unique translation and transcription </td>
    <td style="text-align:left;"> Multiple, linear chromosomes, but translation and transcription similar to Archaea </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Internal cell structure </td>
-   <td style="text-align:left;"> No membrane-bound organelles (?[62]) or nucleus </td>
+   <td style="text-align:left;"> Internal cell structure </td>
+   <td style="text-align:left;"> No membrane-bound organelles (?[63]) or nucleus </td>
    <td style="text-align:left;"> No membrane-bound organelles or nucleus </td>
    <td style="text-align:left;"> Membrane-bound organelles and nucleus </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Metabolism[63] </td>
-   <td style="text-align:left;"> Various, including diazotrophy, with methanogenesis unique to Archaea </td>
-   <td style="text-align:left;"> Various, including photosynthesis, aerobic and anaerobic respiration, fermentation, diazotrophy, and autotrophy </td>
+   <td style="text-align:left;"> Metabolism[64] </td>
+   <td style="text-align:left;"> Various, including diazotrophy, with methanogenesis unique to Archaea </td>
+   <td style="text-align:left;"> Various, including photosynthesis, aerobic and anaerobic respiration, fermentation, diazotrophy, and autotrophy </td>
    <td style="text-align:left;"> Photosynthesis, cellular respiration, and fermentation; no diazotrophy </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Reproduction </td>
-   <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
    <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
-   <td style="text-align:left;"> Sexual and asexual reproduction </td>
+   <td style="text-align:left;"> Asexual reproduction, horizontal gene transfer </td>
+   <td style="text-align:left;"> Sexual and asexual reproduction </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Protein synthesis initiation </td>
@@ -616,7 +616,7 @@ The following table (\@ref(tab:domaincomparison) compares some major characteris
    <td style="text-align:left;"> Many </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Toxin </td>
+   <td style="text-align:left;"> EF-2/EF-G </td>
    <td style="text-align:left;"> Sensitive to diphtheria toxin </td>
    <td style="text-align:left;"> Resistant to diphtheria toxin </td>
    <td style="text-align:left;"> Sensitive to diphtheria toxin </td>

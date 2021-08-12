@@ -528,7 +528,7 @@ setwd("~/Dropbox/R/microbiology-text")
 
 domaincomp <-  as_tibble(read.csv("data/bacteria_archaea_comp.csv"))
 
-knitr::kable(domaincomp, col.names = c("Property", "Bacteria", "Archaea", "Eukarya"), digits = 2, align = 'llll', booktabs = TRUE, caption = "A comparison of major characterisitcs of the domains of Bacteria, Archaea and Eukaryia") %>% kable_styling(latex_options = c("striped", "hold_position")) 
+knitr::kable(domaincomp, col.names = c("Property", "Archaea", "Bacteria", "Eukarya"), digits = 2, align = 'llll', booktabs = TRUE, caption = "A comparison of major characterisitcs of the domains of Bacteria, Archaea and Eukaryia") %>% kable_styling(latex_options = c("striped", "hold_position")) 
 ```
 
 Archaea were split off as a third domain because of the large differences in their ribosomal RNA structure. The particular molecule 16S rRNA is key to the production of proteins in all organisms. Because this function is so central to life, organisms with mutations in their 16S rRNA are unlikely to survive, leading to great (but not absolute) stability in the structure of this nucleotide over generations. 16S rRNA is large enough to show organism-specific variations, but still small enough to be compared quickly. In 1977, Carl Woese, a microbiologist studying the genetic sequences of organisms, developed a new comparison method that involved splitting the RNA into fragments that could be sorted and compared with other fragments from other organisms. The more similar the patterns between species, the more closely they are related.

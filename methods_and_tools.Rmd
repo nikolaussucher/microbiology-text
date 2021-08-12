@@ -4,6 +4,12 @@
 
 Microscopy is the technical field of using microscopes to view objects and areas of objects that cannot be seen with the naked eye (objects that are not within the resolution range of the normal eye). There are three well-known branches of microscopy: optical, electron, and scanning probe microscopy, along with the emerging field of X-ray microscopy.
 
+(ref:mictype) [Types of microscopes illustrated by the principles of their beam paths.](https://commons.wikimedia.org/wiki/File:MicroscopesOverview.svg)
+
+```{r microscopetypes, fig.cap='(ref:mictype)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/tools/MicroscopesOverview.svg")
+```
+
 Optical microscopy and electron microscopy involve the diffraction, reflection, or refraction of electromagnetic radiation/electron beams interacting with the specimen, and the collection of the scattered radiation or another signal in order to create an image. This process may be carried out by wide-field irradiation of the sample (for example standard light microscopy and transmission electron microscopy) or by scanning a fine beam over the sample (for example confocal laser scanning microscopy and scanning electron microscopy). Scanning probe microscopy involves the interaction of a scanning probe with the surface of the object of interest. The development of microscopy revolutionized biology, gave rise to the field of histology and so remains an essential technique in the life and physical sciences. X-ray microscopy is three-dimensional and non-destructive, allowing for repeated imaging of the same sample for in situ or 4D studies, and providing the ability to "see inside" the sample being studied before sacrificing it to higher resolution techniques. A 3D X-ray microscope uses the technique of computed tomography (microCT), rotating the sample 360 degrees and reconstructing the images. CT is typically carried out with a flat panel display. A 3D X-ray microscope employs a range of objectives, e.g., from 4X to 40X, and can also include a flat panel.
 
 The field of microscopy (optical microscopy) dates back to at least the 17th-century. Earlier microscopes, single lens magnifying glasses with limited magnification, date at least as far back as the wide spread use of lenses in eyeglasses in the 13th century but more advanced compound microscopes first appeared in Europe around 1620 The earliest practitioners of microscopy include Galileo Galilei, who found in 1610 that he could close focus his telescope to view small objects close up and Cornelis Drebbel, who may have invented the compound microscope around 1620 Antonie van Leeuwenhoek developed a very high magnification simple microscope in the 1670s and is often considered to be the first acknowledged microscopist and microbiologist.
@@ -30,13 +36,31 @@ There are two basic types of optical microscopes: simple microscopes and compoun
 
 A simple microscope uses a lens or set of lenses to enlarge an object through angular magnification alone, giving the viewer an erect enlarged virtual image. The use of a single convex lens or groups of lenses are found in simple magnification devices such as the magnifying glass, loupes, and eyepieces for telescopes and microscopes.
 
+(ref:simplmic) Diagram of a simple microscope.[](https://commons.wikimedia.org/wiki/File:Microscope_simple_diagram.png)
+
+```{r , fig.cap='(ref:simplmic)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/tools/Microscope_simple_diagram.png")
+```
+
 ### Compound Microscope
 
 A compound microscope uses a lens close to the object being viewed to collect light (called the objective lens) which focuses a real image of the object inside the microscope (image 1). That image is then magnified by a second lens or group of lenses (called the eyepiece) that gives the viewer an enlarged inverted virtual image of the object (image 2). The use of a compound objective/eyepiece combination allows for much higher magnification. Common compound microscopes often feature exchangeable objective lenses, allowing the user to quickly adjust the magnification. A compound microscope also enables more advanced illumination setups, such as phase contrast.
 
+(ref:compound) [Diagram of a compound microscope.](https://commons.wikimedia.org/wiki/File:Microscope_compound_diagram.png)
+
+```{r compoundmicroscope, fig.cap='(ref:compound)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/tools/Microscope_compound_diagram.png")
+```
+
 ### The Main Components Of The Light Microscope
 
 All modern optical microscopes designed for viewing samples by transmitted light share the same basic components of the light path. In addition, the vast majority of microscopes have the same 'structural' components (numbered below according to the image on the right):
+
+(ref:microsc) [Basic optical transmission microscope elements (1990s).](https://commons.wikimedia.org/wiki/File:Optical_microscope_nikon_alphaphot.jpg)
+
+```{r , fig.cap='(ref:)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/tools/Optical_microscope_nikon_alphaphot.jpg")
+```
 
 * Eyepiece (ocular lens) (1)
 * Objective turret, revolver, or revolving nose piece (to hold multiple objective lenses) (2)

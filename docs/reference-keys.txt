@@ -28,6 +28,10 @@ fig:commonlipids
 fig:simpletriglyceride
 fig:structuredna
 fig:structurenucleotide
+fig:microscopetypes
+fig:unnamed-chunk-1
+fig:compoundmicroscope
+fig:unnamed-chunk-2
 fig:millerurey
 fig:celltypecartoon
 fig:livorgtree
@@ -83,6 +87,7 @@ fig:dictformcol
 fig:dictslug
 fig:tmvirus
 fig:icosavirus
+tab:virgen
 fig:influenza
 fig:virusrepc
 fig:rnavirus
@@ -317,6 +322,9 @@ slime-molds
 reproduction-of-protists
 an-introduction-to-viruses
 theories-of-the-origin-of-viruses
+regressive-hypothesis
+cellular-origin-hypothesis
+co-evolution-hypothesis
 structure-and-morphology-of-viruses
 replication-of-viruses
 role-of-viruses-in-human-disease
