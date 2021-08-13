@@ -1,7 +1,10 @@
-fig:unnamed-chunk-1
+fig:scalecomp
 fig:sarscovtwo
 fig:archhalo
 fig:ecolisem
+fig:protistacollage
+fig:fungidiversity
+fig:algaecollection
 fig:classification
 fig:tree
 fig:species
@@ -34,6 +37,7 @@ fig:structuredna
 fig:structurenucleotide
 fig:microscopetypes
 fig:zeissmic
+fig:unnamed-chunk-1
 fig:compoundmicroscope
 fig:unnamed-chunk-2
 fig:slidecover
@@ -88,7 +92,6 @@ fig:dapimitotracker
 fig:chloroplastcartoon
 fig:endomembranediagram
 fig:ribosomestructure
-fig:protistacollage
 fig:haeckel3kingdoms
 tab:eukaryotetaxonomy
 tab:protistmetabo
@@ -97,7 +100,6 @@ fig:euglena
 fig:ciliata
 fig:parameciumdiagram
 fig:cilconjugation
-fig:algaecollection
 fig:laminarialifecycle
 fig:fuligo
 fig:dictfruiting

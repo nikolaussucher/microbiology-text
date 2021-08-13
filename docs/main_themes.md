@@ -11,8 +11,8 @@ A microorganism, or microbe, is a microscopic organism, which may exist in its s
 (ref:scale) [The range of sizes shown by viruses, prokaryotes (Archea, Bacteria), eukayotes compared to atoms, small molecules and proteins.](https://commons.wikimedia.org/wiki/File:Relative_scale.svg)
 
 <div class="figure" style="text-align: center">
-<img src="./figures/microbiology/Relative_scale.svg" alt="(ref:)" width="70%" />
-<p class="caption">(\#fig:unnamed-chunk-1)(ref:)</p>
+<img src="./figures/microbiology/Relative_scale.svg" alt="(ref:scale)" width="70%" />
+<p class="caption">(\#fig:scalecomp)(ref:scale)</p>
 </div>
 
 [Viruses](https://en.wikipedia.org/wiki/Virus) have been variably classified as organisms,  as they have been considered either as very simple microorganisms or very complex molecules. [Prions](https://en.wikipedia.org/wiki/Prion), never considered as microorganisms, have been investigated by virologists, however, as the clinical effects traced to them were originally presumed due to chronic viral infections, and virologists took search—discovering "infectious proteins".
@@ -80,13 +80,34 @@ Unicellular eukaryotes usually reproduce asexually by mitosis under favorable co
 
 Of eukaryotic groups, the protists are most commonly unicellular and microscopic. This is a highly diverse group of organisms that are not easy to classify. Several algae species are multicellular protists, and slime molds have unique life cycles that involve switching between unicellular, colonial, and multicellular forms. The number of species of protists is unknown since only a small proportion has been identified. Protist diversity is high in oceans, deep sea-vents, river sediment and an acidic river, suggesting that many eukaryotic microbial communities may yet be discovered.
 
+(ref:prot) [A sampling of protists:](https://commons.wikimedia.org/wiki/File:Protist_collage_2.jpg) red algae (Chondrus crispus); brown algae (Giant Kelp); ciliate (Frontonia); golden algae (Dinobryon); Foraminifera (Radiolaria); parasitic flagellate (Giardia muris); pathogenic amoeba (Acanthamoeba); amoebozoan slime mold (Fuligo septica)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/microbiology/Protist_collage_2.jpg" alt="(ref:prot)" width="70%" />
+<p class="caption">(\#fig:protistacollage)(ref:prot)</p>
+</div>
+
 ### Fungi
 
 The fungi have several unicellular species, such as baker's yeast (Saccharomyces cerevisiae) and fission yeast (Schizosaccharomyces pombe). Some fungi, such as the pathogenic yeast Candida albicans, can undergo phenotypic switching and grow as single cells in some environments, and filamentous hyphae in others.
 
+(ref:fungi) [A collage of five fungi (clockwise from top-left):](https://commons.wikimedia.org/wiki/File:Fungi_collage.jpg) a mushroom with a flat, red top with white-spots, and a white stem growing on the ground; a red cup-shaped fungus growing on wood; a stack of green and white moldy bread slices on a plate; a microscopic, spherical grey semitransparent cell, with a smaller spherical cell beside it; a microscopic view of an elongated cellular structure shaped like a microphone, attached to the larger end is a number of smaller roughly circular elements that collectively form a mass around sites.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/microbiology/Fungi_collage.jpg" alt="(ref:fungi)" width="70%" />
+<p class="caption">(\#fig:fungidiversity)(ref:fungi)</p>
+</div>
 ### Plants
 
 The green algae are a large group of photosynthetic eukaryotes that include many microscopic organisms. Although some green algae are classified as protists, others such as charophyta are classified with embryophyte plants, which are the most familiar group of land plants. Algae can grow as single cells, or in long chains of cells. The green algae include unicellular and colonial flagellates, usually but not always with two flagella per cell, as well as various colonial, coccoid, and filamentous forms. In the Charales, which are the algae most closely related to higher plants, cells differentiate into several distinct tissues within the organism. There are about 6000 species of green algae.
+
+(ref:algcol) [A variety of microscopic unicellular and colonial freshwater algae](https://commons.wikimedia.org/wiki/File:Водоросли_пресноводного_водоема.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/microbiology/algae_collection.jpg" alt="(ref:algcol)" width="70%" />
+<p class="caption">(\#fig:algaecollection)(ref:algcol)</p>
+</div>
+
 
 ## Ecology Of Microorganisms
 
