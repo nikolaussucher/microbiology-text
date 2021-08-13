@@ -1,4 +1,4 @@
-# An Introduction To Methods Of Studying Microorganisms
+# Methods Of Studying Microorganisms
 
 ## Microscopy
 
@@ -18,6 +18,13 @@ The field of microscopy (optical microscopy) dates back to at least the 17th-cen
 ### Light Microscopy
 
 Optical or light microscopy involves passing visible light transmitted through or reflected from the sample through a single lens or multiple lenses to allow a magnified view of the sample. The resulting image can be detected directly by the eye, imaged on a photographic plate, or captured digitally. The single lens with its attachments, or the system of lenses and imaging equipment, along with the appropriate lighting equipment, sample stage, and support, makes up the basic light microscope. The most recent development is the digital microscope, which uses a CCD camera to focus on the exhibit of interest. The image is shown on a computer screen, so eye-pieces are unnecessary.
+
+(ref:zeiss) [Binocular compound microscope from 1914; Carl Zeiss (1816–88), Jena, Germany; materials: brass, metal, glass; owner: The Golub Collection, University of California, Berkeley. golubcollection.berkeley.edu/](https://commons.wikimedia.org/wiki/File:Binocular_compound_microscope,_Carl_Zeiss_Jena,_1914_(6779276516).jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Binocular_compound_microscope,_Carl_Zeiss_Jena,_1914_(6779276516).jpg" alt="(ref:zeiss)" width="70%" />
+<p class="caption">(\#fig:zeissmic)(ref:zeiss)</p>
+</div>
 
 ### The Optical (Light) Microscope
 
@@ -231,6 +238,13 @@ This method is of critical importance in the modern life sciences, as it can be 
 
 The antibodies can be tailor-made for a chemical compound. For example, one strategy often in use is the artificial production of proteins, based on the genetic code (DNA). These proteins can then be used to immunize rabbits, forming antibodies which bind to the protein. The antibodies are then coupled chemically to a fluorophore and used to trace the proteins in the cells under study.
 
+(ref:fluo) [Endothelial cells under the fluorescence microscope. Nuclei are stained blue with DAPI, microtubules are marked green by an antibody bound to FITC and actin filaments are labeled red with phalloidin bound to TRITC. Bovine pulmonary artery endothelial (BPAE) cells](https://en.wikipedia.org/wiki/Fluorescence_microscope#/media/File:FluorescentCells.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/FluorescentCells.jpg" alt="(ref:fluo)" width="70%" />
+<p class="caption">(\#fig:fluomic)(ref:fluo)</p>
+</div>
+
 Highly efficient fluorescent proteins such as the green fluorescent protein (GFP) have been developed using the molecular biology technique of gene fusion, a process that links the expression of the fluorescent compound to that of the target protein. This combined fluorescent protein is, in general, non-toxic to the organism and rarely interferes with the function of the protein under study. Genetically modified cells or organisms directly express the fluorescently tagged proteins, which enables the study of the function of the original protein in vivo.
 
 Growth of protein crystals results in both protein and salt crystals. Both are colorless and microscopic. Recovery of the protein crystals requires imaging which can be done by the intrinsic fluorescence of the protein or by using transmission microscopy. Both methods require an ultraviolet microscope as protein absorbs light at 280 nm. Protein will also fluorescence at approximately 353 nm when excited with 280 nm light.
@@ -239,7 +253,7 @@ Since fluorescence emission differs in wavelength (color) from the excitation li
 
 To block the excitation light from reaching the observer or the detector, filter sets of high quality are needed. These typically consist of an excitation filter selecting the range of excitation wavelengths, a dichroic mirror, and an emission filter blocking the excitation light. Most fluorescence microscopes are operated in the Epi-illumination mode (illumination and detection from one side of the sample) to further decrease the amount of excitation light entering the detector.
 
-### Confoca Microscopy
+### Confocal Microscopy
 
 Confocal laser scanning microscopy uses a focused laser beam (e.g. 488 nm) that is scanned across the sample to excite fluorescence in a point-by-point fashion. The emitted light is directed through a pinhole to prevent out-of-focus light from reaching the detector, typically a photomultiplier tube. The image is constructed in a computer, plotting the measured fluorescence intensities according to the position of the excitation laser. Compared to full sample illumination, confocal microscopy gives slightly higher lateral resolution and significantly improves optical sectioning (axial resolution). Confocal microscopy is, therefore, commonly used where 3D structure is important.
 
@@ -253,7 +267,21 @@ A two-photon microscope is also a laser-scanning microscope, but instead of UV, 
 
 Gram stain or Gram staining, also called Gram's method, is a method of staining used to distinguish and classify bacterial species into two large groups: gram-positive bacteria and gram-negative bacteria. The name comes from the Danish bacteriologist Hans Christian Gram, who developed the technique.
 
+(ref:gramst) [A Gram stain of mixed Staphylococcus aureus (S. aureus ATCC 25923, gram-positive cocci, in purple) and Escherichia coli (E. coli ATCC 11775, gram-negative bacilli, in red), the most common Gram stain reference bacteria](https://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Gram_stain_01.jpg" alt="(ref:gramst)" width="70%" />
+<p class="caption">(\#fig:gramstain)(ref:gramst)</p>
+</div>
+
 Gram staining differentiates bacteria by the chemical and physical properties of their cell walls. Gram-positive cells have a thick layer of peptidoglycan in the cell wall that retains the primary stain, crystal violet. Gram-negative cells have a thinner peptidoglycan layer that allows the crystal violet to wash out on addition of ethanol. They are stained pink or red by the counterstain, commonly safranin or fuchsine. Lugol's iodine solution is always added after addition of crystal violet to strengthen the bonds of the stain with the cell membrane. Gram staining is almost always the first step in the preliminary identification of a bacterial organism. While Gram staining is a valuable diagnostic tool in both clinical and research settings, not all bacteria can be definitively classified by this technique. This gives rise to gram-variable and gram-indeterminate groups.
+
+(ref:gramdia) [Cell Wall Characteristics of Gram-Positive and Gram-Negative Bacteria](https://commons.wikimedia.org/wiki/File:Gram_Staining_Bacteria.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Gram_Staining_Bacteria.jpg" alt="(ref:gramdia)" width="70%" />
+<p class="caption">(\#fig:gramdiagram)(ref:gramdia)</p>
+</div>
 
 The method is named after its inventor, the Danish scientist Hans Christian Gram (1853–1938), who developed the technique while working with Carl Friedländer in the morgue of the city hospital in Berlin in 1884. Gram devised his technique not for the purpose of distinguishing one type of bacterium from another but to make bacteria more visible in stained sections of lung tissue. He published his method in 1884, and included in his short report the observation that the typhus bacillus did not retain the stain.
 
@@ -272,15 +300,9 @@ Gram-positive bacteria have a thick mesh-like cell wall made of peptidoglycan (5
 * Rapid decolorization with ethanol or acetone
 * Counterstaining with safranin. Carbol fuchsin is sometimes substituted for safranin since it more intensely stains anaerobic bacteria, but it is less commonly used as a counterstain.
 
-Crystal violet (CV) dissociates in aqueous solutions into CV+
- and chloride (Cl−
-) ions. These ions penetrate the cell wall of both gram-positive and gram-negative cells. The CV+
- ion interacts with negatively charged components of bacterial cells and stains the cells purple.
+Crystal violet (CV) dissociates in aqueous solutions into CV+ and chloride (Cl^−^) ions. These ions penetrate the cell wall of both gram-positive and gram-negative cells. The CV+ ion interacts with negatively charged components of bacterial cells and stains the cells purple.
 
-Iodide (I−
- or I−
-3) interacts with CV+
- and forms large complexes of crystal violet and iodine (CV–I) within the inner and outer layers of the cell. Iodine is often referred to as a mordant, but is a trapping agent that prevents the removal of the CV–I complex and, therefore, colors the cell.
+Iodide (I− or I− 3) interacts with CV+ and forms large complexes of crystal violet and iodine (CV–I) within the inner and outer layers of the cell. Iodine is often referred to as a mordant, but is a trapping agent that prevents the removal of the CV–I complex and, therefore, colors the cell.
 
 When a decolorizer such as alcohol or acetone is added, it interacts with the lipids of the cell membrane. A gram-negative cell loses its outer lipopolysaccharide membrane, and the inner peptidoglycan layer is left exposed. The CV–I complexes are washed from the gram-negative cell along with the outer membrane. In contrast, a gram-positive cell becomes dehydrated from an ethanol treatment. The large CV–I complexes become trapped within the gram-positive cell due to the multilayered nature of its peptidoglycan. The decolorization step is critical and must be timed correctly; the crystal violet stain is removed from both gram-positive and negative cells if the decolorizing agent is left on too long (a matter of seconds).
 
@@ -329,7 +351,22 @@ One major disadvantage of the transmission electron microscope is the need for e
 
 The SEM produces images by probing the specimen with a focused electron beam that is scanned across a rectangular area of the specimen (raster scanning). When the electron beam interacts with the specimen, it loses energy by a variety of mechanisms. The lost energy is converted into alternative forms such as heat, emission of low-energy secondary electrons and high-energy backscattered electrons, light emission (cathodoluminescence) or X-ray emission, all of which provide signals carrying information about the properties of the specimen surface, such as its topography and composition. The image displayed by an SEM maps the varying intensity of any of these signals into the image in a position corresponding to the position of the beam on the specimen when the signal was generated. In the SEM image of an ant shown below and to the right, the image was constructed from signals produced by a secondary electron detector, the normal or conventional imaging mode in most SEMs.
 
+(ref:semic) [SEM with opened sample chamber.](https://commons.wikimedia.org/wiki/File:SEM_chamber1.JPG)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/SEM_chamber1.jpeg" alt="(ref:semic)" width="70%" />
+<p class="caption">(\#fig:semicroscope)(ref:semic)</p>
+</div>
+
 Generally, the image resolution of an SEM is lower than that of a TEM. However, because the SEM images the surface of a sample rather than its interior, the electrons do not have to travel through the sample. This reduces the need for extensive sample preparation to thin the specimen to electron transparency. The SEM is able to image bulk samples that can fit on its stage and still be maneuvered, including a height less than the working distance being used, often 4 millimeters for high-resolution images. The SEM also has a great depth of field, and so can produce images that are good representations of the three-dimensional surface shape of the sample. Another advantage of SEMs comes with environmental scanning electron microscopes (ESEM) that can produce images of good quality and resolution with hydrated samples or in low, rather than high, vacuum or under chamber gases. This facilitates imaging unfixed biological samples that are unstable in the high vacuum of conventional electron microscopes.
+
+(ref:sem) [Image of pollen grains taken on a SEM shows the characteristic depth of field of SEM micrographs](https://en.wikipedia.org/wiki/File:Misc_pollen.jpg) Pollen from a variety of common plants: sunflower (Helianthus annuus, small spiky sphericals), morning glory (Ipomoea purpurea, big sphericals with hexagonal cavities), hollyhock (Sildalcea malviflora, big spiky sphericals), lily (Lilium auratum, bean shaped), primrose (Oenothera fruticosa, tripod shaped) and castor bean (Ricinus communis, small smooth sphericals). The image is magnified some x500, so the bean shaped grain in the bottom left corner is about 50 μm long.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Misc_pollen.jpg" alt="(ref:sem)" width="70%" />
+<p class="caption">(\#fig:sempollen)(ref:sem)</p>
+</div>
+
 
 Electron microscopes are expensive to build and maintain, but the capital and running costs of confocal light microscope systems now overlaps with those of basic electron microscopes. Microscopes designed to achieve high resolutions must be housed in stable buildings (sometimes underground) with special services such as magnetic field canceling systems.
 
@@ -359,11 +396,62 @@ As an alternative, the microbiologist may decide to use static liquid cultures. 
 
 ### Agar Plates
 
-Microbiological cultures can be grown in petri dishes of differing sizes that have a thin layer of agar-based growth medium. Once the growth medium in the petri dish is inoculated with the desired bacteria, the plates are incubated at the optimal temperature for the growing of the selected bacteria (for example, usually at 37 degrees Celsius, or the human body temperature, for cultures from humans or animals, or lower for environmental cultures). After the desired level of growth is achieved, agar plates can be stored upside down in a refrigerator for an extended period of time to keep bacteria for future experiments.
+An agar plate is a Petri dish that contains a growth medium solidified with agar, used to culture microorganisms. Sometimes selective compounds are added to influence growth, such as antibiotics.
+
+(ref:petri) [A Petri dish with bacterial colonies on an agar-based growth medium.](A Petri dish with bacterial colonies on an agar-based growth medium)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Agar_plate_with_colonies.jpg" alt="(ref:petri)" width="70%" />
+<p class="caption">(\#fig:petridish)(ref:petri)</p>
+</div>
 
 There are a variety of additives that can be added to agar before it is poured into a plate and allowed to solidify. Some types of bacteria can only grow in the presence of certain additives. This can also be used when creating engineered strains of bacteria that contain an antibiotic-resistance gene. When the selected antibiotic is added to the agar, only bacterial cells containing the gene insert conferring resistance will be able to grow. This allows the researcher to select only the colonies that were successfully transformed.
 
-Miniaturised version of agar plates implemented to dipstick formats, eg. Dip Slide, Digital Dipstick  show potential to be used at the point-of-care for diagnosis purposes. They have advantages over agar plates since they are cost effective and their operation does not require expertise or laboratory environment, which enable them to be used at the point-of-care.
+Individual microorganisms placed on the plate will grow into individual colonies, each a clone genetically identical to the individual ancestor organism (except for the low, unavoidable rate of mutation). Thus, the plate can be used either to estimate the concentration of organisms in a liquid culture or a suitable dilution of that culture using a colony counter, or to generate genetically pure cultures from a mixed culture of genetically different organisms.
+
+(ref:aplate) [An agar culture of E. coli colonies.](https://commons.wikimedia.org/wiki/File:Ecoli_colonies.png)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Agar_plate_with_colonies.jpg" alt="(ref:aplate)" width="70%" />
+<p class="caption">(\#fig:agarplate)(ref:aplate)</p>
+</div>
+
+Several methods are available to plate out cells. One technique is known as "streaking". In this technique, a drop of the culture on the end of a thin, sterile loop of wire, sometimes known as an inoculator or inoculation loop, is streaked across the surface of the agar leaving organisms behind, a higher number at the beginning of the streak and a lower number at the end. At some point during a successful "streak", the number of organisms deposited will be such that distinct individual colonies will grow in that area which may be removed for further culturing, using another sterile loop. It is crucial to work sterile to prevent contamination on the plates.
+
+Cells in a centrally place drop can also be evenvly spread across the surface of and agar plate using a cell spreader.
+
+(ref:inoloop) [An inoculation loop made of twisted metal wire, with a metal handle. It is used to introduce bacteria or other microorganisms into a culture medium.](https://commons.wikimedia.org/wiki/File:Inoculation_loop_rot45.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Inoculation_loop_rot45.jpg" alt="(ref:inoloop)" width="70%" />
+<p class="caption">(\#fig:inoculationloop)(ref:inoloop)</p>
+</div>
+
+(ref:spread) [A set of plate spreaders (Drigalski's spatulas).](https://commons.wikimedia.org/wiki/File:Plate_spreaders-set.jpg)
+
+
+
+Another way of plating organisms, next to streaking, on agar plates is the spot analysis. This type of analysis is often used to check the viability of cells and performed with pinners (often also called froggers). A third used technique is the use of sterile glass beads to plate out cells. In this technique cells are grown in a liquid culture of which a small volume is pipetted on the agar plate and then spread out with the beads. Replica plating is another technique in order to plate out cells on agar plates. These four techniques are the most common, but others are also possible. It is crucial to work in a sterile manner in order to prevent contamination on the agar plates. Plating is thus often done in a laminar flow cabinet or on the working bench next to a bunsen burner.
+
+In 1881, Fanny Hesse, who was working as a technician for her husband Walther Hesse in the laboratory of Robert Koch, suggested agar as an effective setting agent, since it had been commonplace in jam making for some time.
+
+Like other growth media, the formulations of agar used in plates may be classified as either "defined" or "undefined"; a defined medium is synthesized from individual chemicals required by the organism so the exact molecular composition is known, whereas an undefined medium is made from natural products such as yeast extract, where the precise composition is unknown.
+
+Agar plates may be formulated as either permissive, with the intent of allowing the growth of whatever organisms are present, or restrictive or selective, with the intent of only allowing growth a particular subset of those organisms. This may take the form of a nutritional requirement, for instance providing a particular compound such as lactose as the only source of carbon and thereby selecting only organisms which can metabolize that compound, or by including a particular antibiotic or other substance to select only organisms which are resistant to that substance. This correlates to some degree with defined and undefined media; undefined media, made from natural products and containing an unknown combination of very many organic molecules, is typically more permissive in terms of supplying the needs of a wider variety of organisms, while defined media can be precisely tailored to select organisms with specific properties.
+
+Agar plates may also be indicator plates, in which the organisms are not selected on the basis of growth, but are instead distinguished by a color change in some colonies, typically caused by the action of an enzyme on some compound added to the medium.
+
+The plates are incubated for 12 hours up to several days depending on the test that is performed.
+
+Some commonly used agar plate types are:
+
+### Blood Agar Plate
+
+Blood agar plates (BAPs) contain mammalian blood (usually sheep or horse), typically at a concentration of 5–10%. BAPs are enriched, differential media used to isolate fastidious organisms and detect hemolytic activity. β-Hemolytic activity will show lysis and complete digestion of red blood cell contents surrounding a colony. Examples include Streptococcus haemolyticus. α-Hemolysis will only cause partial lysis of the red blood cells (the cell membrane is left intact) and will appear green or brown, due to the conversion of hemoglobin to methemoglobin. An example of this would be Streptococcus viridans. γ-Hemolysis (or nonhemolytic) is the term referring to a lack of hemolytic activity. BAPs also contain meat extract, tryptone, sodium chloride, and agar.
+
+### Chocolate Agar
+
+Chocolate agar a type of blood agar plate in which the blood cells have been lysed by heating the cells to 80 °C. It is used for growing fastidious respiratory bacteria, such as Haemophilus influenzae. No chocolate is actually contained in the plate; it is named for the coloration only.
 
 ### Stab Cultures
 
@@ -464,6 +552,27 @@ Examples of differential media:
 * Mannitol salt agar is differential for mannitol fermentation.
 * X-gal plates are differential for lac operon mutants.
 
+(ref:bloodag) [Blod agar plate showing hemolyses of Streptococcus spp. (left) α-hemolysis (S. mitis); (middle) β-hemolysis (S. pyogenes); (right) γ-hemolysis (= nonhemolytic, S. salivarius).](https://commons.wikimedia.org/wiki/File:Streptococcal_hemolysis.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Streptococcal_hemolysis.jpg" alt="(ref:bloodag)" width="70%" />
+<p class="caption">(\#fig:bloodagar)(ref:bloodag)</p>
+</div>
+
+(ref:maccon) [MacConkey's agar showing both lactose and non-lactose fermenting colonies. Lactose fermenting colonies are pink whereas non-lactose fermenting ones are colourless or appear same as the medium.](https://commons.wikimedia.org/wiki/File:MacConkey_agar_with_LF_and_LF_colonies.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/MacConkey_agar_with_LF_and_LF_colonies.jpg" alt="(ref:maccon)" width="70%" />
+<p class="caption">(\#fig:macconkey)(ref:maccon)</p>
+</div>
+
+(ref:uti) [UTI Agar](https://commons.wikimedia.org/wiki/File:UTI_agar.jpg) is a chromogenic medium for identification and differentiation of main microorganisms that cause urinary tract infections (UTIs). On the agar plate you can see the following colonies: Pink - E. coli; Blue-green/turquoise - Enterococcus spp.; Dark blue - Klebsiella spp.; Light brown with a red dot - Proteus mirabilis; Light brown - Proteus spp.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/UTI_agar.jpg" alt="(ref:uti)" width="70%" />
+<p class="caption">(\#fig:utiagar)(ref:uti)</p>
+</div>
+
 ### Transport Media
 
 Transport media should fulfill these criteria:
@@ -485,54 +594,4 @@ Examples of transport media:
 
 Enriched media contain the nutrients required to support the growth of a wide variety of organisms, including some of the more fastidious ones. They are commonly used to harvest as many different types of microbes as are present in the specimen. Blood agar is an enriched medium in which nutritionally rich whole blood supplements the basic nutrients. Chocolate agar is enriched with heat-treated blood (40–45 °C or 104–113 °F), which turns brown and gives the medium the color for which it is named.
 
-### Agar Plate
-
-An agar plate is a Petri dish that contains a growth medium solidified with agar, used to culture microorganisms. Sometimes selective compounds are added to influence growth, such as antibiotics.
-
-(ref:petri) [A Petri dish with bacterial colonies on an agar-based growth medium.](A Petri dish with bacterial colonies on an agar-based growth medium)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/tools/Agar_plate_with_colonies.jpg" alt="(ref:petri)" width="70%" />
-<p class="caption">(\#fig:petridish)(ref:petri)</p>
-</div>
-
-Individual microorganisms placed on the plate will grow into individual colonies, each a clone genetically identical to the individual ancestor organism (except for the low, unavoidable rate of mutation). Thus, the plate can be used either to estimate the concentration of organisms in a liquid culture or a suitable dilution of that culture using a colony counter, or to generate genetically pure cultures from a mixed culture of genetically different organisms.
-
-Several methods are available to plate out cells. One technique is known as "streaking". In this technique, a drop of the culture on the end of a thin, sterile loop of wire, sometimes known as an inoculator or inoculation loop, is streaked across the surface of the agar leaving organisms behind, a higher number at the beginning of the streak and a lower number at the end. At some point during a successful "streak", the number of organisms deposited will be such that distinct individual colonies will grow in that area which may be removed for further culturing, using another sterile loop. It is crucial to work sterile to prevent contamination on the plates.
-
-Cells in a centrally place drop can also be evenvly spread across the surface of and agar plate using a cell spreader.
-
-(ref:inoloop) [An inoculation loop made of twisted metal wire, with a metal handle. It is used to introduce bacteria or other microorganisms into a culture medium.](https://commons.wikimedia.org/wiki/File:Inoculation_loop_rot45.jpg)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/tools/Inoculation_loop_rot45.jpg" alt="(ref:inoloop)" width="70%" />
-<p class="caption">(\#fig:inoculationloop)(ref:inoloop)</p>
-</div>
-
-(ref:spread) [A set of plate spreaders (Drigalski's spatulas).](https://commons.wikimedia.org/wiki/File:Plate_spreaders-set.jpg)
-
-
-
-
-Another way of plating organisms, next to streaking, on agar plates is the spot analysis. This type of analysis is often used to check the viability of cells and performed with pinners (often also called froggers). A third used technique is the use of sterile glass beads to plate out cells. In this technique cells are grown in a liquid culture of which a small volume is pipetted on the agar plate and then spread out with the beads. Replica plating is another technique in order to plate out cells on agar plates. These four techniques are the most common, but others are also possible. It is crucial to work in a sterile manner in order to prevent contamination on the agar plates. Plating is thus often done in a laminar flow cabinet or on the working bench next to a bunsen burner.
-
-In 1881, Fanny Hesse, who was working as a technician for her husband Walther Hesse in the laboratory of Robert Koch, suggested agar as an effective setting agent, since it had been commonplace in jam making for some time.
-
-Like other growth media, the formulations of agar used in plates may be classified as either "defined" or "undefined"; a defined medium is synthesized from individual chemicals required by the organism so the exact molecular composition is known, whereas an undefined medium is made from natural products such as yeast extract, where the precise composition is unknown.
-
-Agar plates may be formulated as either permissive, with the intent of allowing the growth of whatever organisms are present, or restrictive or selective, with the intent of only allowing growth a particular subset of those organisms. This may take the form of a nutritional requirement, for instance providing a particular compound such as lactose as the only source of carbon and thereby selecting only organisms which can metabolize that compound, or by including a particular antibiotic or other substance to select only organisms which are resistant to that substance. This correlates to some degree with defined and undefined media; undefined media, made from natural products and containing an unknown combination of very many organic molecules, is typically more permissive in terms of supplying the needs of a wider variety of organisms, while defined media can be precisely tailored to select organisms with specific properties.
-
-Agar plates may also be indicator plates, in which the organisms are not selected on the basis of growth, but are instead distinguished by a color change in some colonies, typically caused by the action of an enzyme on some compound added to the medium.
-
-The plates are incubated for 12 hours up to several days depending on the test that is performed.
-
-Some commonly used agar plate types are:
-
-### Blood Agar Plate
-
-Blood agar plates (BAPs) contain mammalian blood (usually sheep or horse), typically at a concentration of 5–10%. BAPs are enriched, differential media used to isolate fastidious organisms and detect hemolytic activity. β-Hemolytic activity will show lysis and complete digestion of red blood cell contents surrounding a colony. Examples include Streptococcus haemolyticus. α-Hemolysis will only cause partial lysis of the red blood cells (the cell membrane is left intact) and will appear green or brown, due to the conversion of hemoglobin to methemoglobin. An example of this would be Streptococcus viridans. γ-Hemolysis (or nonhemolytic) is the term referring to a lack of hemolytic activity. BAPs also contain meat extract, tryptone, sodium chloride, and agar.
-
-### Chocolate Agar
-
-Chocolate agar a type of blood agar plate in which the blood cells have been lysed by heating the cells to 80 °C. It is used for growing fastidious respiratory bacteria, such as Haemophilus influenzae. No chocolate is actually contained in the plate; it is named for the coloration only.
 
