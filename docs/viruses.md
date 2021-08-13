@@ -245,6 +245,14 @@ Plant virus particles or virus-like particles (VLPs) have applications in both b
 
 ### Bacterial Viruses
 
+
+(ref:bacph) [Helium ion microscopy image showing T4 phage infecting Escherichia coli . Some of the attached phage have contracted tails indicating that they have injected their DNA into the host. The bacterial cells are ~ 0.5 µm wide.](https://commons.wikimedia.org/wiki/File:Escherichia_coli_with_phages.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/microbiology/Escherichia_coli_with_phages.jpg" alt="(ref:bacph)" width="70%" />
+<p class="caption">(\#fig:bacteriophage)(ref:bacph)</p>
+</div>
+
 A bacteriophage, also known informally as a phage, is a virus that infects and replicates within bacteria and archaea. The term was derived from "bacteria" and the Greek φαγεῖν (phagein), meaning "to devour". Bacteriophages are composed of proteins that encapsulate a DNA or RNA genome, and may have structures that are either simple or elaborate. Their genomes may encode as few as four genes and as many as hundreds of genes.
 
 (ref:phagestruc) [Structural overview of T2 phage](https://en.wikipedia.org/wiki/Hershey–Chase_experiment#/media/File:Tevenphage.svg) 

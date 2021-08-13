@@ -1,3 +1,7 @@
+fig:unnamed-chunk-1
+fig:sarscovtwo
+fig:archhalo
+fig:ecolisem
 fig:classification
 fig:tree
 fig:species
@@ -30,18 +34,19 @@ fig:structuredna
 fig:structurenucleotide
 fig:microscopetypes
 fig:zeissmic
-fig:unnamed-chunk-1
 fig:compoundmicroscope
 fig:unnamed-chunk-2
 fig:slidecover
 fig:fluomic
 fig:gramstain
 fig:gramdiagram
+fig:tembac
 fig:semicroscope
 fig:sempollen
 fig:petridish
 fig:agarplate
 fig:inoculationloop
+fig:cellspreader
 fig:bloodagar
 fig:macconkey
 fig:utiagar
@@ -104,6 +109,7 @@ tab:virgen
 fig:influenza
 fig:virusrepc
 fig:rnavirus
+fig:bacteriophage
 fig:phage
 fig:bacphage
 fig:atpstrucform

@@ -6,9 +6,21 @@ Microbiology encompasses numerous sub-disciplines including [virology](https://e
 
 ## General Characteristics And Evolution Of Microorganisms
 
-A microorganism, or microbe,[a] is a microscopic organism, which may exist in its single-celled form or a colony of cells.
+A microorganism, or microbe, is a microscopic organism, which may exist in its single-celled form or a colony of cells.
+
+(ref:scale) [The range of sizes shown by viruses, prokaryotes (Archea, Bacteria), eukayotes compared to atoms, small molecules and proteins.](https://commons.wikimedia.org/wiki/File:Relative_scale.svg)
+
+```{r scalecomp, fig.cap='(ref:scale)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/microbiology/Relative_scale.svg")
+```
 
 [Viruses](https://en.wikipedia.org/wiki/Virus) have been variably classified as organisms,  as they have been considered either as very simple microorganisms or very complex molecules. [Prions](https://en.wikipedia.org/wiki/Prion), never considered as microorganisms, have been investigated by virologists, however, as the clinical effects traced to them were originally presumed due to chronic viral infections, and virologists took search—discovering "infectious proteins".
+
+(ref:sarscov) [Transmission electron micrograph of a SARS-CoV-2 virus particle (UK B.1.1.7 variant), isolated from a patient sample and cultivated in cell culture. The prominent projections (green) seen on the outside of the virus particle (yellow) are spike proteins. This fringe of proteins enables the virus to attach to and infect host cells and then replicate. Image captured at the NIAID Integrated Research Facility (IRF) in Fort Detrick, Maryland. Credit: NIAID](https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_(50960620707)_(cropped).jpg)
+
+```{r sarscovtwo, fig.cap='(ref:sarscov)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/microbiology/Novel_Coronavirus_SARS-CoV-2_(50960620707)_(cropped).jpg")
+```
 
 The possible existence of unseen microbial life was suspected from ancient times, such as in Jain scriptures from sixth century BC India. The scientific study of microorganisms began with their observation under the microscope in the 1670s by Antonie van Leeuwenhoek. In the 1850s, Louis Pasteur found that microorganisms caused food spoilage, debunking the theory of spontaneous generation. In the 1880s, Robert Koch discovered that microorganisms caused the diseases tuberculosis, cholera, diphtheria, and anthrax.
 
@@ -28,6 +40,12 @@ A possible transitional form of microorganism between a prokaryote and a eukaryo
 
 Archaea are prokaryotic unicellular organisms, and form the first domain of life, in Carl Woese's three-domain system. A prokaryote is defined as having no cell nucleus or other membrane bound-organelle. Archaea share this defining feature with the bacteria with which they were once grouped. In 1990 the microbiologist Woese proposed the three-domain system that divided living things into bacteria, archaea and eukaryotes, and thereby split the prokaryote domain.
 
+(ref:arch) [Halobacterium sp. strain NRC-1, each cell is about 5 μm long](https://commons.wikimedia.org/wiki/File:Halobacteria.jpg)
+
+```{r archhalo, fig.cap='(ref:arch)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/microbiology/Halobacteria.jpg")
+```
+
 Archaea differ from bacteria in both their genetics and biochemistry. For example, while bacterial cell membranes are made from phosphoglycerides with ester bonds, archaean membranes are made of ether lipids. Archaea were originally described as extremophiles living in extreme environments, such as hot springs, but have since been found in all types of habitats. Only now are scientists beginning to realize how common archaea are in the environment, with Crenarchaeota being the most common form of life in the ocean, dominating ecosystems below 150 m in depth. These organisms are also common in soil and play a vital role in ammonia oxidation.
 
 The combined domains of archaea and bacteria make up the most diverse and abundant group of organisms on Earth and inhabit practically all environments where the temperature is below +140 °C. They are found in water, soil, air, as the microbiome of an organism, hot springs and even deep beneath the Earth's crust in rocks. The number of prokaryotes is estimated to be around five nonillion, or 5 × 1030, accounting for at least half the biomass on Earth.
@@ -37,6 +55,12 @@ The biodiversity of the prokaryotes is unknown, but may be very large. A May 201
 ### Bacteria
 
 Bacteria like archaea are prokaryotic – unicellular, and having no cell nucleus or other membrane-bound organelle. Bacteria are microscopic, with a few extremely rare exceptions, such as Thiomargarita namibiensis. Bacteria function and reproduce as individual cells, but they can often aggregate in multicellular colonies. Some species such as myxobacteria can aggregate into complex swarming structures, operating as multicellular groups as part of their life cycle, or form clusters in bacterial colonies such as E.coli.
+
+(ref:ecoli) [Scanning electron micrograph of Escherichia coli, grown in culture and adhered to a cover slip.](https://en.wikipedia.org/wiki/File:EscherichiaColi_NIAID.jpg)
+
+```{r ecolisem, fig.cap='(ref:ecoli)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/microbiology/EscherichiaColi_NIAID.jpg")
+```
 
 Their genome is usually a circular bacterial chromosome – a single loop of DNA, although they can also harbor small pieces of DNA called plasmids. These plasmids can be transferred between cells through bacterial conjugation. Bacteria have an enclosing cell wall, which provides strength and rigidity to their cells. They reproduce by binary fission or sometimes by budding, but do not undergo meiotic sexual reproduction. However, many bacterial species can transfer DNA between individual cells by a horizontal gene transfer process referred to as natural transformation. Some species form extraordinarily resilient spores, but for bacteria this is a mechanism for survival, not reproduction. Under optimal conditions bacteria can grow extremely rapidly and their numbers can double as quickly as every 20 minutes.
 

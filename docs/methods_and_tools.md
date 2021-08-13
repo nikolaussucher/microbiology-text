@@ -345,6 +345,13 @@ The resolution of TEMs is limited primarily by spherical aberration, but a new g
 
 Transmission electron microscopes are often used in electron diffraction mode. The advantages of electron diffraction over X-ray crystallography are that the specimen need not be a single crystal or even a polycrystalline powder, and also that the Fourier transform reconstruction of the object's magnified structure occurs physically and thus avoids the need for solving the phase problem faced by the X-ray crystallographers after obtaining their X-ray diffraction patterns.
 
+(ref:tem) [The Bacterium Bacillus subtilis taken with a Tecnai T-12 TEM. The scale bar is 200 nm. Taken by Allon Weiner, The Weizmann Institute of Science, Rehovot, Israel. 2006.](https://commons.wikimedia.org/wiki/File:Bacillus_subtilis.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Bacillus_subtilis.jpg" alt="(ref:tem)" width="70%" />
+<p class="caption">(\#fig:tembac)(ref:tem)</p>
+</div>
+
 One major disadvantage of the transmission electron microscope is the need for extremely thin sections of the specimens, typically about 100 nanometers. Creating these thin sections for biological and materials specimens is technically very challenging. Semiconductor thin sections can be made using a focused ion beam. Biological tissue specimens are chemically fixed, dehydrated and embedded in a polymer resin to stabilize them sufficiently to allow ultrathin sectioning. Sections of biological specimens, organic polymers, and similar materials may require staining with heavy atom labels in order to achieve the required image contrast.
 
 ### The Scanning Electron Microscope (SEM)
@@ -412,13 +419,11 @@ Individual microorganisms placed on the plate will grow into individual colonies
 (ref:aplate) [An agar culture of E. coli colonies.](https://commons.wikimedia.org/wiki/File:Ecoli_colonies.png)
 
 <div class="figure" style="text-align: center">
-<img src="./figures/tools/Agar_plate_with_colonies.jpg" alt="(ref:aplate)" width="70%" />
+<img src="./figures/tools/Ecoli_colonies.png" alt="(ref:aplate)" width="70%" />
 <p class="caption">(\#fig:agarplate)(ref:aplate)</p>
 </div>
 
 Several methods are available to plate out cells. One technique is known as "streaking". In this technique, a drop of the culture on the end of a thin, sterile loop of wire, sometimes known as an inoculator or inoculation loop, is streaked across the surface of the agar leaving organisms behind, a higher number at the beginning of the streak and a lower number at the end. At some point during a successful "streak", the number of organisms deposited will be such that distinct individual colonies will grow in that area which may be removed for further culturing, using another sterile loop. It is crucial to work sterile to prevent contamination on the plates.
-
-Cells in a centrally place drop can also be evenvly spread across the surface of and agar plate using a cell spreader.
 
 (ref:inoloop) [An inoculation loop made of twisted metal wire, with a metal handle. It is used to introduce bacteria or other microorganisms into a culture medium.](https://commons.wikimedia.org/wiki/File:Inoculation_loop_rot45.jpg)
 
@@ -427,9 +432,14 @@ Cells in a centrally place drop can also be evenvly spread across the surface of
 <p class="caption">(\#fig:inoculationloop)(ref:inoloop)</p>
 </div>
 
+Cells in a centrally place drop can also be evenvly spread across the surface of and agar plate using a cell spreader.
+
 (ref:spread) [A set of plate spreaders (Drigalski's spatulas).](https://commons.wikimedia.org/wiki/File:Plate_spreaders-set.jpg)
 
-
+<div class="figure" style="text-align: center">
+<img src="./figures/tools/Plate_spreaders-set.jpg" alt="(ref:spread)" width="70%" />
+<p class="caption">(\#fig:cellspreader)(ref:spread)</p>
+</div>
 
 Another way of plating organisms, next to streaking, on agar plates is the spot analysis. This type of analysis is often used to check the viability of cells and performed with pinners (often also called froggers). A third used technique is the use of sterile glass beads to plate out cells. In this technique cells are grown in a liquid culture of which a small volume is pipetted on the agar plate and then spread out with the beads. Replica plating is another technique in order to plate out cells on agar plates. These four techniques are the most common, but others are also possible. It is crucial to work in a sterile manner in order to prevent contamination on the agar plates. Plating is thus often done in a laminar flow cabinet or on the working bench next to a bunsen burner.
 
