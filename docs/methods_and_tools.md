@@ -338,7 +338,7 @@ The original form of the electron microscope, the transmission electron microsco
 
 <div class="figure" style="text-align: center">
 <img src="./figures/tools/Electron_Microscope.jpg" alt="(ref:elecmic)" width="70%" />
-<p class="caption">(\#fig:electronmicroscop e)(ref:elecmic)</p>
+<p class="caption">(\#fig:electronmicroscope)(ref:elecmic)</p>
 </div>
 
 The resolution of TEMs is limited primarily by spherical aberration, but a new generation of hardware correctors can reduce spherical aberration to increase the resolution in high-resolution transmission electron microscopy (HRTEM) to below 0.5 angstrom (50 picometres), enabling magnifications above 50 million times. The ability of HRTEM to determine the positions of atoms within materials is useful for nano-technologies research and development.

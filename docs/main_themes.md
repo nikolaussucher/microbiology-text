@@ -108,7 +108,6 @@ The green algae are a large group of photosynthetic eukaryotes that include many
 <p class="caption">(\#fig:algaecollection)(ref:algcol)</p>
 </div>
 
-
 ## Ecology Of Microorganisms
 
 Microorganisms are found in almost every habitat present in nature, including hostile environments such as the North and South poles, deserts, geysers, and rocks. They also include all the marine microorganisms of the oceans and deep sea. Some types of microorganisms have adapted to extreme environments and sustained colonies; these organisms are known as extremophiles. Extremophiles have been isolated from rocks as much as 7 kilometres below the Earth's surface, and it has been suggested that the amount of organisms living below the Earth's surface is comparable with the amount of life on or above the surface. Extremophiles have been known to survive for a prolonged time in a vacuum, and can be highly resistant to radiation, which may even allow them to survive in space. Many types of microorganisms have intimate symbiotic relationships with other larger organisms; some of which are mutually beneficial (mutualism), while others can be damaging to the host organism (parasitism). If microorganisms can cause disease in a host they are known as pathogens and then they are sometimes referred to as microbes. Microorganisms play critical roles in Earth's biogeochemical cycles as they are responsible for decomposition and nitrogen fixation.
@@ -118,6 +117,13 @@ Bacteria use regulatory networks that allow them to adapt to almost every enviro
 ### Microbiome
 
 The word microbiome (from the Greek micro meaning "small" and bíos meaning "life") was first used by J.L. Mohr in 1952 in The Scientific Monthly to mean the microorganisms found in a specific environment. It was defined in 1988 by Whipps et al. as "a characteristic microbial community occupying a reasonably well-defined habitat which has distinct physio-chemical properties. The term thus not only refers to the microorganisms involved but also encompasses their theatre of activity".
+
+(ref:microbiome) [The term microbiome encompasses both the microbiota (community of microorganisms) and their "theatre of activity" (structural elements, metabolites/signal molecules, and the surrounding environmental conditions.](https://en.wikipedia.org/wiki/File:Microbiome_as_microbiota_plus_their_theatre_of_activity.webp)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/microbiology/Microbiome_as_microbiota_plus_their_theatre_of_activity.webp" alt="(ref:microbiome)" width="70%" />
+<p class="caption">(\#fig:microbiomdef)(ref:microbiome)</p>
+</div>
 
 In 2020, an international panel of experts published the outcome of their discussions on the definition of the microbiome. They proposed a definition of the microbiome based on a revival of the "compact, clear, and comprehensive description of the term" as originally provided by Whipps et al., but supplemented with two explanatory sentences.
 

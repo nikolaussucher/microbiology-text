@@ -8,6 +8,13 @@ Adaptive immunity creates immunological memory after an initial response to a sp
 
 The cells that carry out the adaptive immune response are white blood cells known as lymphocytes. B cells and T cells, two different types of lymphocytes, carry out the main activities: antibody responses, and cell-mediated immune response. In antibody responses, B cells are activated to secrete antibodies, which are proteins also known as immunoglobulins. Antibodies travel through the bloodstream and bind to the foreign antigen causing it to inactivate, which does not allow the antigen to bind to the host. Antigens are any substances that elicit the adaptive immune response. Sometimes the adaptive system is unable to distinguish harmful from harmless foreign molecules; the effects of this may be hayfever, asthma, or any other allergy.
 
+(ref:imres) [Overview of the processes involved in the primary immune response](https://commons.wikimedia.org/wiki/File:Primary_immune_response_1.png)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/Primary_immune_response_1.png" alt="(ref:imres)" width="70%" />
+<p class="caption">(\#fig:immuneresponse)(ref:imres)</p>
+</div>
+
 In adaptive immunity, pathogen-specific receptors are "acquired" during the lifetime of the organism (whereas in innate immunity pathogen-specific receptors are already encoded in the genome). This acquired response is called "adaptive" because it prepares the body's immune system for future challenges (though it can actually also be maladaptive when it results in allergies or autoimmunity).
 
 The system is highly adaptable because of two factors. First, somatic hypermutation is a process of accelerated random genetic mutations in the antibody-coding genes, which allows antibodies with novel specificity to be created. Second, V(D)J recombination randomly selects one variable (V), one diversity (D), and one joining (J) region for genetic recombination and discards the rest, which produces a highly unique combination of antigen-receptor gene segments in each lymphocyte. This mechanism allows a small number of genetic segments to generate a vast number of different antigen receptors, which are then uniquely expressed on each individual lymphocyte. Since the gene rearrangement leads to an irreversible change in the DNA of each cell, all progeny (offspring) of that cell inherit genes that encode the same receptor specificity, including the memory B cells and memory T cells that are the keys to long-lived specific immunity.
@@ -42,6 +49,13 @@ Following the 1888 discovery of the bacteria that cause diphtheria and tetanus, 
 
 Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. The terms antibody and immunoglobulin are often used interchangeably. They are found in the blood and tissue fluids, as well as many secretions. In structure, they are large Y-shaped globular proteins. In mammals there are five types of antibody: IgA, IgD, IgE, IgG, and IgM. Each immunoglobulin class differs in its biological properties and has evolved to deal with different antigens. Antibodies are synthesized and secreted by plasma cells that are derived from the B cells of the immune system.
 
+(ref:antib) [An antibody](https://commons.wikimedia.org/wiki/File:Antibody_chains.svg) is made up of two heavy chains and two light chains. The variable region, which differs from one antibody to the next, allows an antibody to recognize its matching antigen.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/Antibody_chains.svg" alt="(ref:antib)" width="70%" />
+<p class="caption">(\#fig:antibody)(ref:antib)</p>
+</div>
+
 An antibody is used by the acquired immune system to identify and neutralize foreign objects like bacteria and viruses. Each antibody recognizes a specific antigen unique to its target. By binding their specific antigens, antibodies can cause agglutination and precipitation of antibody-antigen products, prime for phagocytosis by macrophages and other cells, block viral receptors, and stimulate other immune responses, such as the complement pathway.
 
 An incompatible blood transfusion causes a transfusion reaction, which is mediated by the humoral immune response. This type of reaction, called an acute hemolytic reaction, results in the rapid destruction (hemolysis) of the donor red blood cells by host antibodies. The cause is usually a clerical error, such as the wrong unit of blood being given to the wrong patient. The symptoms are fever and chills, sometimes with back pain and pink or red urine (hemoglobinuria). The major complication is that hemoglobin released by the destruction of red blood cells can cause acute kidney failure.
@@ -59,6 +73,13 @@ When a B cell encounters an antigen, the antigen binds to the receptor and is ta
 ### B cell proliferation
 
 The B cell waits for a helper T cell (TH) to bind to the complex. This binding will activate the TH cell, which then releases cytokines that induce B cells to divide rapidly, making thousands of identical clones of the B cell. These daughter cells either become plasma cells or memory cells. The memory B cells remain inactive here; later, when these memory B cells encounter the same antigen due to reinfection, they divide and form plasma cells. On the other hand, the plasma cells produce a large number of antibodies which are released freely into the circulatory system.
+
+(ref:bcellac) [The B lymphocyte activation pathway.](https://commons.wikimedia.org/wiki/File:B_cell_activation.svg) When a B cell encounters its triggering antigen, it gives rise to many large cells known as plasma cells. Every plasma cell is essentially a factory for producing an antibody. Each of the plasma cells descended from a given B cell manufactures millions of identical antibody molecules and pours them into the bloodstream.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/B_cell_activation.svg" alt="(ref:bcellac)" width="70%" />
+<p class="caption">(\#fig:bcellactivation)(ref:bcellac)</p>
+</div>
 
 ### Antibody-antigen reaction
 
@@ -95,14 +116,29 @@ With the exception of non-nucleated cells (including erythrocytes), all cells ar
 
 Several T cells subgroups can be activated by professional APCs, and each type of T cell is specially equipped to deal with each unique toxin or microbial pathogen. The type of T cell activated, and the type of response generated, depends, in part, on the context in which the APC first encountered the antigen.
 
+(ref:tcellac) [The T lymphocyte activation pathway]((https://commons.wikimedia.org/wiki/File:T_cell_activation.svg) is triggered when a T cell encounters its cognate antigen, coupled to a MHC molecule, on the surface of an infected cell or a phagocyte. T cells contribute to immune defenses in two major ways: some direct and regulate immune responses; others directly attack infected or cancerous cells.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/T_cell_activation.svg" alt="(ref:tcellac)" width="70%" />
+<p class="caption">(\#fig:tcellactivation)(ref:tcellac)</p>
+</div>
+
 ## Exogenous antigens
 
 Dendritic cells engulf exogenous pathogens, such as bacteria, parasites or toxins in the tissues and then migrate, via chemotactic signals, to the T cell-enriched lymph nodes. During migration, dendritic cells undergo a process of maturation in which they lose most of their ability to engulf other pathogens, and develop an ability to communicate with T-cells. The dendritic cell uses enzymes to chop the pathogen into smaller pieces, called antigens. In the lymph node, the dendritic cell displays these non-self antigens on its surface by coupling them to a receptor called the major histocompatibility complex, or MHC (also known in humans as human leukocyte antigen (HLA)). This MHC-antigen complex is recognized by T-cells passing through the lymph node. Exogenous antigens are usually displayed on MHC class II molecules, which activate CD4+T helper cells.
 
 ## Endogenous antigens
+
 Endogenous antigens are produced by intracellular bacteria and viruses replicating within a host cell. The host cell uses enzymes to digest virally associated proteins and displays these pieces on its surface to T-cells by coupling them to MHC. Endogenous antigens are typically displayed on MHC class I molecules, and activate CD8+ cytotoxic T-cells. With the exception of non-nucleated cells (including erythrocytes), MHC class I is expressed by all host cells.
 
 ## T lymphocytes
+
+(ref:antpres) [Antigen presentation](https://commons.wikimedia.org/wiki/File:Antigen_presentation.svg) stimulates T cells to activate "cytotoxic" CD8+ cells or "helper" CD4+ cells. Cytotoxic cells directly attack other cells carrying certain foreign or abnormal molecules on their surfaces. Helper T cells, or Th cells, coordinate immune responses by communicating with other cells. In most cases, T cells only recognize an antigen if it is carried on the surface of a cell by one of the body’s own MHC, or major histocompatibility complex, molecules.()
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/Antigen_presentation.svg" alt="(ref:antpres)" width="70%" />
+<p class="caption">(\#fig:antigenpresentation)(ref:antpres)</p>
+</div>
 
 ### CD8+ T lymphocytes and cytotoxicity
 

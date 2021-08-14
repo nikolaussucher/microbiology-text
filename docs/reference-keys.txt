@@ -5,6 +5,7 @@ fig:ecolisem
 fig:protistacollage
 fig:fungidiversity
 fig:algaecollection
+fig:microbiomdef
 fig:classification
 fig:tree
 fig:species
@@ -44,6 +45,7 @@ fig:slidecover
 fig:fluomic
 fig:gramstain
 fig:gramdiagram
+fig:electronmicroscope
 fig:tembac
 fig:semicroscope
 fig:sempollen
@@ -162,6 +164,11 @@ tab:resistance
 tab:path
 tab:immune
 fig:hematopoiesis
+fig:immuneresponse
+fig:antibody
+fig:bcellactivation
+fig:tcellactivation
+fig:antigenpresentation
 fig:childschedule
 fig:adultschedule
 the-main-themes-of-microbiology

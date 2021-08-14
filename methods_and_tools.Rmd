@@ -327,7 +327,7 @@ The original form of the electron microscope, the transmission electron microsco
 
 (ref:elecmic) [A modern transmission electron microscope.](https://commons.wikimedia.org/wiki/File:Electron_Microscope.jpg)
 
-```{r electronmicroscop e, fig.cap='(ref:elecmic)', echo=FALSE, message=FALSE, warning=FALSE}
+```{r electronmicroscope, fig.cap='(ref:elecmic)', echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./figures/tools/Electron_Microscope.jpg")
 ```
 
