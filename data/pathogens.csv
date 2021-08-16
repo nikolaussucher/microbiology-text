@@ -1,31 +1,31 @@
 Genus,Species,Gram staining,Shape,Oxygen requirement,Intra/Extracellular
-Bacillus[27],Bacillus anthracis Bacillus cereus,Positive,Rods,Facultative anaerobic,Extracellular
-Bartonella[27],Bartonella henselae Bartonella quintana,Negative,Rods,Aerobic,Facultative intracellular
-Bordetella[27],Bordetella pertussis[28][29],Negative,Small coccobacilli,Aerobic,Extracellular
-Borrelia[27],Borrelia burgdorferi Borrelia garinii Borrelia afzelii Borrelia recurrentis,"Negative, stains poorly",Spirochete,Anaerobic,Extracellular
-Brucella[27],Brucella abortus Brucella canis Brucella melitensis Brucella suis,Negative,Coccobacilli,Aerobic,Intracellular
-Campylobacter[27],Campylobacter jejuni,Negative,Spiral rods[30]  coccoid in older cultures[30],Microaerophilic[30],Extracellular
-Chlamydia and Chlamydophila[27],Chlamydia pneumoniae Chlamydia trachomatis Chlamydophila psittaci,(not Gram-stained),"Small, round, ovoid",Facultative or strictly aerobic,Obligate intracellular
-Clostridium[27],Clostridium botulinum Clostridium difficile Clostridium perfringens Clostridium tetani,Positive,"Large, blunt-ended rods",Obligate anaerobic,Extracellular
-Corynebacterium[27],Corynebacterium diphtheriae[29][31][32],Positive (unevenly),Rods,Mostly facultative anaerobic,Extracellular
-Enterococcus[29][33],Enterococcus faecalis Enterococcus faecium,Positive,Cocci,Facultative Anaerobic,Extracellular
-Escherichia[4][29][34],Escherichia coli,Negative,Rods,Facultative anaerobic,Extracellular or Intracellular
-Francisella[27],Francisella tularensis,Negative,Coccobacillus,Strictly aerobic,Facultative intracellular
-Haemophilus,Haemophilus influenzae[29][35],Negative,Coccobacilli to long and slender filaments,Facultative anaerobic 5 - 10% CO2,Extracellular
-Helicobacter,Helicobacter pylori[36],Negative,Spiral rod,Microaerophile,Extracellular
-Legionella[27],Legionella pneumophila,"Negative, stains poorly",Cocobacilli,Aerobic,Facultative intracellular
-Leptospira[29][37],Leptospira interrogans Leptospira santarosai Leptospira weilii Leptospira noguchii,"Negative, stains poorly",Spirochete,Strictly aerobic,Extracellular
-Listeria[27],Listeria monocytogenes,"Positive, darkly","Slender, short rods",Facultative Anaerobic,Facultative intracellular
-Mycobacterium[27],Mycobacterium leprae Mycobacterium tuberculosis Mycobacterium ulcerans,(none),"Long, slender rods",Aerobic,Intracellular
-Mycoplasma[27],Mycoplasma pneumoniae,(none),"Indistinct 'fried egg' appearance, no cell wall",Mostly facultative anaerobic; M. pneumoniae strictly aerobic,Extracellular
-Neisseria[29][38],Neisseria gonorrhoeae Neisseria meningitidis,Negative,Kidney bean-shaped,Aerobic,Gonococcus: facultative intracellularN. meningitidis: extracellular
-Pseudomonas[29][39],Pseudomonas aeruginosa,Negative,Rods,Obligate aerobic,Extracellular
-Rickettsia[27],Rickettsia rickettsii,"Negative, stains poorly","Small, rod-like coccobacillary",Aerobic,Obligate intracellular
-Salmonella[27],Salmonella typhi Salmonella typhimurium,Negative,Rods,Facultative anaerobica,Facultative intracellular
-Shigella[29][40],Shigella sonnei,Negative,Rods,Facultative anaerobic,Extracellular
-Staphylococcus[4],Staphylococcus aureus Staphylococcus epidermidis Staphylococcus saprophyticus,"Positive, darkly",Round cocci,Facultative anaerobic,"Extracellular, facultative intracellular"
-Streptococcus[27],Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes,Positive,Ovoid to spherical,Facultative anaerobic,Extracellular
-Treponema[27],Treponema pallidum,"Negative, stains poorly",Spirochete,Aerobic,Extracellular
-Ureaplasma[4],Ureaplasma urealyticum,Stains poorly[41],"Indistinct, 'fried egg' appearance, no cell wall",Anaerobic,Extracellular
-Vibrio[29][42],Vibrio cholerae,Negative,Spiral with single polar flagellum,Facultative anaerobic,Extracellular
-Yersinia[29][43],Yersinia pestis Yersinia enterocolitica Yersinia pseudotuberculosis,"Negative, bipolarly",Small rods,Facultative anaerobe,Intracellular
+Bacillus,Bacillus anthracis Bacillus cereus,Positive,Rods,Facultative anaerobic,Extracellular
+Bartonella,Bartonella henselae Bartonella quintana,Negative,Rods,Aerobic,Facultative intracellular
+Bordetella,Bordetella pertussis,Negative,Small coccobacilli,Aerobic,Extracellular
+Borrelia,Borrelia burgdorferi Borrelia garinii Borrelia afzelii Borrelia recurrentis,"Negative, stains poorly",Spirochete,Anaerobic,Extracellular
+Brucella,Brucella abortus Brucella canis Brucella melitensis Brucella suis,Negative,Coccobacilli,Aerobic,Intracellular
+Campylobacter,Campylobacter jejuni,Negative,Spiral rods  coccoid in older cultures,Microaerophilic,Extracellular
+Chlamydia and Chlamydophila,Chlamydia pneumoniae Chlamydia trachomatis Chlamydophila psittaci,(not Gram-stained),"Small, round, ovoid",Facultative or strictly aerobic,Obligate intracellular
+Clostridium,Clostridium botulinum Clostridium difficile Clostridium perfringens Clostridium tetani,Positive,"Large, blunt-ended rods",Obligate anaerobic,Extracellular
+Corynebacterium,Corynebacterium diphtheriae,Positive (unevenly),Rods,Mostly facultative anaerobic,Extracellular
+Enterococcus,Enterococcus faecalis Enterococcus faecium,Positive,Cocci,Facultative Anaerobic,Extracellular
+Escherichia,Escherichia coli,Negative,Rods,Facultative anaerobic,Extracellular or Intracellular
+Francisella,Francisella tularensis,Negative,Coccobacillus,Strictly aerobic,Facultative intracellular
+Haemophilus,Haemophilus influenzae,Negative,Coccobacilli to long and slender filaments,Facultative anaerobic 5 - 10% CO2,Extracellular
+Helicobacter,Helicobacter pylori,Negative,Spiral rod,Microaerophile,Extracellular
+Legionella,Legionella pneumophila,"Negative, stains poorly",Cocobacilli,Aerobic,Facultative intracellular
+Leptospira,Leptospira interrogans Leptospira santarosai Leptospira weilii Leptospira noguchii,"Negative, stains poorly",Spirochete,Strictly aerobic,Extracellular
+Listeria,Listeria monocytogenes,"Positive, darkly","Slender, short rods",Facultative Anaerobic,Facultative intracellular
+Mycobacterium,Mycobacterium leprae Mycobacterium tuberculosis Mycobacterium ulcerans,(none),"Long, slender rods",Aerobic,Intracellular
+Mycoplasma,Mycoplasma pneumoniae,(none),"Indistinct 'fried egg' appearance, no cell wall",Mostly facultative anaerobic; M. pneumoniae strictly aerobic,Extracellular
+Neisseria,Neisseria gonorrhoeae Neisseria meningitidis,Negative,Kidney bean-shaped,Aerobic,Gonococcus: facultative intracellularN. meningitidis: extracellular
+Pseudomonas,Pseudomonas aeruginosa,Negative,Rods,Obligate aerobic,Extracellular
+Rickettsia,Rickettsia rickettsii,"Negative, stains poorly","Small, rod-like coccobacillary",Aerobic,Obligate intracellular
+Salmonella,Salmonella typhi Salmonella typhimurium,Negative,Rods,Facultative anaerobica,Facultative intracellular
+Shigella,Shigella sonnei,Negative,Rods,Facultative anaerobic,Extracellular
+Staphylococcus,Staphylococcus aureus Staphylococcus epidermidis Staphylococcus saprophyticus,"Positive, darkly",Round cocci,Facultative anaerobic,"Extracellular, facultative intracellular"
+Streptococcus,Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes,Positive,Ovoid to spherical,Facultative anaerobic,Extracellular
+Treponema,Treponema pallidum,"Negative, stains poorly",Spirochete,Aerobic,Extracellular
+Ureaplasma,Ureaplasma urealyticum,Stains poorly,"Indistinct, 'fried egg' appearance, no cell wall",Anaerobic,Extracellular
+Vibrio,Vibrio cholerae,Negative,Spiral with single polar flagellum,Facultative anaerobic,Extracellular
+Yersinia,Yersinia pestis Yersinia enterocolitica Yersinia pseudotuberculosis,"Negative, bipolarly",Small rods,Facultative anaerobe,Intracellular

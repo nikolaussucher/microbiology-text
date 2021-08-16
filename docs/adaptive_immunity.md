@@ -49,11 +49,11 @@ Following the 1888 discovery of the bacteria that cause diphtheria and tetanus, 
 
 Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. The terms antibody and immunoglobulin are often used interchangeably. They are found in the blood and tissue fluids, as well as many secretions. In structure, they are large Y-shaped globular proteins. In mammals there are five types of antibody: IgA, IgD, IgE, IgG, and IgM. Each immunoglobulin class differs in its biological properties and has evolved to deal with different antigens. Antibodies are synthesized and secreted by plasma cells that are derived from the B cells of the immune system.
 
-(ref:antib) [An antibody](https://commons.wikimedia.org/wiki/File:Antibody_chains.svg) is made up of two heavy chains and two light chains. The variable region, which differs from one antibody to the next, allows an antibody to recognize its matching antigen.
+(ref:antibo) [An antibody](https://commons.wikimedia.org/wiki/File:Antibody_chains.svg) is made up of two heavy chains and two light chains. The variable region, which differs from one antibody to the next, allows an antibody to recognize its matching antigen.
 
 <div class="figure" style="text-align: center">
-<img src="./figures/adaptive_immunity/Antibody_chains.svg" alt="(ref:antib)" width="70%" />
-<p class="caption">(\#fig:antibody)(ref:antib)</p>
+<img src="./figures/adaptive_immunity/Antibody_chains.svg" alt="(ref:antibo)" width="70%" />
+<p class="caption">(\#fig:antibody)(ref:antibo)</p>
 </div>
 
 An antibody is used by the acquired immune system to identify and neutralize foreign objects like bacteria and viruses. Each antibody recognizes a specific antigen unique to its target. By binding their specific antigens, antibodies can cause agglutination and precipitation of antibody-antigen products, prime for phagocytosis by macrophages and other cells, block viral receptors, and stimulate other immune responses, such as the complement pathway.
@@ -116,7 +116,7 @@ With the exception of non-nucleated cells (including erythrocytes), all cells ar
 
 Several T cells subgroups can be activated by professional APCs, and each type of T cell is specially equipped to deal with each unique toxin or microbial pathogen. The type of T cell activated, and the type of response generated, depends, in part, on the context in which the APC first encountered the antigen.
 
-(ref:tcellac) [The T lymphocyte activation pathway]((https://commons.wikimedia.org/wiki/File:T_cell_activation.svg) is triggered when a T cell encounters its cognate antigen, coupled to a MHC molecule, on the surface of an infected cell or a phagocyte. T cells contribute to immune defenses in two major ways: some direct and regulate immune responses; others directly attack infected or cancerous cells.
+(ref:tcellac) [The T lymphocyte activation pathway](https://commons.wikimedia.org/wiki/File:T_cell_activation.svg) is triggered when a T cell encounters its cognate antigen, coupled to a MHC molecule, on the surface of an infected cell or a phagocyte. T cells contribute to immune defenses in two major ways: some direct and regulate immune responses; others directly attack infected or cancerous cells.
 
 <div class="figure" style="text-align: center">
 <img src="./figures/adaptive_immunity/T_cell_activation.svg" alt="(ref:tcellac)" width="70%" />
@@ -201,8 +201,6 @@ This is passive immunity because the fetus does not actually make any memory cel
 
 In general, active immunity is long-term and can be acquired by infection followed by B cell and T cell activation, or artificially acquired by vaccines, in a process called immunization.
 
-### Immunization
-
 Historically, infectious disease has been the leading cause of death in the human population. Over the last century, two important factors have been developed to combat their spread: sanitation and immunization. Immunization (commonly referred to as vaccination) is the deliberate induction of an immune response, and represents the single most effective manipulation of the immune system that scientists have developed. Immunizations are successful because they utilize the immune system's natural specificity as well as its inducibility.
 
 The principle behind immunization is to introduce an antigen, derived from a disease-causing organism, that stimulates the immune system to develop protective immunity against that organism, but that does not itself cause the pathogenic effects of that organism. An antigen (short for antibody generator), is defined as any substance that binds to a specific antibody and elicits an adaptive immune response.
@@ -261,60 +259,130 @@ The first disease people tried to prevent by inoculation was most likely smallpo
 
 Vaccination and immunization have a similar meaning in everyday language. This is distinct from inoculation, which uses unweakened live pathogens. Vaccination efforts have been met with some reluctance on scientific, ethical, political, medical safety, and religious grounds, although no major religions oppose vaccination, and some consider it an obligation due to the potential to save lives. In the United States, people may receive compensation for alleged injuries under the National Vaccine Injury Compensation Program. Early success brought widespread acceptance, and mass vaccination campaigns have greatly reduced the incidence of many diseases in numerous geographic regions.
 
-### Mechanism of Action
+## Vaccine
 
-Vaccines are a way of artificially activating the immune system to protect against infectious disease. The activation occurs through priming the immune system with an immunogen. Stimulating immune responses with an infectious agent is known as immunization. Vaccination includes various ways of administering immunogens.
+A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent as a threat, destroy it, and to further recognize and destroy any of the microorganisms associated with that agent that it may encounter in the future. Vaccines can be prophylactic (to prevent or ameliorate the effects of a future infection by a natural or "wild" pathogen), or therapeutic (to fight a disease that has already occurred, such as cancer). Some vaccines offer full sterlizing immunity, in which infection is prevented completely.
 
-Most vaccines are administered before a patient has contracted a disease to help increase future protection. However, some vaccines are administered after the patient already has contracted a disease. Vaccines given after exposure to smallpox are reported to offer some protection from disease or may reduce the severity of disease. The first rabies immunization was given by Louis Pasteur to a child after he was bitten by a rabid dog. Since its discovery, the rabies vaccine has been proven effective in preventing rabies in humans when administered several times over 14 days along with rabies immune globulin and wound care. Other examples include experimental AIDS, cancer and Alzheimer's disease vaccines. Such immunizations aim to trigger an immune response more rapidly and with less harm than natural infection.
+The administration of vaccines is called vaccination. Vaccination is the most effective method of preventing infectious diseases; widespread immunity due to vaccination is largely responsible for the worldwide eradication of smallpox and the restriction of diseases such as polio, measles, and tetanus from much of the world. The effectiveness of vaccination has been widely studied and verified; for example, vaccines that have proven effective include the influenza vaccine, the HPV vaccine, and the chicken pox vaccine. The World Health Organization (WHO) reports that licensed vaccines are currently available for twenty-five different preventable infections.
 
-Most vaccines are given by injection as they are not absorbed reliably through the intestines. Live attenuated polio, rotavirus, some typhoid, and some cholera vaccines are given orally to produce immunity in the bowel. While vaccination provides a lasting effect, it usually takes several weeks to develop. This differs from passive immunity (the transfer of antibodies, such as in breastfeeding), which has immediate effect.
+The terms vaccine and vaccination are derived from Variolae vaccinae (smallpox of the cow), the term devised by Edward Jenner (who both developed the concept of vaccines and created the first vaccine) to denote cowpox. He used the phrase in 1798 for the long title of his Inquiry into the Variolae vaccinae Known as the Cow Pox, in which he described the protective effect of cowpox against smallpox. In 1881, to honor Jenner, Louis Pasteur proposed that the terms should be extended to cover the new protective inoculations then being developed. The science of vaccine development and production is termed vaccinology.
 
-A vaccine failure is when an organism contracts a disease in spite of being vaccinated against it. Primary vaccine failure occurs when an organism's immune system does not produce antibodies when first vaccinated. Vaccines can fail when several series are given and fail to produce an immune response. The term "vaccine failure" does not necessarily imply that the vaccine is defective. Most vaccine failures are simply from individual variations in immune response.
+There is overwhelming scientific consensus that vaccines are a very safe and effective way to fight and eradicate infectious diseases. The immune system recognizes vaccine agents as foreign, destroys them, and "remembers" them. When the virulent version of an agent is encountered, the body recognizes the protein coat on the virus, and thus is prepared to respond, by first neutralizing the target agent before it can enter cells, and secondly by recognizing and destroying infected cells before that agent can multiply to vast numbers.
 
-￼
-Measles infection rate vs vaccination rate, 1980 - 2011. Source: WHO
-Vaccination versus inoculation
-The term inoculation is often used interchangeably with vaccination. However, the terms are not synonymous. Dr Byron Plant explains: "Vaccination is the more commonly used term, which actually consists of a 'safe' injection of a sample taken from a cow suffering from cowpox... Inoculation, a practice probably as old as the disease itself, is the injection of the variola virus taken from a pustule or scab of a smallpox sufferer into the superficial layers of the skin, commonly on the upper arm of the subject. Often inoculation was done 'arm-to-arm' or, less effectively, 'scab-to-arm'..." Inoculation oftentimes caused the patient to become infected with smallpox, and in some cases the infection turned into a severe case.
+(ref:vacc) [The evolution of three infectious diseases (smallpox, polio and measles) over several decades. You see the data before and after the first vaccination became available.](https://commons.wikimedia.org/wiki/File:Vaccination-introduction-and-cases-or-deaths-scaled.jpg)
 
-Confirmed applications of inoculation for smallpox happened in China in the 1550s.
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/Vaccination-introduction-and-cases-or-deaths-scaled.jpg" alt="(ref:vacc)" width="70%" />
+<p class="caption">(\#fig:Vaccination)(ref:vacc)</p>
+</div>
 
-Vaccinations began in the 18th century with the work of Edward Jenner and the smallpox vaccine.
+Limitations to their effectiveness, nevertheless, exist. Sometimes, protection fails because of vaccine-related failure such as failures in vaccine attenuation, vaccination regimes or administration or host-related failure due to host's immune system simply does not respond adequately or at all. Lack of response commonly results from genetics, immune status, age, health or nutritional status. It also might fail for genetic reasons if the host's immune system includes no strains of B cells that can generate antibodies suited to reacting effectively and binding to the antigens associated with the pathogen.
 
-Vaccine development and approval
-Just like any medication or procedure, no vaccine can be 100% safe or effective for everyone because each person's body can react differently. While minor side effects, such as soreness or low grade fever, are relatively common, serious side effects are very rare and occur in about 1 out of every 100,000 vaccinations and typically involve allergic reactions that can cause hives or difficulty breathing. However, vaccines are the safest they ever have been in history and each vaccine undergoes rigorous clinical trials to ensure their safety and efficacy before FDA approval.
+Even if the host does develop antibodies, protection might not be adequate; immunity might develop too slowly to be effective in time, the antibodies might not disable the pathogen completely, or there might be multiple strains of the pathogen, not all of which are equally susceptible to the immune reaction. However, even a partial, late, or weak immunity, such as a one resulting from cross-immunity to a strain other than the target strain, may mitigate an infection, resulting in a lower mortality rate, lower morbidity, and faster recovery.
 
-Prior to human testing, vaccines are run through computer algorithms to model how they will interact with the immune system and are tested on cells in a culture. During the next round of testing, researchers study vaccines in animals, including mice, rabbits, guinea pigs, and monkeys. Vaccines that pass each of these stages of testing are then approved by the FDA to start a three-phase series of human testing, advancing to higher phases only if they are deemed safe and effective at the previous phase. The people in these trials participate voluntarily and are required to prove they understand the purpose of the study and the potential risks.
+Adjuvants commonly are used to boost immune response, particularly for older people whose immune response to a simple vaccine may have weakened.
 
-During phase I trials, a vaccine is tested in a group of about 20 people with the primary goal of assessing the vaccine's safety. Phase II trials expand the testing to include 50 to several hundred people. During this stage, the vaccine's safety continues to be evaluated and researchers also gather data on the effectiveness and the ideal dose of the vaccine. Vaccines determined to be safe and efficacious then advance to phase III trials, which focuses on the efficacy of the vaccine in hundreds to thousands of volunteers. This phase can take several years to complete and researchers use this opportunity to compare the vaccinated volunteers to those who have not been vaccinated to highlight any true reactions to the vaccine that occur.
+The efficacy or performance of the vaccine is dependent on several factors:
 
-If a vaccine passes all of the phases of testing, the manufacturer can then apply for licensure of the vaccine through the FDA. Before the FDA approves use in the general public, they extensively review the results to the clinical trials, safety tests, purity tests, and manufacturing methods and establish that the manufacturer itself is up to government standards in many other areas. However, safety testing of the vaccines never ends.
+* the disease itself (for some diseases vaccination performs better than for others)
+* the strain of vaccine (some vaccines are specific to, or at least most effective against, particular strains of the disease)
+* whether the vaccination schedule has been properly observed.
+* idiosyncratic response to vaccination; some individuals are "non-responders" to certain vaccines, meaning that they do not generate antibodies even after being vaccinated correctly.
+* assorted factors such as ethnicity, age, or genetic predisposition.
 
-After FDA approval, the FDA continues to monitor the manufacturing protocols, batch purity, and the manufacturing facility itself. Additionally, most vaccines also undergo phase IV trials, which monitors the safety and efficacy of vaccines in tens of thousands of people, or more, across many years. This allows for delayed or very rare reactions to be detected and evaluated.
+If a vaccinated individual does develop the disease vaccinated against (breakthrough infection), the disease is likely to be less virulent than in unvaccinated victims.
 
-Side effects
+Important considerations in an effective vaccination program:
 
-The Centers for Disease Control and Prevention (CDC) has compiled a list of vaccines and their possible side effects. The risk of side effects varies from one vaccine to the next, but below are examples of side effects and their approximate rate of occurrence with the diphtheria, tetanus, and acellular pertussis (DTaP) vaccine, a common childhood vaccine.
+1.) careful modeling to anticipate the effect that an immunization campaign will have on the epidemiology of the disease in the medium to long term
+1.) ongoing surveillance for the relevant disease following introduction of a new vaccine
+1.) maintenance of high immunization rates, even when a disease has become rare
 
-Mild side effects (common)
+In 1958, there were 763,094 cases of measles in the United States; 552 deaths resulted. After the introduction of new vaccines, the number of cases dropped to fewer than 150 per year (median of 56). In early 2008, there were 64 suspected cases of measles. Fifty-four of those infections were associated with importation from another country, although only thirteen percent were actually acquired outside the United States; 63 of the 64 individuals either had never been vaccinated against measles or were uncertain whether they had been vaccinated.
 
-* Mild fever (1 in 4)
-* Redness, soreness, swelling at the injection site (1 in 4)
-* Fatigue, poor appetite (1 in 10)
-* Vomiting (1 in 50)
+Vaccines led to the eradication of smallpox, one of the most contagious and deadly diseases in humans. Other diseases such as rubella, polio, measles, mumps, chickenpox, and typhoid are nowhere near as common as they were a hundred years ago thanks to widespread vaccination programs. As long as the vast majority of people are vaccinated, it is much more difficult for an outbreak of disease to occur, let alone spread. This effect is called herd immunity. Polio, which is transmitted only among humans, is targeted by an extensive eradication campaign that has seen endemic polio restricted to only parts of three countries (Afghanistan, Nigeria, and Pakistan). However, the difficulty of reaching all children as well as cultural misunderstandings have caused the anticipated eradication date to be missed several times.
 
-Moderate side effects (uncommon)
+Vaccines also help prevent the development of antibiotic resistance. For example, by greatly reducing the incidence of pneumonia caused by Streptococcus pneumoniae, vaccine programs have greatly reduced the prevalence of infections resistant to penicillin or other first-line antibiotics.
 
-* Seizure (1 in 14,000)
-* High fever (over 105 °F) (1 in 16,000)
+The measles vaccine is estimated to prevent a million deaths every year.
 
-Severe side effects (rare)
+### Adverse Effects
 
-* Serious allergic reaction (1 in 1,000,000)
-* Other severe problems including long-term seizure, coma, brain damage have been reported, but are so rare that it is not possible to tell if they are from the vaccine or not.
+Vaccinations given to children, adolescents, or adults are generally safe. Adverse effects, if any, are generally mild. The rate of side effects depends on the vaccine in question. Some common side effects include fever, pain around the injection site, and muscle aches. Additionally, some individuals may be allergic to ingredients in the vaccine. MMR vaccine is rarely associated with febrile seizures.
 
-Certain vaccines have had adverse outcomes identified after being used in mass vaccination programs. In 1976 in the United States, a mass vaccination program swine flu vaccine was discontinued after cases of Guillain–Barré syndrome. William Foege of the CDC estimated that the incidence of Guillain-Barré was four times higher in vaccinated people than in those not receiving the swine flu vaccine. Dengvaxia, the only approved vaccine for Dengue fever, was found to increase the risk of hospitalization for Dengue fever by 1.58 times in children of 9 years or younger, resulting in the suspension of a mass vaccination program in the Philippines in 2017. Pandemrix – a vaccine for the H1N1 pandemic of 2009 given to around 31 million people – was found to have a higher level of adverse events than alternative vaccines resulting in legal action. In a response to the narcolepsy reports following immunization with Pandemrix, the CDC carried out a population-based study and found the FDA-approved 2009 H1N1 flu shots were not associated with an increased risk for the neurological disorder.
+Host-("vaccinee")-related determinants that render a person susceptible to infection, such as genetics, health status (underlying disease, nutrition, pregnancy, sensitivities or allergies), immune competence, age, and economic impact or cultural environment can be primary or secondary factors affecting the severity of infection and response to a vaccine. Elderly (above age 60), allergen-hypersensitive, and obese people have susceptibility to compromised immunogenicity, which prevents or inhibits vaccine effectiveness, possibly requiring separate vaccine technologies for these specific populations or repetitive booster vaccinations to limit virus transmission.
 
-The most [up-to-date schedules](https://www.cdc.gov/vaccines/schedules/index.html) are available from the [Centers  for Disease Control and Prevention (CDC)](https://www.cdc.gov/). In the US, the National Childhood Vaccine Injury Act requires all health-care providers to provide parents or patients with copies of Vaccine Information Statements before administering vaccines.
+Severe side effects are extremely rare. Varicella vaccine is rarely associated with complications in immunodeficient individuals, and rotavirus vaccines are moderately associated with intussusception.
+
+At least 19 countries have no-fault compensation programs to provide compensation for those suffering severe adverse effects of vaccination. The United States’ program is known as the National Childhood Vaccine Injury Act, and the United Kingdom employs the Vaccine Damage Payment.
+
+### Types Of Vaccines
+
+Vaccines typically contain dead or inactivated organisms or purified products derived from them.
+
+There are several types of vaccines in use. These represent different strategies used to try to reduce the risk of illness while retaining the ability to induce a beneficial immune response.
+
+**Attenuated**
+
+Some vaccines contain live, attenuated microorganisms. Many of these are active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. Although most attenuated vaccines are viral, some are bacterial in nature. Examples include the viral diseases yellow fever, measles, mumps, and rubella, and the bacterial disease typhoid. The live Mycobacterium tuberculosis vaccine developed by Calmette and Guérin is not made of a contagious strain but contains a virulently modified strain called "BCG" used to elicit an immune response to the vaccine. The live attenuated vaccine containing strain Yersinia pestis EV is used for plague immunization. Attenuated vaccines have some advantages and disadvantages. Attenuated, or live, weakened, vaccines typically provoke more durable immunological responses. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.
+
+**Inactivated**
+
+Some vaccines contain inactivated, but previously virulent, micro-organisms that have been destroyed with chemicals, heat, or radiation – "ghosts", with intact but empty bacterial cell envelopes. They are considered an intermediate phase between the inactivated and attenuated vaccines. Examples include IPV (polio vaccine), hepatitis A vaccine, rabies vaccine and most influenza vaccines.
+
+**Toxoid**
+
+Toxoid vaccines are made from inactivated toxic compounds that cause illness rather than the micro-organism. Examples of toxoid-based vaccines include tetanus and diphtheria. Not all toxoids are for micro-organisms; for example, Crotalus atrox toxoid is used to vaccinate dogs against rattlesnake bites.
+
+**Subunit**
+
+Rather than introducing an inactivated or attenuated micro-organism to an immune system (which would constitute a "whole-agent" vaccine), a subunit vaccine uses a fragment of it to create an immune response. One example is the subunit vaccine against hepatitis B, which is composed of only the surface proteins of the virus (previously extracted from the blood serum of chronically infected patients but now produced by recombination of the viral genes into yeast). Another example is edible algae vaccines, such as the virus-like particle (VLP) vaccine against human papillomavirus (HPV), which is composed of the viral major capsid protein. Another example is the hemagglutinin and neuraminidase subunits of the influenza virus. A subunit vaccine is being used for plague immunization.
+
+**Conjugate**
+
+Certain bacteria have a polysaccharide outer coat that is poorly immunogenic. By linking these outer coats to proteins (e.g., toxins), the immune system can be led to recognize the polysaccharide as if it were a protein antigen. This approach is used in the Haemophilus influenzae type B vaccine.
+
+**Outer membrane vesicle**
+
+Outer membrane vesicles (OMVs) are naturally immunogenic and can be manipulated to produce potent vaccines. The best known OMV vaccines are those developed for serotype B meningococcal disease.
+
+**Heterotypic**
+
+Heterologous vaccines also known as "Jennerian vaccines", are vaccines that are pathogens of other animals that either do not cause disease or cause mild disease in the organism being treated. The classic example is Jenner's use of cowpox to protect against smallpox. A current example is the use of BCG vaccine made from Mycobacterium bovis to protect against tuberculosis.
+
+Viral vector
+Main article: Viral vector vaccine
+Viral vector vaccines use a safe virus to insert pathogen genes in the body to produce specific antigens, such as surface proteins, to stimulate an immune response.
+
+**RNA vaccine**
+
+A ribonucleic acid (RNA) vaccine or messenger RNA (mRNA) vaccine is a type of vaccine that uses a copy of a molecule called messenger RNA (mRNA) to produce an immune response. The vaccine transfects molecules of synthetic RNA into immune cells, where the vaccine functions as mRNA, causing the cells to build foreign protein that would normally be produced by a pathogen (such as a virus) or by a cancer cell. These protein molecules stimulate an adaptive immune response which teaches the body to identify and destroy the corresponding pathogen or cancer cells. The mRNA is delivered by a co-formulation of the RNA encapsulated in lipid nanoparticles which protect the RNA strands and help their absorption into the cells.
+
+(ref:rnavac) [An illustration of the mechanism of action of the RNA vaccine.](https://commons.wikimedia.org/wiki/File:RNA_vaccine-en.svg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/adaptive_immunity/RNA_vaccine-en.svg" alt="(ref:rnavac)" width="70%" />
+<p class="caption">(\#fig:rnavaccine)(ref:rnavac)</p>
+</div>
+
+Reactogenicity, the tendency of a vaccine to produce adverse reactions, is similar to that of conventional non-RNA vaccines. People susceptible to an autoimmune response may have an adverse reaction to RNA vaccines. The advantages of RNA vaccines over traditional protein vaccines are ease of design, speed and lower cost of production, and the induction of both cellular and humoral immunity. RNA vaccines, such as the Pfizer–BioNTech COVID-19 vaccine, have the disadvantage of requiring ultracold storage before distribution; other mRNA vaccines, such as the Moderna, CureVac, and Walvax COVID-19 vaccines, do not require such ultracold storage temperatures.
+
+In RNA therapeutics, mRNA vaccines have attracted considerable interest as COVID-19 vaccines. In December 2020, Pfizer–BioNTech and Moderna obtained approval for their mRNA-based COVID-19 vaccines. On 2 December, the UK's Medicines and Healthcare products Regulatory Agency (MHRA) became the first medicines regulator to approve an mRNA vaccine, authorizing the Pfizer–BioNTech vaccine for widespread use. On 11 December, the US Food and Drug Administration (FDA) issued an emergency use authorization for the Pfizer–BioNTech vaccine and a week later similarly approved the Moderna vaccine.
+
+The goal of a vaccine is to stimulate the adaptive immune system to create antibodies that precisely target that particular pathogen. The markers on the pathogen that the antibodies target are called antigens.
+
+mRNA vaccines operate in a different manner from traditional vaccines. Traditional vaccines stimulate an antibody response by injecting antigens, an attenuated virus (weakened virus), an inactivated virus (dead virus), or a recombinant antigen-encoding viral vector (harmless carrier virus with an antigen transgene) into the body. These antigens and viruses are prepared and grown outside the body.
+
+In contrast, mRNA vaccines introduce a short-lived synthetically created fragment of the RNA sequence of a virus into the vaccinated individual. These mRNA fragments are taken up by dendritic cells – a type of immune system cell – by phagocytosis. The dendritic cells use their internal machinery (ribosomes) to read the mRNA and produce the viral antigens that the mRNA encodes. The body degrades the mRNA fragments within a few days. Although non-immune cells can potentially also absorb vaccine mRNA, produce antigens, and display the antigens on their surfaces, dendritic cells absorb the mRNA globules much more readily.
+
+Once the viral antigens are produced by the host cell, the normal adaptive immune system processes are followed. Antigens are broken down by proteasomes, then class I and class II MHC molecules attach to the antigen and transport it to the cellular membrane, "activating" the dendritic cell. Once the dendritic cells are activated, they migrate to lymph nodes, where the antigen is presented to T cells and B cells. This eventually leads to the production of antibodies that are specifically targeted to the antigen, resulting in immunity.
+
+The benefit of using mRNA to have host cells produce the antigen is that mRNA is far easier for vaccine creators to produce than antigen proteins or attenuated virus. Another benefit is speed of design and production. Moderna designed their mRNA-1273 vaccine for COVID-19 in 2 days. Another advantage of RNA vaccines is that since the antigens are produced inside the cell, they stimulate cellular immunity, as well as humoral immunity.
+
+mRNA vaccines do not affect or reprogram DNA inside the cell. The synthetic mRNA fragment is a copy of the specific part of the viral RNA that carries the instructions to build the antigen of the virus (a protein spike, in the case of the main coronavirus mRNA vaccines), and is not related to human DNA. This misconception was circulated as the COVID-19 mRNA vaccines came to public prominence, and is considered a debunked conspiracy theory.
+
+The mRNA should degrade in the cells after producing the foreign protein. However, because the specific formulation (including the exact composition of the lipid nanoparticle drug delivery coating) is kept confidential by the manufacturers of the mRNA vaccines, details and timings have not been researched yet by third parties.
+
 
 
 (ref:child) [Child and adolescent immunization schedule.](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html)

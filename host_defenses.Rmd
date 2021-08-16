@@ -1,4 +1,4 @@
-# An Introduction To Host Defenses And Innate Immune Systems
+# Host Defenses And The Innate Immune Systems
 
 ## Immunology
 
@@ -9,6 +9,123 @@ The term was coined by Russian biologist Ilya Ilyich Mechnikov, who advanced stu
 Prior to the designation of immunity, from the etymological root immunis, which is Latin for "exempt", early physicians characterized organs that would later be proven as essential components of the immune system. The important lymphoid organs of the immune system are the thymus, bone marrow, and chief lymphatic tissues such as spleen, tonsils, lymph vessels, lymph nodes, adenoids, and liver. When health conditions worsen to emergency status, portions of immune system organs, including the thymus, spleen, bone marrow, lymph nodes, and other lymphatic tissues, can be surgically excised for examination while patients are still alive.
 
 Many components of the immune system are typically cellular in nature and not associated with any specific organ, but rather are embedded or circulating in various tissues located throughout the body.
+
+## The Lymphatic System
+
+The lymphatic system, or lymphoid system, is an organ system in vertebrates that is part of the circulatory system and the immune system. It is made up of a large network of lymphatic vessels, lymphatic or lymphoid organs, and lymphoid tissues. The vessels carry a clear fluid called lymph (the Latin word lympha refers to the deity of fresh water, "Lympha") towards the heart.
+
+(ref:lymph) [The human lymphatic system.](https://commons.wikimedia.org/wiki/File:Blausen_0623_LymphaticSystem_Female.png)
+
+```{r lymphaticsystem, fig.cap='(ref:lymph)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Blausen_0623_LymphaticSystem_Female.png")
+```
+
+The adjective used for the lymph-transporting system is lymphatic. The adjective used for the tissues where lymphocytes are formed is lymphoid. Lymphatic comes from the Latin word lymphaticus, meaning "connected to water."
+
+Unlike the cardiovascular system, the lymphatic system is not a closed system. The human circulatory system processes an average of 20 litres of blood per day through capillary filtration, which removes plasma from the blood. Roughly 17 litres of the filtered plasma is reabsorbed directly into the blood vessels, while the remaining three litres remain in the interstitial fluid. One of the main functions of the lymphatic system is to provide an accessory return route to the blood for the surplus three litres.
+
+The other main function is that of immune defense. Lymph is very similar to blood plasma, in that it contains waste products and cellular debris, together with bacteria and proteins. The cells of the lymph are mostly lymphocytes. Associated lymphoid organs are composed of lymphoid tissue, and are the sites either of lymphocyte production or of lymphocyte activation. These include the lymph nodes (where the highest lymphocyte concentration is found), the spleen, the thymus, and the tonsils. Lymphocytes are initially generated in the bone marrow. The lymphoid organs also contain other types of cells such as stromal cells for support. Lymphoid tissue is also associated with mucosas such as mucosa-associated lymphoid tissue (MALT).
+
+Fluid from circulating blood leaks into the tissues of the body by capillary action, carrying nutrients to the cells. The fluid bathes the tissues as interstitial fluid, collecting waste products, bacteria, and damaged cells, and then drains as lymph into the lymphatic capillaries and lymphatic vessels. These vessels carry the lymph throughout the body, passing through numerous lymph nodes which filter out unwanted materials such as bacteria and damaged cells. Lymph then passes into much larger lymph vessels known as lymph ducts. The right lymphatic duct drains the right side of the region and the much larger left lymphatic duct, known as the thoracic duct, drains the left side of the body. The ducts empty into the subclavian veins to return to the blood circulation. Lymph is moved through the system by muscle contractions. In some vertebrates, a lymph heart is present that pumps the lymph to the veins.
+
+The lymphatic system was first described in the 17th century independently by Olaus Rudbeck and Thomas Bartholin.
+
+The lymphatic system consists of a conducting network of lymphatic vessels, lymphoid organs, lymphoid tissues, and the circulating lymph.
+
+### Primary lymphoid organs
+
+The primary (or central) lymphoid organs generate lymphocytes from immature progenitor cells. The thymus and the bone marrow constitute the primary lymphoid organs involved in the production and early clonal selection of lymphocyte tissues.
+
+### The Bone Marrow
+
+Bone marrow is responsible for both the creation of T cells and the production and maturation of B cells, which are important cell types of the immune system. From the bone marrow, B cells immediately join the circulatory system and travel to secondary lymphoid organs in search of pathogens. T cells, on the other hand, travel from the bone marrow to the thymus, where they develop further and mature. Mature T cells then join B cells in search of pathogens. The other 95% of T cells begin a process of apoptosis, a form of programmed cell death.
+
+### The Thymus
+
+The thymus increases in size from birth in response to postnatal antigen stimulation. It is most active during the neonatal and pre-adolescent periods. At puberty, by the early teens, the thymus begins to atrophy and regress, with adipose tissue mostly replacing the thymic stroma. However, residual T lymphopoiesis continues throughout adult life. The loss or lack of the thymus results in severe immunodeficiency and subsequent high susceptibility to infection. In most species, the thymus consists of lobules divided by septa which are made up of epithelium; it is therefore often considered an epithelial organ. T cells mature from thymocytes, proliferate, and undergo a selection process in the thymic cortex before entering the medulla to interact with epithelial cells.
+
+(ref:thymus) [Location and microscopic anatomy of the human thymus](https://upload.wikimedia.org/wikipedia/commons/c/cf/Illu_thymus.jpg) 
+
+```{r humanthymus, fig.cap='(ref:thymus)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Illu_thymus.jpg")
+```
+
+The thymus provides an inductive environment for the development of T cells from hematopoietic progenitor cells. In addition, thymic stromal cells allow for the selection of a functional and self-tolerant T cell repertoire. Therefore, one of the most important roles of the thymus is the induction of central tolerance.
+
+### The Secondary Lymphoid Organs
+
+The secondary (or peripheral) lymphoid organs (SLO), which include lymph nodes and the spleen, maintain mature naive lymphocytes and initiate an adaptive immune response. The peripheral lymphoid organs are the sites of lymphocyte activation by antigens. Activation leads to clonal expansion and affinity maturation. Mature lymphocytes recirculate between the blood and the peripheral lymphoid organs until they encounter their specific antigen.
+
+### The Spleen
+
+The main functions of the spleen are:
+
+* to produce immune cells to fight antigens
+* to remove particulate matter and aged blood cells, mainly red blood cells
+* to produce blood cells during fetal life.
+
+The spleen synthesizes antibodies in its white pulp and removes antibody-coated bacteria and antibody-coated blood cells by way of blood and lymph node circulation. A study published in 2009 using mice found that the spleen contains, in its reserve, half of the body's monocytes within the red pulp. These monocytes, upon moving to injured tissue (such as the heart), turn into dendritic cells and macrophages while promoting tissue healing. The spleen is a center of activity of the mononuclear phagocyte system and can be considered analogous to a large lymph node, as its absence causes a predisposition to certain infections.
+
+(ref:spleen) [Location and microscopic anatomy of the human spleen.](https://commons.wikimedia.org/wiki/File:Illu_spleen.jpg) 
+
+```{r humanspleen, fig.cap='(ref:spleen)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Illu_spleen.jpg")
+```
+
+Like the thymus, the spleen has only efferent lymphatic vessels. Both the short gastric arteries and the splenic artery supply it with blood. The germinal centers are supplied by arterioles called penicilliary radicles.
+
+Until the fifth month of prenatal development, the spleen creates red blood cells; after birth, the bone marrow is solely responsible for hematopoiesis. As a major lymphoid organ and a central player in the reticuloendothelial system, the spleen retains the ability to produce lymphocytes. The spleen stores red blood cells and lymphocytes. It can store enough blood cells to help in an emergency. Up to 25% of lymphocytes can be stored at any one time.
+
+### The Lymph Nodes
+
+A lymph node is an organized collection of lymphoid tissue, through which the lymph passes on its way back to the blood. Lymph nodes are located at intervals along the lymphatic system. Several afferent lymph vessels bring in lymph, which percolates through the substance of the lymph node, and is then drained out by an efferent lymph vessel. Of the nearly 800 lymph nodes in the human body, about 300 are located in the head and neck. Many are grouped in clusters in different regions, as in the underarm and abdominal areas. Lymph node clusters are commonly found at the proximal ends of limbs (groin, armpits) and in the neck, where lymph is collected from regions of the body likely to sustain pathogen contamination from injuries. Lymph nodes are particularly numerous in the mediastinum in the chest, neck, pelvis, axilla, inguinal region, and in association with the blood vessels of the intestines.
+
+(ref:lymphnod) [Schematic diagram of a lymph node showing flow of lymph through lymph sinuses](https://commons.wikimedia.org/wiki/File:Schematic_of_lymph_node_showing_lymph_sinuses.svg) 
+
+```{r lymphnode, fig.cap='(ref:lymphnod)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Schematic_of_lymph_node_showing_lymph_sinuses.svg")
+```
+
+The substance of a lymph node consists of lymphoid follicles in an outer portion called the cortex. The inner portion of the node is called the medulla, which is surrounded by the cortex on all sides except for a portion known as the hilum. The hilum presents as a depression on the surface of the lymph node, causing the otherwise spherical lymph node to be bean-shaped or ovoid. The efferent lymph vessel directly emerges from the lymph node at the hilum. The arteries and veins supplying the lymph node with blood enter and exit through the hilum. The region of the lymph node called the paracortex immediately surrounds the medulla. Unlike the cortex, which has mostly immature T cells, or thymocytes, the paracortex has a mixture of immature and mature T cells. Lymphocytes enter the lymph nodes through specialised high endothelial venules found in the paracortex.
+
+A lymph follicle is a dense collection of lymphocytes, the number, size, and configuration of which change in accordance with the functional state of the lymph node. For example, the follicles expand significantly when encountering a foreign antigen. The selection of B cells, or B lymphocytes, occurs in the germinal centre of the lymph nodes.
+
+Secondary lymphoid tissue provides the environment for the foreign or altered native molecules (antigens) to interact with the lymphocytes. It is exemplified by the lymph nodes, and the lymphoid follicles in tonsils, Peyer's patches, spleen, adenoids, skin, etc. that are associated with the mucosa-associated lymphoid tissue (MALT).
+
+In the gastrointestinal wall, the appendix has mucosa resembling that of the colon, but here it is heavily infiltrated with lymphocytes.
+
+Lymphoid tissue associated with the lymphatic system is concerned with immune functions in defending the body against infections and the spread of tumours. It consists of connective tissue formed of reticular fibers, with various types of leukocytes (white blood cells), mostly lymphocytes enmeshed in it, through which the lymph passes. Regions of the lymphoid tissue that are densely packed with lymphocytes are known as lymphoid follicles. Lymphoid tissue can either be structurally well organized as lymph nodes or may consist of loosely organized lymphoid follicles known as the mucosa-associated lymphoid tissue (MALT).
+
+### The Lymphatic Vessels
+
+The lymphatic vessels, also called lymph vessels, are thin-walled vessels that conduct lymph between different parts of the body. They include the tubular vessels of the lymph capillaries, and the larger collecting vessels–the right lymphatic duct and the thoracic duct (the left lymphatic duct). The lymph capillaries are mainly responsible for the absorption of interstitial fluid from the tissues, while lymph vessels propel the absorbed fluid forward into the larger collecting ducts, where it ultimately returns to the bloodstream via one of the subclavian veins.
+
+The tissues of the lymphatic system are responsible for maintaining the balance of the body fluids. Its network of capillaries and collecting lymphatic vessels work to efficiently drain and transport extravasated fluid, along with proteins and antigens, back to the circulatory system. Numerous intraluminal valves in the vessels ensure a unidirectional flow of lymph without reflux. Two valve systems, a primary and a secondary valve system, are used to achieve this unidirectional flow. The capillaries are blind-ended, and the valves at the ends of capillaries use specialised junctions together with anchoring filaments to allow a unidirectional flow to the primary vessels. The collecting lymphatics, however, act to propel the lymph by the combined actions of the intraluminal valves and lymphatic muscle cells.
+
+(ref:lymphcap) [Lymph capillaries in the tissue spaces.](https://commons.wikimedia.org/wiki/File:2202_Lymphatic_Capillaries_big.png)
+
+```{r lymphaticcapillaries, fig.cap='(ref:lymphcap)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/2202_Lymphatic_Capillaries_big.png")
+```
+
+The lymphatic system has multiple interrelated functions:
+
+* It is responsible for the removal of interstitial fluid from tissues
+* It absorbs and transports fatty acids and fats as chyle from the digestive system
+* It transports white blood cells to and from the lymph nodes into the bones
+* The lymph transports antigen-presenting cells, such as dendritic cells, to the lymph nodes where an immune response is stimulated.
+
+Nutrients in food are absorbed via intestinal vili (greatly enlarged in the picture) to blood and lymph. Long-chain fatty acids (and other lipids with similar fat solubility like some medicines) are absorbed to the lymph and move in it enveloped inside chylomicrons. They move via the thoracic duct of the lymphatic system and finally enter the blood via the left subclavian vein, thus bypassing the liver's first-pass metabolism completely.
+Lymph vessels called lacteals are at the beginning of the gastrointestinal tract, predominantly in the small intestine. While most other nutrients absorbed by the small intestine are passed on to the portal venous system to drain via the portal vein into the liver for processing, fats (lipids) are passed on to the lymphatic system to be transported to the blood circulation via the thoracic duct. (There are exceptions, for example medium-chain triglycerides are fatty acid esters of glycerol that passively diffuse from the GI tract to the portal system.) The enriched lymph originating in the lymphatics of the small intestine is called chyle. The nutrients that are released into the circulatory system are processed by the liver, having passed through the systemic circulation.
+
+(ref:lymphnut) [Nutrients in food are absorbed via intestinal vili (greatly enlarged in the picture) to blood and lymph. Long-chain fatty acids (and other lipids with similar fat solubility like some medicines) are absorbed to the lymph and move in it enveloped inside chylomicrons. They move via the thoracic duct of the lymphatic system and finally enter the blood via the left subclavian vein, thus bypassing the liver's first-pass metabolism completely.](https://commons.wikimedia.org/wiki/File:Nutrient_absorbtion_to_blood_and_lymph.png)
+
+```{r lymphnutrient, fig.cap='(ref:lymphnut)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Nutrient_absorbtion_to_blood_and_lymph.png")
+```
+
+The lymphatic system plays a major role in the body's immune system, as the primary site for cells relating to adaptive immune system including T-cells and B-cells. Cells in the lymphatic system react to antigens presented or found by the cells directly or by other dendritic cells. When an antigen is recognized, an immunological cascade begins involving the activation and recruitment of more and more cells, the production of antibodies and cytokines and the recruitment of other immunological cells such as macrophages.
+
 
 ## The Immune System
 
@@ -144,6 +261,13 @@ Extravasated neutrophils in the cellular phase come into contact with microbes a
 
 Upon endocytic PRR binding, actin-myosin cytoskeletal rearrangement adjacent to the plasma membrane occurs in a way that endocytoses the plasma membrane containing the PRR-PAMP complex, and the microbe. Phosphatidylinositol and Vps34-Vps15-Beclin1 signalling pathways have been implicated to traffic the endocytosed phagosome to intracellular lysosomes, where fusion of the phagosome and the lysosome produces a phagolysosome. The reactive oxygen species, superoxides and hypochlorite bleach within the phagolysosomes then kill microbes inside the phagocyte.
 
+
+(ref:phagdia) [Simplified diagram of the phagocytosis and destruction of a bacterial cell.](https://commons.wikimedia.org/wiki/File:Phagocytosis2.png)
+
+```{r phagocytosisdiagram, fig.cap='(ref:phagdia)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Phagocytosis2.png")
+```
+
 Phagocytic efficacy can be enhanced by opsonization. Plasma derived complement C3b and antibodies that exude into the inflamed tissue during the vascular phase bind to and coat the microbial antigens. As well as endocytic PRRs, phagocytes also express opsonin receptors Fc receptor and complement receptor 1 (CR1), which bind to antibodies and C3b, respectively. The co-stimulation of endocytic PRR and opsonin receptor increases the efficacy of the phagocytic process, enhancing the lysosomal elimination of the infective agent.
 
 The inflammatory response must be actively terminated when no longer needed to prevent unnecessary "bystander" damage to tissues. Failure to do so results in chronic inflammation, and cellular destruction. Resolution of inflammation occurs by different mechanisms in different tissues. Mechanisms that serve to terminate inflammation include:
@@ -160,7 +284,7 @@ The inflammatory response must be actively terminated when no longer needed to p
 * Downregulation of receptor activity by high concentrations of ligands
 Cleavage of chemokines by matrix metalloproteinases (MMPs) might lead to production of anti-inflammatory factors.
 
-### Systemic Inflammation And Obesity[Edit]
+### Systemic Inflammation And Obesity
 
 With the discovery of interleukins (IL), the concept of systemic inflammation developed. Although the processes involved are identical to tissue inflammation, systemic inflammation is not confined to a particular tissue but involves the endothelium and other organ systems.
 
@@ -197,11 +321,25 @@ There are three different complement systems: Classical, alternative, Lectin
 
 Elements of the complement cascade can be found in many non-mammalian species including plants, birds, fish, and some species of invertebrates.
 
+(ref:complement) [The complement system](https://commons.wikimedia.org/wiki/File:Complement_pathway.svg) is made up of about 25 proteins that work together to “complement” the action of antibodies in destroying bacteria. Complement proteins circulate in the blood in an inactive form. When the first protein in the complement series is activated— typically by antibody that has locked onto an antigen—it sets in motion a domino effect. Each component takes its turn in a precise chain of steps known as the complement cascade. The end product is a cylinder inserted into—and puncturing a hole in—the cell’s wall. With fluids and molecules flowing in and out, the cell swells and bursts.
+
+```{r complementsystem, fig.cap='(ref:complement)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Complement_pathway.svg")
+```
+
+
 ### Blood 
 
 Blood is a body fluid in humans and other animals that delivers necessary substances such as nutrients and oxygen to the cells and transports metabolic waste products away from those same cells.
 
 In vertebrates, it is composed of blood cells suspended in blood plasma. Plasma, which constitutes 55% of blood fluid, is mostly water (92% by volume), and contains proteins, glucose, mineral ions, hormones, carbon dioxide (plasma being the main medium for excretory product transportation), and blood cells themselves. Albumin is the main protein in plasma, and it functions to regulate the colloidal osmotic pressure of blood. The blood cells are mainly red blood cells (also called RBCs or erythrocytes), white blood cells (also called WBCs or leukocytes) and platelets (also called thrombocytes). The most abundant cells in vertebrate blood are red blood cells. These contain hemoglobin, an iron-containing protein, which facilitates oxygen transport by reversibly binding to this respiratory gas and greatly increasing its solubility in blood. In contrast, carbon dioxide is mostly transported extracellularly as bicarbonate ion transported in plasma.
+
+(ref:bloodcells) [A scanning electron microscope image of normal circulating human blood. ](https://commons.wikimedia.org/wiki/File:SEM_blood_cells.jpg) One can see red blood cells, several knobby white blood cells including lymphocytes, a monocyte, a neutrophil, and many small disc-shape platelets.
+
+```{r bloodcellsem, fig.cap='(ref:bloodcells)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/SEM_blood_cells.jpg")
+```
+
 
 Vertebrate blood is bright red when its hemoglobin is oxygenated and dark red when it is deoxygenated. Some animals, such as crustaceans and mollusks, use hemocyanin to carry oxygen, instead of hemoglobin. Insects and some mollusks use a fluid called hemolymph instead of blood, the difference being that hemolymph is not contained in a closed circulatory system. In most insects, this "blood" does not contain oxygen-carrying molecules such as hemoglobin because their bodies are small enough for their tracheal system to suffice for supplying oxygen.
 
@@ -249,6 +387,12 @@ Haematopoietic stem cells (HSCs) reside in the medulla of the bone (bone marrow)
 
 All white blood cells (WBCs) are known as leukocytes. Most leukocytes differ from other cells of the body in that they are not tightly associated with a particular organ or tissue; thus, their function is similar to that of independent, single-cell organisms. Most leukocytes are able to move freely and interact with and capture cellular debris, foreign particles, and invading microorganisms (although macrophages, mast cells, and dendritic cells are less mobile). Unlike many other cells in the body, most innate immune leukocytes cannot divide or reproduce on their own, but are the products of multipotent hematopoietic stem cells present in the bone marrow.
 
+(ref:leukoc) [Major types of white blood cells.](https://commons.wikimedia.org/wiki/File:Blausen_0909_WhiteBloodCells.png)
+
+```{r leukocytes, fig.cap='(ref:leukoc)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Blausen_0909_WhiteBloodCells.png")
+```
+
 The innate leukocytes include: natural killer cells, mast cells, eosinophils, basophils; and the phagocytic cells include macrophages, neutrophils, and dendritic cells, and function within the immune system by identifying and eliminating pathogens that might cause infection.
 
 ### Mast cells
@@ -258,6 +402,12 @@ Mast cells are a type of innate immune cell that resides in connective tissue an
 ### Phagocytes
 
 The word 'phagocyte' literally means 'eating cell'. These are immune cells that engulf, or 'phagocytose', pathogens or particles. To engulf a particle or pathogen, a phagocyte extends portions of its plasma membrane, wrapping the membrane around the particle until it is enveloped (i.e., the particle is now inside the cell). Once inside the cell, the invading pathogen is contained inside a phagosome, which merges with a lysosome. The lysosome contains enzymes and acids that kill and digest the particle or organism. In general, phagocytes patrol the body searching for pathogens, but are also able to react to a group of highly specialized molecular signals produced by other cells, called cytokines. The phagocytic cells of the immune system include macrophages, neutrophils, and dendritic cells.
+
+(ref:phago) [Scanning electron micrograph of a neutrophil phagocytosing anthrax bacilli (orange). Scale bar is 5 micrometers.](https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg) 
+
+```{r neutrophago, fig.cap='(ref:phago)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Neutrophil_with_anthrax_copy.jpg")
+```
 
 Phagocytosis of the hosts’ own cells is common as part of regular tissue development and maintenance. When host cells die, either by programmed cell death (also called apoptosis) or by cell injury due to a bacterial or viral infection, phagocytic cells are responsible for their removal from the affected site. By helping to remove dead cells preceding growth and development of new healthy cells, phagocytosis is an important part of the healing process following tissue injury.
 
