@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="302.78119"
+   height="302.90765"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Radura_international[1].svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.53924576"
+     inkscape:cx="151.39059"
+     inkscape:cy="151.45383"
+     inkscape:window-x="161"
+     inkscape:window-y="63"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 151.45383 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="302.78119 : 151.45383 : 1"
+       inkscape:persp3d-origin="151.39059 : 100.96922 : 1"
+       id="perspective11" />
+  </defs>
+  <g
+     transform="translate(-798.375,-190.15486)"
+     id="layer1">
+    <path
+       d="M 942,190.15625 C 906.07374,191.97973 873.44133,206.36902 848.375,228.96875 L 880.09375,260.6875 C 897.03072,246.06927 918.58808,236.67664 942.28125,235.03125 L 942.28125,190.15625 C 942.18761,190.16083 942.0936,190.1515 942,190.15625 z M 957.21875,190.15625 L 957.21875,235.03125 C 980.9198,236.66347 1002.4971,246.04164 1019.4375,260.65625 L 1051.1562,228.9375 C 1026.0212,206.2828 993.26394,191.90466 957.21875,190.15625 z M 1061.75,239.46875 L 1030.0312,271.1875 C 1044.8454,288.08104 1054.4058,309.67174 1056.1875,333.4375 L 1101.0938,333.4375 C 1099.1874,297.32184 1084.6183,264.54758 1061.75,239.46875 z M 837.78125,239.5 C 814.9232,264.57464 800.34393,297.33745 798.4375,333.4375 L 843.34375,333.4375 C 845.12584,309.68185 854.69023,288.10911 869.5,271.21875 L 837.78125,239.5 z M 950.0625,286.15625 C 929.17816,286.15625 912.21878,303.11565 912.21875,324 C 912.21875,344.88434 929.17815,361.84376 950.0625,361.84375 C 970.94684,361.84375 987.90626,344.88433 987.90625,324 C 987.90625,303.11566 970.94683,286.15625 950.0625,286.15625 z M 798.375,348.375 C 801.96512,428.84924 868.42591,493.06251 949.78125,493.0625 C 1031.1366,493.0625 1097.5678,428.84923 1101.1562,348.375 L 1056.2812,348.375 C 1052.7543,404.11471 1006.4054,448.28125 949.78125,448.28125 C 893.15709,448.28124 846.77921,404.11471 843.25,348.375 L 798.375,348.375 z M 1039.0312,348.8125 C 1036.7177,348.87922 1032.9171,349.75011 1026.9375,351.15625 C 1016.3569,353.64429 1014.1096,354.35198 1000.2188,359.4375 C 980.639,366.60581 960.61178,386.52255 952.1875,407.25 L 949.9375,412.8125 L 948.15625,408.125 C 945.82845,402.02981 939.43734,391.44212 934.28125,385.125 C 920.39149,368.10754 903.53247,358.65146 874.3125,351.46875 C 858.573,347.59975 858.14537,347.65529 858.4375,354.5 C 858.78252,362.58421 864.91966,379.71369 871.21875,390.125 C 882.25988,408.37416 903.63428,425.40914 920.75,429.625 C 923.21135,430.23126 930.16875,431.56403 936.21875,432.59375 C 948.45957,434.67716 949.89689,434.65359 967.78125,431.8125 C 976.26378,430.46496 982.52487,428.82745 986.96875,426.8125 C 1015.5372,413.85895 1034.9142,388.77845 1041.5312,356.21875 C 1042.6341,350.79183 1042.8873,348.70128 1039.0312,348.8125 z"
+       id="path2518"
+       style="fill:#00ff01;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

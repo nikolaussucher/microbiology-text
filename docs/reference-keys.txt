@@ -156,9 +156,13 @@ fig:elongation
 fig:ttribosome
 fig:ribosome
 fig:translation
+fig:pbrpladmid
 fig:cloningdiagram
 fig:sirnacartoon
 fig:crisprdiagram
+fig:carbolicsteam
+fig:raduralogo
+fig:listerphoto
 fig:antibiotics
 tab:composition
 tab:suszeptibility
