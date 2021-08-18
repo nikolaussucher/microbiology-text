@@ -116,10 +116,12 @@ fig:rnavirus
 fig:bacteriophage
 fig:phage
 fig:bacphage
+fig:carboncycle
 fig:atpstrucform
 fig:diffusion
 fig:osmosis
 fig:growthcurve
+fig:platecounting
 fig:energyfromsun
 fig:simpleviewmet
 tab:macromol
@@ -138,6 +140,7 @@ fig:sexlinked
 fig:dnacartoon
 tab:geneticcode
 fig:transcriptionfactor
+fig:bacplasmid
 fig:transormation
 fig:conjugation
 fig:dnastructure
@@ -152,7 +155,6 @@ fig:trnastruc1
 fig:elongation
 fig:ttribosome
 fig:ribosome
-fig:trnastruc
 fig:translation
 fig:cloningdiagram
 fig:sirnacartoon
@@ -169,6 +171,9 @@ fig:lymphnode
 fig:lymphaticcapillaries
 fig:lymphnutrient
 tab:immune
+fig:inflammation
+tab:pldm
+tab:cdm
 fig:phagocytosisdiagram
 fig:complementsystem
 fig:bloodcellsem
@@ -467,6 +472,7 @@ gene-regulation
 genetic-change
 natural-selection-and-evolution
 bacterial-genetics-1
+bacterial-plasmids
 bacterial-transformation
 practical-aspects-of-transformation-in-molecular-biology
 selection-and-screening-in-plasmid-transformation

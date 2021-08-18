@@ -1,0 +1,8 @@
+Name,Produced by,Description
+Bradykinin,Kinin system,"A vasoactive protein that is able to induce vasodilation, increase vascular permeability, cause smooth muscle contraction, and induce pain."
+C3,Complement system,"Cleaves to produce C3a and C3b. C3a stimulates histamine release by mast cells, thereby producing vasodilation. C3b is able to bind to bacterial cell walls and act as an opsonin, which marks the invader as a target for phagocytosis."
+C5a,Complement system,"Stimulates histamine release by mast cells, thereby producing vasodilation. It is also able to act as a chemoattractant to direct cells via chemotaxis to the site of inflammation."
+Factor XII (Hageman Factor),Liver,"A protein that circulates inactively, until activated by collagen, platelets, or exposed basement membranes via conformational change. When activated, it in turn is able to activate three plasma systems involved in inflammation: the kinin system, fibrinolysis system, and coagulation system."
+Membrane attack complex,Complement system,"A complex of the complement proteins C5b, C6, C7, C8, and multiple units of C9. The combination and activation of this range of complement proteins forms the membrane attack complex, which is able to insert into bacterial cell walls and causes cell lysis with ensuing bacterial death."
+Plasmin,Fibrinolysis system,"Able to break down fibrin clots, cleave complement protein C3, and activate Factor XII."
+Thrombin,Coagulation system,"Cleaves the soluble plasma protein fibrinogen to produce insoluble fibrin, which aggregates to form a blood clot. Thrombin can also bind to cells via the PAR1 receptor to trigger several other inflammatory responses, such as production of chemokines and nitric oxide."

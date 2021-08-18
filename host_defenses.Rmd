@@ -225,6 +225,12 @@ The inflammatory response is characterized by the following symptoms:
 
 The process of acute inflammation is initiated by resident immune cells already present in the involved tissue, mainly resident macrophages, dendritic cells, histiocytes, Kupffer cells and mast cells. These cells possess surface receptors known as pattern recognition receptors (PRRs), which recognize (i.e., bind) two subclasses of molecules: pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs). PAMPs are compounds that are associated with various pathogens, but which are distinguishable from host molecules. DAMPs are compounds that are associated with host-related injury and cell damage.
 
+(ref:infl) [A flowchart depicting the events of acute inflammation.](https://en.wikipedia.org/wiki/File:Events_in_Acute_Inflammation.pdf)
+
+```{r inflammation, fig.cap='(ref:infl)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/host_defenses/Events_in_Acute_Inflammation.pdf")
+```
+
 At the onset of an infection, burn, or other injuries, these cells undergo activation (one of the PRRs recognize a PAMP or DAMP) and release inflammatory mediators responsible for the clinical signs of inflammation. Vasodilation and its resulting increased blood flow causes the redness (rubor) and increased heat (calor). Increased permeability of the blood vessels results in an exudation (leakage) of plasma proteins and fluid into the tissue (edema), which manifests itself as swelling (tumor). Some of the released mediators such as bradykinin increase the sensitivity to pain (hyperalgesia, dolor). The mediator molecules also alter the blood vessels to permit the migration of leukocytes, mainly neutrophils and macrophages, to flow out of the blood vessels (extravasation) and into the tissue. The neutrophils migrate along a chemotactic gradient created by the local cells to reach the site of injury. The loss of function (functio laesa) is probably the result of a neurological reflex in response to pain.
 
 In addition to cell-derived mediators, several acellular biochemical cascade systems consisting of preformed plasma proteins act in parallel to initiate and propagate the inflammatory response. These include the complement system activated by bacteria and the coagulation and fibrinolysis systems activated by necrosis, e.g. a burn or a trauma.
@@ -247,6 +253,17 @@ Plasma cascade systems
 
 The cellular component involves leukocytes, which normally reside in blood and must move into the inflamed tissue via extravasation to aid in inflammation. Some act as phagocytes, ingesting bacteria, viruses, and cellular debris. Others release enzymatic granules that damage pathogenic invaders. Leukocytes also release inflammatory mediators that develop and maintain the inflammatory response. In general, acute inflammation is mediated by granulocytes, whereas chronic inflammation is mediated by mononuclear cells such as monocytes and lymphocytes.
 
+```{r pldm, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/microbiology-text")
+
+macro <-  as_tibble(read.csv("data/plasma_derived_mediators.csv"))
+
+knitr::kable(macro, col.names = c("Name", "Produced by", "Description"), digits = 2, align = 'lll', booktabs = TRUE, caption = "Plasma-derived mediators of inflammation.") %>% kable_styling(latex_options = c("striped", "hold_position")) 
+```
+
 ### Leukocyte Extravasation
 
 Various leukocytes, particularly neutrophils, are critically involved in the initiation and maintenance of inflammation. These cells must be able to move to the site of injury from their usual location in the blood, therefore mechanisms exist to recruit and direct leukocytes to the appropriate place. The process of leukocyte movement from the blood to the tissues through the blood vessels is known as extravasation and can be broadly divided up into a number of steps:
@@ -258,6 +275,17 @@ Various leukocytes, particularly neutrophils, are critically involved in the ini
 ### Phagocytosis
 
 Extravasated neutrophils in the cellular phase come into contact with microbes at the inflamed tissue. Phagocytes express cell-surface endocytic pattern recognition receptors (PRRs) that have affinity and efficacy against non-specific microbe-associated molecular patterns (PAMPs). Most PAMPs that bind to endocytic PRRs and initiate phagocytosis are cell wall components, including complex carbohydrates such as mannans and β-glucans, lipopolysaccharides (LPS), peptidoglycans, and surface proteins. Endocytic PRRs on phagocytes reflect these molecular patterns, with C-type lectin receptors binding to mannans and β-glucans, and scavenger receptors binding to LPS.
+
+```{r cdm, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/microbiology-text")
+
+macro <-  as_tibble(read.csv("data/cell_derived_mediators.csv"))
+
+knitr::kable(macro, col.names = c("Name", "Type", "Source", "Description"), digits = 2, align = 'llll', booktabs = TRUE, caption = "Cell-derived mediators of inflammation") %>% kable_styling(latex_options = c("striped", "hold_position")) 
+```
 
 Upon endocytic PRR binding, actin-myosin cytoskeletal rearrangement adjacent to the plasma membrane occurs in a way that endocytoses the plasma membrane containing the PRR-PAMP complex, and the microbe. Phosphatidylinositol and Vps34-Vps15-Beclin1 signalling pathways have been implicated to traffic the endocytosed phagosome to intracellular lysosomes, where fusion of the phagosome and the lysosome produces a phagolysosome. The reactive oxygen species, superoxides and hypochlorite bleach within the phagolysosomes then kill microbes inside the phagocyte.
 

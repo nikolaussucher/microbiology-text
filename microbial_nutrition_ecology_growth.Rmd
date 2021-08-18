@@ -45,12 +45,15 @@ Different types of organisms have different essential nutrients. Ascorbic acid (
 
 A nutrient cycle (or ecological recycling) is the movement and exchange of organic and inorganic matter back into the production of matter. Energy flow is a unidirectional and noncyclic pathway, whereas the movement of mineral nutrients is cyclic. Mineral cycles include the carbon cycle, sulfur cycle, nitrogen cycle, water cycle, phosphorus cycle, oxygen cycle, among others that continually recycle along with other mineral nutrients into productive ecological nutrition.
 
+(ref:carboncy) [This carbon cycle diagram](https://commons.wikimedia.org/wiki/File:Carbon_cycle-cute_diagram.svg)shows the storage and annual exchange of carbon between the atmosphere, hydrosphere and geosphere in gigatons - or billions of tons - of Carbon (GtC). Burning fossil fuels by people adds about 5.5 GtC of carbon per year into the atmosphere.
+
+```{r carboncycle, fig.cap='(ref:carboncy)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nutrition/Carbon_cycle-cute_diagram.svg")
+```
+
 The nutrient cycle is nature's recycling system. All forms of recycling have feedback loops that use energy in the process of putting material resources back into use. Recycling in ecology is regulated to a large extent during the process of decomposition. Ecosystems employ biodiversity in the food webs that recycle natural materials, such as mineral nutrients, which includes water. Recycling in natural systems is one of the many ecosystem services that sustain and contribute to the well-being of human societies.
 
 There is much overlap between the terms for the biogeochemical cycle and nutrient cycle. Most textbooks integrate the two and seem to treat them as synonymous terms. However, the terms often appear independently. Nutrient cycle is more often used in direct reference to the idea of an intra-system cycle, where an ecosystem functions as a unit. From a practical point, it does not make sense to assess a terrestrial ecosystem by considering the full column of air above it as well as the great depths of Earth below it. While an ecosystem often has no clear boundary, as a working model it is practical to consider the functional community where the bulk of matter and energy transfer occurs. Nutrient cycling occurs in ecosystems that participate in the "larger biogeochemical cycles of the earth through a system of inputs and outputs.
-
-
-
 
 The ability to harness energy from a variety of metabolic pathways is a property of all living organisms. Growth, development, anabolism and catabolism are some of the central processes in the study of biological organisms, because the role of energy is fundamental to such biological processes. Life is dependent on energy transformations; living organisms survive because of exchange of energy between living tissues/ cells and the outside environment. Some organisms, such as autotrophs, can acquire energy from sunlight (through photosynthesis) without needing to consume nutrients and break them down. Other organisms, like heterotrophs, must intake nutrients from food to be able to sustain energy by breaking down chemical bonds in nutrients during metabolic processes such as glycolysis and the citric acid cycle. Importantly, as a direct consequence of the first law of thermodynamics, autotrophs and heterotrophs participate in a universal metabolic network—by eating autotrophs (plants), heterotrophs harness energy that was initially transformed by the plants during photosynthesis.
 
@@ -172,6 +175,12 @@ Their advantage is being cheap and fast; this makes them the preferred counting 
 ### Plating And The Colony-Forming Unit Counting
 
 To quantify the number of cells in a culture, the cells can be simply plated on a petri dish with growth medium. If the cells are efficiently distributed on the plate, it can be generally assumed that each cell will give rise to a single colony or Colony Forming Unit (CFU). The colonies can then be counted, and based on the known volume of culture that was spread on the plate, the cell concentration can be calculated. This is often carried out following the ASTM D5465 standard.
+
+(ref:platecount) [A solution of bacteria at an unknown concentration is often serially diluted in order to obtain at least one plate with a countable number of bacteria. In this figure, the "x10" plate is suitable for counting.](https://commons.wikimedia.org/wiki/File:Serial_dilution_and_plating_of_bacteria.jpg)
+
+```{r platecounting, fig.cap='(ref:platecount)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/nutrition/Serial_dilution_and_plating_of_bacteria.jpg")
+```
 
 As is with counting chambers, cultures usually need to be heavily diluted prior to plating; otherwise, instead of obtaining single colonies that can be counted, a so-called "lawn" will form: thousands of colonies lying over each other. Additionally, plating is the slowest method of all: most microorganisms need at least 12 hours to form visible colonies.
 

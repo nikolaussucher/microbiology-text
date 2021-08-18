@@ -252,6 +252,13 @@ The inflammatory response is characterized by the following symptoms:
 
 The process of acute inflammation is initiated by resident immune cells already present in the involved tissue, mainly resident macrophages, dendritic cells, histiocytes, Kupffer cells and mast cells. These cells possess surface receptors known as pattern recognition receptors (PRRs), which recognize (i.e., bind) two subclasses of molecules: pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs). PAMPs are compounds that are associated with various pathogens, but which are distinguishable from host molecules. DAMPs are compounds that are associated with host-related injury and cell damage.
 
+(ref:infl) [A flowchart depicting the events of acute inflammation.](https://en.wikipedia.org/wiki/File:Events_in_Acute_Inflammation.pdf)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/host_defenses/Events_in_Acute_Inflammation.pdf" alt="(ref:infl)" width="70%" />
+<p class="caption">(\#fig:inflammation)(ref:infl)</p>
+</div>
+
 At the onset of an infection, burn, or other injuries, these cells undergo activation (one of the PRRs recognize a PAMP or DAMP) and release inflammatory mediators responsible for the clinical signs of inflammation. Vasodilation and its resulting increased blood flow causes the redness (rubor) and increased heat (calor). Increased permeability of the blood vessels results in an exudation (leakage) of plasma proteins and fluid into the tissue (edema), which manifests itself as swelling (tumor). Some of the released mediators such as bradykinin increase the sensitivity to pain (hyperalgesia, dolor). The mediator molecules also alter the blood vessels to permit the migration of leukocytes, mainly neutrophils and macrophages, to flow out of the blood vessels (extravasation) and into the tissue. The neutrophils migrate along a chemotactic gradient created by the local cells to reach the site of injury. The loss of function (functio laesa) is probably the result of a neurological reflex in response to pain.
 
 In addition to cell-derived mediators, several acellular biochemical cascade systems consisting of preformed plasma proteins act in parallel to initiate and propagate the inflammatory response. These include the complement system activated by bacteria and the coagulation and fibrinolysis systems activated by necrosis, e.g. a burn or a trauma.
@@ -274,6 +281,54 @@ Plasma cascade systems
 
 The cellular component involves leukocytes, which normally reside in blood and must move into the inflamed tissue via extravasation to aid in inflammation. Some act as phagocytes, ingesting bacteria, viruses, and cellular debris. Others release enzymatic granules that damage pathogenic invaders. Leukocytes also release inflammatory mediators that develop and maintain the inflammatory response. In general, acute inflammation is mediated by granulocytes, whereas chronic inflammation is mediated by mononuclear cells such as monocytes and lymphocytes.
 
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:pldm)Plasma-derived mediators of inflammation.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Name </th>
+   <th style="text-align:left;"> Produced by </th>
+   <th style="text-align:left;"> Description </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Bradykinin </td>
+   <td style="text-align:left;"> Kinin system </td>
+   <td style="text-align:left;"> A vasoactive protein that is able to induce vasodilation, increase vascular permeability, cause smooth muscle contraction, and induce pain. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> C3 </td>
+   <td style="text-align:left;"> Complement system </td>
+   <td style="text-align:left;"> Cleaves to produce C3a and C3b. C3a stimulates histamine release by mast cells, thereby producing vasodilation. C3b is able to bind to bacterial cell walls and act as an opsonin, which marks the invader as a target for phagocytosis. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> C5a </td>
+   <td style="text-align:left;"> Complement system </td>
+   <td style="text-align:left;"> Stimulates histamine release by mast cells, thereby producing vasodilation. It is also able to act as a chemoattractant to direct cells via chemotaxis to the site of inflammation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Factor XII (Hageman Factor) </td>
+   <td style="text-align:left;"> Liver </td>
+   <td style="text-align:left;"> A protein that circulates inactively, until activated by collagen, platelets, or exposed basement membranes via conformational change. When activated, it in turn is able to activate three plasma systems involved in inflammation: the kinin system, fibrinolysis system, and coagulation system. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Membrane attack complex </td>
+   <td style="text-align:left;"> Complement system </td>
+   <td style="text-align:left;"> A complex of the complement proteins C5b, C6, C7, C8, and multiple units of C9. The combination and activation of this range of complement proteins forms the membrane attack complex, which is able to insert into bacterial cell walls and causes cell lysis with ensuing bacterial death. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Plasmin </td>
+   <td style="text-align:left;"> Fibrinolysis system </td>
+   <td style="text-align:left;"> Able to break down fibrin clots, cleave complement protein C3, and activate Factor XII. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Thrombin </td>
+   <td style="text-align:left;"> Coagulation system </td>
+   <td style="text-align:left;"> Cleaves the soluble plasma protein fibrinogen to produce insoluble fibrin, which aggregates to form a blood clot. Thrombin can also bind to cells via the PAR1 receptor to trigger several other inflammatory responses, such as production of chemokines and nitric oxide. </td>
+  </tr>
+</tbody>
+</table>
+
 ### Leukocyte Extravasation
 
 Various leukocytes, particularly neutrophils, are critically involved in the initiation and maintenance of inflammation. These cells must be able to move to the site of injury from their usual location in the blood, therefore mechanisms exist to recruit and direct leukocytes to the appropriate place. The process of leukocyte movement from the blood to the tissues through the blood vessels is known as extravasation and can be broadly divided up into a number of steps:
@@ -285,6 +340,104 @@ Various leukocytes, particularly neutrophils, are critically involved in the ini
 ### Phagocytosis
 
 Extravasated neutrophils in the cellular phase come into contact with microbes at the inflamed tissue. Phagocytes express cell-surface endocytic pattern recognition receptors (PRRs) that have affinity and efficacy against non-specific microbe-associated molecular patterns (PAMPs). Most PAMPs that bind to endocytic PRRs and initiate phagocytosis are cell wall components, including complex carbohydrates such as mannans and β-glucans, lipopolysaccharides (LPS), peptidoglycans, and surface proteins. Endocytic PRRs on phagocytes reflect these molecular patterns, with C-type lectin receptors binding to mannans and β-glucans, and scavenger receptors binding to LPS.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:cdm)Cell-derived mediators of inflammation</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Name </th>
+   <th style="text-align:left;"> Type </th>
+   <th style="text-align:left;"> Source </th>
+   <th style="text-align:left;"> Description </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Lysosome granules </td>
+   <td style="text-align:left;"> Enzymes </td>
+   <td style="text-align:left;"> Granulocytes </td>
+   <td style="text-align:left;"> These cells contain a large variety of enzymes that perform a number of functions. Granules can be classified as either specific or azurophilic depending upon the contents, and are able to break down a number of substances, some of which may be plasma-derived proteins that allow these enzymes to act as inflammatory mediators. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GM-CSF </td>
+   <td style="text-align:left;"> Glycoprotein </td>
+   <td style="text-align:left;"> Macrophages, monocytes, T-cells, B-cells, and tissue-resident cells </td>
+   <td style="text-align:left;"> Elevated GM-CSF has been shown to contribute to inflammation in inflammatory arthritis, osteoarthritis, colitis asthma, obesity, and COVID-19. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Histamine </td>
+   <td style="text-align:left;"> Monoamine </td>
+   <td style="text-align:left;"> Mast cells and basophils </td>
+   <td style="text-align:left;"> Stored in preformed granules, histamine is released in response to a number of stimuli. It causes arteriole dilation, increased venous permeability, and a wide variety of organ-specific effects. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> IFN-γ </td>
+   <td style="text-align:left;"> Cytokine </td>
+   <td style="text-align:left;"> T-cells, NK cells </td>
+   <td style="text-align:left;"> Antiviral, immunoregulatory, and anti-tumour properties. This interferon was originally called macrophage-activating factor, and is especially important in the maintenance of chronic inflammation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> IL-6 </td>
+   <td style="text-align:left;"> Cytokine and Myokine </td>
+   <td style="text-align:left;"> Macrophages, osteoblasts, adipocytes, and smooth muscle cells (cytokine) Skeletal muscle cells (myokine) </td>
+   <td style="text-align:left;"> Pro-inflammatory cytokine secreted by macrophages in response to pathogen-associated molecular patterns (PAMPs); pro-inflammatory cytokine secreted by adipocytes, especially in obesity; anti-inflammatory myokine secreted by skeletal muscle cells in response to exercise. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> IL-8 </td>
+   <td style="text-align:left;"> Chemokine </td>
+   <td style="text-align:left;"> Primarily macrophages </td>
+   <td style="text-align:left;"> Activation and chemoattraction of neutrophils, with a weak effect on monocytes and eosinophils. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Leukotriene B4 </td>
+   <td style="text-align:left;"> Eicosanoid </td>
+   <td style="text-align:left;"> Leukocytes, cancer cells </td>
+   <td style="text-align:left;"> Able to mediate leukocyte adhesion and activation, allowing them to bind to the endothelium and migrate across it. In neutrophils, it is also a potent chemoattractant, and is able to induce the formation of reactive oxygen species and the release of lysosomal enzymes by these cells. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> LTC4, LTD4 </td>
+   <td style="text-align:left;"> Eicosanoid </td>
+   <td style="text-align:left;"> eosinophils, mast cells, macrophages </td>
+   <td style="text-align:left;"> These three Cysteine-containing leukotrienes contract lung airways, increase micro-vascular permeability, stimulate mucus secretion, and promote eosinophil-based inflammation in the lung, skin, nose, eye, and other tissues. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 5-oxo-eicosatetraenoic acid </td>
+   <td style="text-align:left;"> Eicosanoid </td>
+   <td style="text-align:left;"> leukocytes, cancer cells </td>
+   <td style="text-align:left;"> Potent stimulator of neutrophil chemotaxis, lysosome enzyme release, and reactive oxygen species formation; monocyte chemotaxis; and with even greater potency eosinophil chemotaxis, lysosome enzyme release, and reactive oxygen species formation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 5-HETE </td>
+   <td style="text-align:left;"> Eicosanoid </td>
+   <td style="text-align:left;"> Leukocytes </td>
+   <td style="text-align:left;"> Metabolic precursor to 5-Oxo-eicosatetraenoic acid, it is a less potent stimulator of neutrophil chemotaxis, lysosome enzyme release, and reactive oxygen species formation; monocyte chemotaxis; and eosinophil chemotaxis, lysosome enzyme release, and reactive oxygen species formation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Prostaglandins </td>
+   <td style="text-align:left;"> Eicosanoid </td>
+   <td style="text-align:left;"> Mast cells </td>
+   <td style="text-align:left;"> A group of lipids that can cause vasodilation, fever, and pain. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nitric oxide </td>
+   <td style="text-align:left;"> Soluble gas </td>
+   <td style="text-align:left;"> Macrophages, endothelial cells, some neurons </td>
+   <td style="text-align:left;"> Potent vasodilator, relaxes smooth muscle, reduces platelet aggregation, aids in leukocyte recruitment, direct antimicrobial activity in high concentrations. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TNF-α and IL-1 </td>
+   <td style="text-align:left;"> Cytokines </td>
+   <td style="text-align:left;"> Primarily macrophages </td>
+   <td style="text-align:left;"> Both affect a wide variety of cells to induce many similar inflammatory reactions: fever, production of cytokines, endothelial gene regulation, chemotaxis, leukocyte adherence, activation of fibroblasts. Responsible for the systemic effects of inflammation, such as loss of appetite and increased heart rate. TNF-α inhibits osteoblast differentiation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tryptase </td>
+   <td style="text-align:left;"> Enzymes </td>
+   <td style="text-align:left;"> Mast Cells </td>
+   <td style="text-align:left;"> This serine protease is believed to be exclusively stored in mast cells and secreted, along with histamine, during mast cell activation.[20][21][22] </td>
+  </tr>
+</tbody>
+</table>
 
 Upon endocytic PRR binding, actin-myosin cytoskeletal rearrangement adjacent to the plasma membrane occurs in a way that endocytoses the plasma membrane containing the PRR-PAMP complex, and the microbe. Phosphatidylinositol and Vps34-Vps15-Beclin1 signalling pathways have been implicated to traffic the endocytosed phagosome to intracellular lysosomes, where fusion of the phagosome and the lysosome produces a phagolysosome. The reactive oxygen species, superoxides and hypochlorite bleach within the phagolysosomes then kill microbes inside the phagocyte.
 
