@@ -185,7 +185,255 @@ Viruses are by far the most abundant biological entities on Earth and they outnu
 
 Examples of common human diseases caused by viruses include the common cold, influenza, chickenpox, and cold sores. Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. The relative ability of viruses to cause disease is described in terms of virulence. Other diseases are under investigation to discover if they have a virus as the causative agent, such as the possible connection between human herpesvirus 6 (HHV6) and neurological diseases such as multiple sclerosis and chronic fatigue syndrome. There is controversy over whether the bornavirus, previously thought to cause neurological diseases in horses, could be responsible for psychiatric illnesses in humans.
 
+(ref:virussize) [Virions of some of the most common human viruses with their relative size. Nucleic acids are not to scale. SARS stands as for SARS as for COVID-19, variola viruses for smallpox.](https://commons.wikimedia.org/wiki/File:Virus_size.png)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/virus/Virus_size.png" alt="(ref:virussize)" width="70%" />
+<p class="caption">(\#fig:virions)(ref:virussize)</p>
+</div>
+
 Viruses have different mechanisms by which they produce disease in an organism, which depends largely on the viral species. Mechanisms at the cellular level primarily include cell lysis, the breaking open and subsequent death of the cell. In multicellular organisms, if enough cells die, the whole organism will start to suffer the effects. Although viruses cause disruption of healthy homeostasis, resulting in disease, they may exist relatively harmlessly within an organism. An example would include the ability of the herpes simplex virus, which causes cold sores, to remain in a dormant state within the human body. This is called latency and is a characteristic of the herpes viruses, including Epstein–Barr virus, which causes glandular fever, and varicella zoster virus, which causes chickenpox and shingles. Most people have been infected with at least one of these types of herpes virus. These latent viruses might sometimes be beneficial, as the presence of the virus can increase immunity against bacterial pathogens, such as Yersinia pestis.
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:viruschar)Clinically important virus families with  clinical characteristics.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Type </th>
+   <th style="text-align:left;"> Family </th>
+   <th style="text-align:left;"> Transmission </th>
+   <th style="text-align:left;"> Diseases </th>
+   <th style="text-align:left;"> Treatment </th>
+   <th style="text-align:left;"> Prevention </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Adenovirus </td>
+   <td style="text-align:left;"> Adenoviridae </td>
+   <td style="text-align:left;"> droplet contact fecal-oral venereal direct eye contact </td>
+   <td style="text-align:left;"> gastroenteritis keratoconjunctivitis pharyngitis pharyngoconjunctival fever </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> Adenovirus vaccine hand washing covering mouth when coughing or sneezing avoiding close contact with the sick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Coxsackievirus </td>
+   <td style="text-align:left;"> Picornaviridae </td>
+   <td style="text-align:left;"> fecal-oral respiratory droplet contact </td>
+   <td style="text-align:left;"> Hand, foot and mouth disease pleurodynia aseptic meningitis pericarditis myocarditis </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> hand washing covering mouth when coughing/sneezing avoiding contaminated food/water improved sanitation </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cytomegalovirus </td>
+   <td style="text-align:left;"> Herpesviridae </td>
+   <td style="text-align:left;"> vertical transmission bodily fluids </td>
+   <td style="text-align:left;"> infectious mononucleosis Cytomegalic inclusion disease Premature birth liver, lung and spleen diseases in the newborn Small size at birth Small head size congenital seizures in the newborn </td>
+   <td style="text-align:left;"> ganciclovir cidofovir foscarnet </td>
+   <td style="text-align:left;"> hand washing avoid sharing food and drinks with others safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Epstein–Barr virus </td>
+   <td style="text-align:left;"> Herpesviridae </td>
+   <td style="text-align:left;"> saliva </td>
+   <td style="text-align:left;"> infectious mononucleosis Burkitt's lymphoma Hodgkin's lymphoma nasopharyngeal carcinoma </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> avoiding close contact with the sick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hepatitis A virus </td>
+   <td style="text-align:left;"> Picornaviridae </td>
+   <td style="text-align:left;"> fecal-oral </td>
+   <td style="text-align:left;"> acute hepatitis </td>
+   <td style="text-align:left;"> Immunoglobulin (post-exposure prophylaxis) </td>
+   <td style="text-align:left;"> Hepatitis A vaccine avoiding contaminated food/water improved sanitation </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hepatitis B virus </td>
+   <td style="text-align:left;"> Hepadnaviridae </td>
+   <td style="text-align:left;"> bodily fluids Vertical and sexual </td>
+   <td style="text-align:left;"> acute hepatitis chronic hepatitis hepatic cirrhosis hepatocellular carcinoma </td>
+   <td style="text-align:left;"> Lamivudine immunoglobulin Adefovir Entecavir Pegylated interferon alfa-2 </td>
+   <td style="text-align:left;"> Hepatitis B vaccine immunoglobulin (perinatal and post-exposure prophylaxis) avoiding shared needles/syringes safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hepatitis C virus </td>
+   <td style="text-align:left;"> Flaviviridae </td>
+   <td style="text-align:left;"> blood sexual contact </td>
+   <td style="text-align:left;"> acute hepatitis chronic hepatitis hepatic cirrhosis hepatocellular carcinoma </td>
+   <td style="text-align:left;"> Ribavirin Pegylated interferon alfa-2 </td>
+   <td style="text-align:left;"> avoiding shared needles/syringes safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Herpes simplex virus, type 1 </td>
+   <td style="text-align:left;"> Herpesviridae </td>
+   <td style="text-align:left;"> direct contact saliva </td>
+   <td style="text-align:left;"> herpes labialis, cold sores – can recur by latency gingivostomatitis in children tonsillitis &amp; pharyngitis in adults keratoconjunctivitis </td>
+   <td style="text-align:left;"> acyclovir famciclovir foscarnet penciclovir </td>
+   <td style="text-align:left;"> avoiding close contact with lesions safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Herpes simplex virus, type 2 </td>
+   <td style="text-align:left;"> Herpesviridae </td>
+   <td style="text-align:left;"> sexual contact vertical transmission </td>
+   <td style="text-align:left;"> Skin vesicles, mucosal ulcers, Oral and/or genital Can be latent Aseptic meningitis </td>
+   <td style="text-align:left;"> acyclovir famciclovir foscarnet penciclovir cidofovir </td>
+   <td style="text-align:left;"> avoiding close contact with lesions safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HIV </td>
+   <td style="text-align:left;"> Retroviridae </td>
+   <td style="text-align:left;"> sexual contact blood breast milk vertical transmission </td>
+   <td style="text-align:left;"> AIDS </td>
+   <td style="text-align:left;"> HAART, such as protease inhibitors and reverse-transcriptase inhibitors </td>
+   <td style="text-align:left;"> zidovudine (perinatally) blood product screening safe sex avoiding shared needles/syringes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human coronavirus 229E (HCoV-229E) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;"> droplet contact fomites </td>
+   <td style="text-align:left;"> common cold pneumonia bronchiolitis </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human coronavirus NL63 (HCoV-NL63) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> common cold rhinitis bronchitis bronchiolitis pneumonia croup </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human coronavirus OC43 (HCoV-OC43) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> common cold pneumonia </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human coronavirus HKU1 (HCoV-HKU1) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> common cold pneumonia bronchiolitis </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human herpesvirus, type 8 </td>
+   <td style="text-align:left;"> Herpesviridae </td>
+   <td style="text-align:left;"> Saliva Sexual </td>
+   <td style="text-align:left;"> Kaposi sarcoma multicentric Castleman disease primary effusion lymphoma </td>
+   <td style="text-align:left;"> many in evaluation-stage </td>
+   <td style="text-align:left;"> avoid close contact with lesions safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Human papillomavirus </td>
+   <td style="text-align:left;"> Papillomaviridae </td>
+   <td style="text-align:left;"> direct contact sexual contact vertical transmission </td>
+   <td style="text-align:left;"> (common, flat, plantar and anogenital warts, laryngeal papillomas, epidermodysplasia verruciformis) Malignancies for some species (cervical carcinoma, squamous cell carcinomas) </td>
+   <td style="text-align:left;"> liquid nitrogen laser vaporization cytotoxic chemicals interferon cidofovir </td>
+   <td style="text-align:left;"> HPV vaccine avoiding close contact with lesions safe sex </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Influenza virus </td>
+   <td style="text-align:left;"> Orthomyxoviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> influenza (Reye syndrome) </td>
+   <td style="text-align:left;"> amantadine rimantadine zanamivir oseltamivir </td>
+   <td style="text-align:left;"> influenza vaccine amantadine rimantadine hand washing covering mouth when coughing/sneezing avoiding close contact with the sick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Measles virus </td>
+   <td style="text-align:left;"> Paramyxoviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> measles postinfectious encephalomyelitis </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> MMR vaccine quarantining the sick avoiding contact with the sick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Middle East respiratory syndrome-related coronavirus (MERS-CoV) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;"> close human contact </td>
+   <td style="text-align:left;"> Middle East respiratory syndrome (MERS) </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mumps virus </td>
+   <td style="text-align:left;"> Paramyxoviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> mumps </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> MMR vaccine avoiding close contact with the sick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Parainfluenza virus </td>
+   <td style="text-align:left;"> Paramyxoviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> croup pneumonia bronchiolitis common cold </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> hand washing covering mouth when coughing/sneezing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Poliovirus </td>
+   <td style="text-align:left;"> Picornaviridae </td>
+   <td style="text-align:left;"> fecal-oral </td>
+   <td style="text-align:left;"> poliomyelitis </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> Polio vaccine avoiding contaminated food and water improved sanitation </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rabies virus </td>
+   <td style="text-align:left;"> Rhabdoviridae </td>
+   <td style="text-align:left;"> animal bite droplet contact </td>
+   <td style="text-align:left;"> rabies (fatal encephalitis) </td>
+   <td style="text-align:left;"> Post-exposure prophylaxis </td>
+   <td style="text-align:left;"> rabies vaccine avoiding rabid animals </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Respiratory syncytial virus </td>
+   <td style="text-align:left;"> Pneumoviridae </td>
+   <td style="text-align:left;"> droplet contact hand to mouth </td>
+   <td style="text-align:left;"> bronchiolitis pneumonia influenza-like syndrome severe bronchiolitis with pneumonia </td>
+   <td style="text-align:left;"> (ribavirin) </td>
+   <td style="text-align:left;"> hand washing avoiding close contact with the sick palivizumab in high risk individuals covering mouth when coughing/sneezing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rubella virus </td>
+   <td style="text-align:left;"> Togaviridae </td>
+   <td style="text-align:left;"> Respiratory droplet contact </td>
+   <td style="text-align:left;"> congenital rubella German measles </td>
+   <td style="text-align:left;"> None </td>
+   <td style="text-align:left;"> MMR vaccine avoiding close contact with the sick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Severe acute respiratory syndrome coronavirus (SARS-CoV) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> severe acute respiratory syndrome (SARS) </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) </td>
+   <td style="text-align:left;"> Coronaviridae </td>
+   <td style="text-align:left;"> droplet contact </td>
+   <td style="text-align:left;"> coronavirus disease 2019 (COVID-19) </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> hand washing covering mouth when coughing or sneezing social distancing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Varicella-zoster virus </td>
+   <td style="text-align:left;"> Herpesviridae </td>
+   <td style="text-align:left;"> droplet contact direct contact </td>
+   <td style="text-align:left;"> chickenpox herpes zoster Congenital varicella syndrome </td>
+   <td style="text-align:left;"> Varicella:  acyclovir famciclovir valacyclovir Zoster:  acyclovir famciclovir </td>
+   <td style="text-align:left;"> Varicella:  varicella vaccine varicella-zoster immunoglobulin avoiding close contact with the sick Zoster:  vaccine varicella-zoster immunoglobulin </td>
+  </tr>
+</tbody>
+</table>
+
 
 Some viruses can cause lifelong or chronic infections, where the viruses continue to replicate in the body despite the host's defence mechanisms. This is common in hepatitis B virus and hepatitis C virus infections. People chronically infected are known as carriers, as they serve as reservoirs of infectious virus. In populations with a high proportion of carriers, the disease is said to be endemic.
 

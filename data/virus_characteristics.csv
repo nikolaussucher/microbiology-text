@@ -1,0 +1,29 @@
+Type,Family,Transmission,Diseases,Treatment,Prevention
+Adenovirus,Adenoviridae,droplet contact fecal-oral venereal direct eye contact,gastroenteritis keratoconjunctivitis pharyngitis pharyngoconjunctival fever,None,Adenovirus vaccine hand washing covering mouth when coughing or sneezing avoiding close contact with the sick
+Coxsackievirus,Picornaviridae,fecal-oral respiratory droplet contact,"Hand, foot and mouth disease pleurodynia aseptic meningitis pericarditis myocarditis",None,hand washing covering mouth when coughing/sneezing avoiding contaminated food/water improved sanitation
+Cytomegalovirus,Herpesviridae,vertical transmission bodily fluids,"infectious mononucleosis Cytomegalic inclusion disease Premature birth liver, lung and spleen diseases in the newborn Small size at birth Small head size congenital seizures in the newborn",ganciclovir cidofovir foscarnet,hand washing avoid sharing food and drinks with others safe sex
+Epstein–Barr virus,Herpesviridae,saliva,infectious mononucleosis Burkitt's lymphoma Hodgkin's lymphoma nasopharyngeal carcinoma,None,avoiding close contact with the sick
+Hepatitis A virus,Picornaviridae,fecal-oral,acute hepatitis,Immunoglobulin (post-exposure prophylaxis),Hepatitis A vaccine avoiding contaminated food/water improved sanitation
+Hepatitis B virus,Hepadnaviridae,bodily fluids Vertical and sexual,acute hepatitis chronic hepatitis hepatic cirrhosis hepatocellular carcinoma,Lamivudine immunoglobulin Adefovir Entecavir Pegylated interferon alfa-2,Hepatitis B vaccine immunoglobulin (perinatal and post-exposure prophylaxis) avoiding shared needles/syringes safe sex
+Hepatitis C virus,Flaviviridae,blood sexual contact,acute hepatitis chronic hepatitis hepatic cirrhosis hepatocellular carcinoma,Ribavirin Pegylated interferon alfa-2,avoiding shared needles/syringes safe sex
+"Herpes simplex virus, type 1",Herpesviridae,direct contact saliva,"herpes labialis, cold sores – can recur by latency gingivostomatitis in children tonsillitis & pharyngitis in adults keratoconjunctivitis",acyclovir famciclovir foscarnet penciclovir,avoiding close contact with lesions safe sex
+"Herpes simplex virus, type 2",Herpesviridae,sexual contact vertical transmission,"Skin vesicles, mucosal ulcers, Oral and/or genital Can be latent Aseptic meningitis",acyclovir famciclovir foscarnet penciclovir cidofovir,avoiding close contact with lesions safe sex
+HIV,Retroviridae,sexual contact blood breast milk vertical transmission,AIDS,"HAART, such as protease inhibitors and reverse-transcriptase inhibitors",zidovudine (perinatally) blood product screening safe sex avoiding shared needles/syringes
+Human coronavirus 229E (HCoV-229E),Coronaviridae,droplet contact fomites,common cold pneumonia bronchiolitis,,
+Human coronavirus NL63 (HCoV-NL63),Coronaviridae,droplet contact,common cold rhinitis bronchitis bronchiolitis pneumonia croup,,
+Human coronavirus OC43 (HCoV-OC43),Coronaviridae,,common cold pneumonia,,
+Human coronavirus HKU1 (HCoV-HKU1),Coronaviridae,,common cold pneumonia bronchiolitis,,
+"Human herpesvirus, type 8",Herpesviridae,Saliva Sexual,Kaposi sarcoma multicentric Castleman disease primary effusion lymphoma,many in evaluation-stage,avoid close contact with lesions safe sex
+Human papillomavirus,Papillomaviridae,direct contact sexual contact vertical transmission,"(common, flat, plantar and anogenital warts, laryngeal papillomas, epidermodysplasia verruciformis) Malignancies for some species (cervical carcinoma, squamous cell carcinomas)",liquid nitrogen laser vaporization cytotoxic chemicals interferon cidofovir,HPV vaccine avoiding close contact with lesions safe sex
+Influenza virus,Orthomyxoviridae,droplet contact,influenza (Reye syndrome),amantadine rimantadine zanamivir oseltamivir,influenza vaccine amantadine rimantadine hand washing covering mouth when coughing/sneezing avoiding close contact with the sick
+Measles virus,Paramyxoviridae,droplet contact,measles postinfectious encephalomyelitis,None,MMR vaccine quarantining the sick avoiding contact with the sick
+Middle East respiratory syndrome-related coronavirus (MERS-CoV),Coronaviridae,close human contact,Middle East respiratory syndrome (MERS),,
+Mumps virus,Paramyxoviridae,droplet contact,mumps,None,MMR vaccine avoiding close contact with the sick
+Parainfluenza virus,Paramyxoviridae,droplet contact,croup pneumonia bronchiolitis common cold,None,hand washing covering mouth when coughing/sneezing
+Poliovirus,Picornaviridae,fecal-oral,poliomyelitis,None,Polio vaccine avoiding contaminated food and water improved sanitation
+Rabies virus,Rhabdoviridae,animal bite droplet contact,rabies (fatal encephalitis),Post-exposure prophylaxis,rabies vaccine avoiding rabid animals
+Respiratory syncytial virus,Pneumoviridae,droplet contact hand to mouth,bronchiolitis pneumonia influenza-like syndrome severe bronchiolitis with pneumonia,(ribavirin),hand washing avoiding close contact with the sick palivizumab in high risk individuals covering mouth when coughing/sneezing
+Rubella virus,Togaviridae,Respiratory droplet contact,congenital rubella German measles,None,MMR vaccine avoiding close contact with the sick
+Severe acute respiratory syndrome coronavirus (SARS-CoV),Coronaviridae,droplet contact,severe acute respiratory syndrome (SARS),,
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),Coronaviridae,droplet contact,coronavirus disease 2019 (COVID-19),,hand washing covering mouth when coughing or sneezing social distancing
+Varicella-zoster virus,Herpesviridae,droplet contact direct contact,chickenpox herpes zoster Congenital varicella syndrome,Varicella:  acyclovir famciclovir valacyclovir Zoster:  acyclovir famciclovir,Varicella:  varicella vaccine varicella-zoster immunoglobulin avoiding close contact with the sick Zoster:  vaccine varicella-zoster immunoglobulin

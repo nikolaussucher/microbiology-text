@@ -113,6 +113,8 @@ tab:virgen
 fig:influenza
 fig:virusrepc
 fig:rnavirus
+fig:virions
+tab:viruschar
 fig:bacteriophage
 fig:phage
 fig:bacphage
@@ -160,13 +162,15 @@ fig:pbrpladmid
 fig:cloningdiagram
 fig:sirnacartoon
 fig:crisprdiagram
-fig:carbolicsteam
 fig:raduralogo
 fig:listerphoto
+fig:carbolicsteam
 fig:antibiotics
 tab:composition
 tab:suszeptibility
+fig:sryribosome
 tab:resistance
+fig:neisseriagon
 tab:path
 fig:lymphaticsystem
 fig:humanthymus

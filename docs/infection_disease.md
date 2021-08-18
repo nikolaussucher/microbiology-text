@@ -4,11 +4,25 @@
 
 Pathogenic bacteria are bacteria that can cause disease. This chapter focuses on the bacteria that are pathogenic to humans. Most species of bacteria are harmless and are often beneficial but others can cause infectious diseases. The number of these pathogenic species in humans is estimated to be fewer than a hundred. By contrast, several thousand species are part of the gut flora present in the digestive tract.
 
+(ref:neiss) [Neisseria gonorrhoea in pus from a man with a purulent urethral discharge - Gram stain.](https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoea_in_pus_-_Gram_stain.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/infection/Neisseria_gonorrhoea_in_pus_-_Gram_stain.jpg" alt="(ref:neiss)" width="70%" />
+<p class="caption">(\#fig:neisseriagon)(ref:neiss)</p>
+</div>
+
 The body is continually exposed to many species of bacteria, including beneficial commensals, which grow on the skin and mucous membranes, and saprophytes, which grow mainly in the soil and in decaying matter. The blood and tissue fluids contain nutrients sufficient to sustain the growth of many bacteria. The body has defence mechanisms that enable it to resist microbial invasion of its tissues and give it a natural immunity or innate resistance against many microorganisms.
 
 Pathogenic bacteria are specially adapted and endowed with mechanisms for overcoming the normal body defences, and can invade parts of the body, such as the blood, where bacteria are not normally found. Some pathogens invade only the surface epithelium, skin or mucous membrane, but many travel more deeply, spreading through the tissues and disseminating by the lymphatic and blood streams. In some rare cases a pathogenic microbe can infect an entirely healthy person, but infection usually occurs only if the body's defence mechanisms are damaged by some local trauma or an underlying debilitating disease, such as wounding, intoxication, chilling, fatigue, and malnutrition. In many cases, it is important to differentiate infection and colonization, which is when the bacteria are causing little or no harm.
 
 Caused by Mycobacterium tuberculosis bacteria, one of the diseases with the highest disease burden is tuberculosis, which killed 1.4 million people in 2019, mostly in sub-Saharan Africa. Pathogenic bacteria contribute to other globally important diseases, such as pneumonia, which can be caused by bacteria such as Streptococcus, Pneumococcus and Pseudomonas, and foodborne illnesses, which can be caused by bacteria such as Shigella, Campylobacter, and Salmonella. Pathogenic bacteria also cause infections such as tetanus, typhoid fever, diphtheria, syphilis, and leprosy. Pathogenic bacteria are also the cause of high infant mortality rates in developing countries.
+
+(ref:mycob) [A close-up photogrpaph of a Mycobacterium tuberculosis culture revealing this organism’s colonial morphology. Note the colorless rough surface, which are typical morphologic characteristics seen in Mycobacterium tuberculosis colonial growth. Macroscopic examination of colonial growth patterns is still one of the ways microorganisms are often identified.](https://commons.wikimedia.org/wiki/File:TB_Culture.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/infection/TB_Culture.jpg" alt="(ref:mycob)" width="70%" />
+<p class="caption">(\#fig:mycobacteriu,)(ref:mycob)</p>
+</div>
 
 Most pathogenic bacteria can be grown in cultures and identifed by Gram stain and other methods. Bacteria grown in this way are often tested to find which antibiotics will be an effective treatment for the infection. For hitherto unknown pathogens, Koch's postulates are the standard to establish a causative relationship between a microbe and a disease.
 
@@ -57,13 +71,13 @@ Bacterial infections may be treated with antibiotics, which are classified as ba
 
 Infections can be prevented by antiseptic measures such as sterilizing the skin prior to piercing it with the needle of a syringe and by proper care of indwelling catheters. Surgical and dental instruments are also sterilized to prevent infection by bacteria. Disinfectants such as bleach are used to kill bacteria or other pathogens on surfaces to prevent contamination and further reduce the risk of infection. Bacteria in food are killed by cooking to temperatures above 73 °C (163 °F).
 
-### List of genera and microscopy features
+### List Of Genera And Microscopy Features
 
 Many genera contain pathogenic bacterial species. They often possess characteristics that help to classify and organize them into groups. The following is a partial listing.
 
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:path)The three essential polymeric macromolecules of life</caption>
+<caption>(\#tab:path)List of genera of pathogenic bacteria and microscopy features.</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Genus </th>
@@ -76,7 +90,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> Bacillus[27] </td>
+   <td style="text-align:left;"> Bacillus </td>
    <td style="text-align:left;"> Bacillus anthracis Bacillus cereus </td>
    <td style="text-align:left;"> Positive </td>
    <td style="text-align:left;"> Rods </td>
@@ -84,7 +98,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Bartonella[27] </td>
+   <td style="text-align:left;"> Bartonella </td>
    <td style="text-align:left;"> Bartonella henselae Bartonella quintana </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Rods </td>
@@ -92,15 +106,15 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Facultative intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Bordetella[27] </td>
-   <td style="text-align:left;"> Bordetella pertussis[28][29] </td>
+   <td style="text-align:left;"> Bordetella </td>
+   <td style="text-align:left;"> Bordetella pertussis </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Small coccobacilli </td>
    <td style="text-align:left;"> Aerobic </td>
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Borrelia[27] </td>
+   <td style="text-align:left;"> Borrelia </td>
    <td style="text-align:left;"> Borrelia burgdorferi Borrelia garinii Borrelia afzelii Borrelia recurrentis </td>
    <td style="text-align:left;"> Negative, stains poorly </td>
    <td style="text-align:left;"> Spirochete </td>
@@ -108,7 +122,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Brucella[27] </td>
+   <td style="text-align:left;"> Brucella </td>
    <td style="text-align:left;"> Brucella abortus Brucella canis Brucella melitensis Brucella suis </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Coccobacilli </td>
@@ -116,15 +130,15 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Campylobacter[27] </td>
+   <td style="text-align:left;"> Campylobacter </td>
    <td style="text-align:left;"> Campylobacter jejuni </td>
    <td style="text-align:left;"> Negative </td>
-   <td style="text-align:left;"> Spiral rods[30]  coccoid in older cultures[30] </td>
-   <td style="text-align:left;"> Microaerophilic[30] </td>
+   <td style="text-align:left;"> Spiral rods  coccoid in older cultures </td>
+   <td style="text-align:left;"> Microaerophilic </td>
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Chlamydia and Chlamydophila[27] </td>
+   <td style="text-align:left;"> Chlamydia and Chlamydophila </td>
    <td style="text-align:left;"> Chlamydia pneumoniae Chlamydia trachomatis Chlamydophila psittaci </td>
    <td style="text-align:left;"> (not Gram-stained) </td>
    <td style="text-align:left;"> Small, round, ovoid </td>
@@ -132,7 +146,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Obligate intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Clostridium[27] </td>
+   <td style="text-align:left;"> Clostridium </td>
    <td style="text-align:left;"> Clostridium botulinum Clostridium difficile Clostridium perfringens Clostridium tetani </td>
    <td style="text-align:left;"> Positive </td>
    <td style="text-align:left;"> Large, blunt-ended rods </td>
@@ -140,15 +154,15 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Corynebacterium[27] </td>
-   <td style="text-align:left;"> Corynebacterium diphtheriae[29][31][32] </td>
+   <td style="text-align:left;"> Corynebacterium </td>
+   <td style="text-align:left;"> Corynebacterium diphtheriae </td>
    <td style="text-align:left;"> Positive (unevenly) </td>
    <td style="text-align:left;"> Rods </td>
    <td style="text-align:left;"> Mostly facultative anaerobic </td>
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Enterococcus[29][33] </td>
+   <td style="text-align:left;"> Enterococcus </td>
    <td style="text-align:left;"> Enterococcus faecalis Enterococcus faecium </td>
    <td style="text-align:left;"> Positive </td>
    <td style="text-align:left;"> Cocci </td>
@@ -156,7 +170,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Escherichia[4][29][34] </td>
+   <td style="text-align:left;"> Escherichia </td>
    <td style="text-align:left;"> Escherichia coli </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Rods </td>
@@ -164,7 +178,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular or Intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Francisella[27] </td>
+   <td style="text-align:left;"> Francisella </td>
    <td style="text-align:left;"> Francisella tularensis </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Coccobacillus </td>
@@ -173,7 +187,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
   </tr>
   <tr>
    <td style="text-align:left;"> Haemophilus </td>
-   <td style="text-align:left;"> Haemophilus influenzae[29][35] </td>
+   <td style="text-align:left;"> Haemophilus influenzae </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Coccobacilli to long and slender filaments </td>
    <td style="text-align:left;"> Facultative anaerobic 5 - 10% CO2 </td>
@@ -181,14 +195,14 @@ Many genera contain pathogenic bacterial species. They often possess characteris
   </tr>
   <tr>
    <td style="text-align:left;"> Helicobacter </td>
-   <td style="text-align:left;"> Helicobacter pylori[36] </td>
+   <td style="text-align:left;"> Helicobacter pylori </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Spiral rod </td>
    <td style="text-align:left;"> Microaerophile </td>
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Legionella[27] </td>
+   <td style="text-align:left;"> Legionella </td>
    <td style="text-align:left;"> Legionella pneumophila </td>
    <td style="text-align:left;"> Negative, stains poorly </td>
    <td style="text-align:left;"> Cocobacilli </td>
@@ -196,7 +210,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Facultative intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Leptospira[29][37] </td>
+   <td style="text-align:left;"> Leptospira </td>
    <td style="text-align:left;"> Leptospira interrogans Leptospira santarosai Leptospira weilii Leptospira noguchii </td>
    <td style="text-align:left;"> Negative, stains poorly </td>
    <td style="text-align:left;"> Spirochete </td>
@@ -204,7 +218,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Listeria[27] </td>
+   <td style="text-align:left;"> Listeria </td>
    <td style="text-align:left;"> Listeria monocytogenes </td>
    <td style="text-align:left;"> Positive, darkly </td>
    <td style="text-align:left;"> Slender, short rods </td>
@@ -212,7 +226,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Facultative intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Mycobacterium[27] </td>
+   <td style="text-align:left;"> Mycobacterium </td>
    <td style="text-align:left;"> Mycobacterium leprae Mycobacterium tuberculosis Mycobacterium ulcerans </td>
    <td style="text-align:left;"> (none) </td>
    <td style="text-align:left;"> Long, slender rods </td>
@@ -220,7 +234,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Mycoplasma[27] </td>
+   <td style="text-align:left;"> Mycoplasma </td>
    <td style="text-align:left;"> Mycoplasma pneumoniae </td>
    <td style="text-align:left;"> (none) </td>
    <td style="text-align:left;"> Indistinct 'fried egg' appearance, no cell wall </td>
@@ -228,7 +242,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Neisseria[29][38] </td>
+   <td style="text-align:left;"> Neisseria </td>
    <td style="text-align:left;"> Neisseria gonorrhoeae Neisseria meningitidis </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Kidney bean-shaped </td>
@@ -236,7 +250,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Gonococcus: facultative intracellularN. meningitidis: extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Pseudomonas[29][39] </td>
+   <td style="text-align:left;"> Pseudomonas </td>
    <td style="text-align:left;"> Pseudomonas aeruginosa </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Rods </td>
@@ -244,7 +258,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Rickettsia[27] </td>
+   <td style="text-align:left;"> Rickettsia </td>
    <td style="text-align:left;"> Rickettsia rickettsii </td>
    <td style="text-align:left;"> Negative, stains poorly </td>
    <td style="text-align:left;"> Small, rod-like coccobacillary </td>
@@ -252,7 +266,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Obligate intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Salmonella[27] </td>
+   <td style="text-align:left;"> Salmonella </td>
    <td style="text-align:left;"> Salmonella typhi Salmonella typhimurium </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Rods </td>
@@ -260,7 +274,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Facultative intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Shigella[29][40] </td>
+   <td style="text-align:left;"> Shigella </td>
    <td style="text-align:left;"> Shigella sonnei </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Rods </td>
@@ -268,7 +282,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Staphylococcus[4] </td>
+   <td style="text-align:left;"> Staphylococcus </td>
    <td style="text-align:left;"> Staphylococcus aureus Staphylococcus epidermidis Staphylococcus saprophyticus </td>
    <td style="text-align:left;"> Positive, darkly </td>
    <td style="text-align:left;"> Round cocci </td>
@@ -276,7 +290,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular, facultative intracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Streptococcus[27] </td>
+   <td style="text-align:left;"> Streptococcus </td>
    <td style="text-align:left;"> Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes </td>
    <td style="text-align:left;"> Positive </td>
    <td style="text-align:left;"> Ovoid to spherical </td>
@@ -284,7 +298,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Treponema[27] </td>
+   <td style="text-align:left;"> Treponema </td>
    <td style="text-align:left;"> Treponema pallidum </td>
    <td style="text-align:left;"> Negative, stains poorly </td>
    <td style="text-align:left;"> Spirochete </td>
@@ -292,15 +306,15 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ureaplasma[4] </td>
+   <td style="text-align:left;"> Ureaplasma </td>
    <td style="text-align:left;"> Ureaplasma urealyticum </td>
-   <td style="text-align:left;"> Stains poorly[41] </td>
+   <td style="text-align:left;"> Stains poorly </td>
    <td style="text-align:left;"> Indistinct, 'fried egg' appearance, no cell wall </td>
    <td style="text-align:left;"> Anaerobic </td>
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Vibrio[29][42] </td>
+   <td style="text-align:left;"> Vibrio </td>
    <td style="text-align:left;"> Vibrio cholerae </td>
    <td style="text-align:left;"> Negative </td>
    <td style="text-align:left;"> Spiral with single polar flagellum </td>
@@ -308,7 +322,7 @@ Many genera contain pathogenic bacterial species. They often possess characteris
    <td style="text-align:left;"> Extracellular </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Yersinia[29][43] </td>
+   <td style="text-align:left;"> Yersinia </td>
    <td style="text-align:left;"> Yersinia pestis Yersinia enterocolitica Yersinia pseudotuberculosis </td>
    <td style="text-align:left;"> Negative, bipolarly </td>
    <td style="text-align:left;"> Small rods </td>
@@ -351,7 +365,6 @@ Primary pathogens cause disease as a result of their presence or activity within
 
 Opportunistic pathogens can cause an infectious disease in a host with depressed resistance (immunodeficiency) or if they have unusual access to the inside of the body (for example, via trauma). Opportunistic infection may be caused by microbes ordinarily in contact with the host, such as pathogenic bacteria or fungi in the gastrointestinal or the upper respiratory tract, and they may also result from (otherwise innocuous) microbes acquired from other hosts (as in Clostridium difficile colitis) or from the environment as a result of traumatic introduction (as in surgical wound infections or compound fractures). An opportunistic disease requires impairment of host defenses, which may occur as a result of genetic defects (such as Chronic granulomatous disease,exposure to antimicrobial drugs or immunosuppressive chemicals (as might occur following poisoning or cancer chemotherapy), exposure to ionizing radiation, or as a result of an infectious disease with immunosuppressive activity (such as with measles, malaria or HIV disease). Primary pathogens may also cause more severe disease in a host with depressed resistance than would normally occur in an immunosufficient host.
 
-Secondary infection
 While a primary infection can practically be viewed as the root cause of an individual's current health problem, a secondary infection is a sequela or complication of that root cause. For example, an infection due to a burn or penetrating trauma (the root cause) is a secondary infection. Primary pathogens often cause primary infection and often cause secondary infection. Usually, opportunistic infections are viewed as secondary infections (because immunodeficiency or injury was the predisposing factor).
 
 Other types of infection consist of mixed, iatrogenic, nosocomial, and community-acquired infection. A mixed infection is an infection that is caused by two or more pathogens. An example of this is Appendicitis, which is caused by Bacteroides fragilis and Escherichia coli. The second is an iatrogenic infection. This type of infection is one that is transmitted from a health care worker to a patient. A nosocomial infection is also one that occurs in a health care setting. Nosocomial infections are those that are acquired during a hospital stay. Lastly, a community-acquired infection is one in which the infection is acquired from a whole community.
@@ -368,7 +381,6 @@ The symptoms of an infection depend on the type of disease. Some signs of infect
 
 In certain cases, infectious diseases may be asymptomatic for much or even all of their course in a given host. In the latter case, the disease may only be defined as a "disease" (which by definition means an illness) in hosts who secondarily become ill after contact with an asymptomatic carrier. An infection is not synonymous with an infectious disease, as some infections do not cause illness in a host.
 
-Bacterial or viral
 As bacterial and viral infections can both cause the same kinds of symptoms, it can be difficult to distinguish which is the cause of a specific infection. Distinguishing the two is important, since viral infections cannot be cured by antibiotics whereas bacterial infections can.
 
 There is a general chain of events that applies to infections. The chain of events involves several steps – which include the infectious agent, reservoir, entering a susceptible host, exit and transmission to new hosts. Each of the links must be present in a chronological order for an infection to develop. Understanding these steps helps health care workers target the infection and prevent it from occurring in the first place.

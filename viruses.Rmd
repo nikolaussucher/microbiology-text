@@ -163,7 +163,25 @@ Viruses are by far the most abundant biological entities on Earth and they outnu
 
 Examples of common human diseases caused by viruses include the common cold, influenza, chickenpox, and cold sores. Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. The relative ability of viruses to cause disease is described in terms of virulence. Other diseases are under investigation to discover if they have a virus as the causative agent, such as the possible connection between human herpesvirus 6 (HHV6) and neurological diseases such as multiple sclerosis and chronic fatigue syndrome. There is controversy over whether the bornavirus, previously thought to cause neurological diseases in horses, could be responsible for psychiatric illnesses in humans.
 
+(ref:virussize) [Virions of some of the most common human viruses with their relative size. Nucleic acids are not to scale. SARS stands as for SARS as for COVID-19, variola viruses for smallpox.](https://commons.wikimedia.org/wiki/File:Virus_size.png)
+
+```{r virions, fig.cap='(ref:virussize)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/virus/Virus_size.png")
+```
+
 Viruses have different mechanisms by which they produce disease in an organism, which depends largely on the viral species. Mechanisms at the cellular level primarily include cell lysis, the breaking open and subsequent death of the cell. In multicellular organisms, if enough cells die, the whole organism will start to suffer the effects. Although viruses cause disruption of healthy homeostasis, resulting in disease, they may exist relatively harmlessly within an organism. An example would include the ability of the herpes simplex virus, which causes cold sores, to remain in a dormant state within the human body. This is called latency and is a characteristic of the herpes viruses, including Epstein–Barr virus, which causes glandular fever, and varicella zoster virus, which causes chickenpox and shingles. Most people have been infected with at least one of these types of herpes virus. These latent viruses might sometimes be beneficial, as the presence of the virus can increase immunity against bacterial pathogens, such as Yersinia pestis.
+
+```{r viruschar, out.width='75%', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(printr)        
+library(kableExtra)
+setwd("~/Dropbox/R/microbiology-text")
+
+macro <-  as_tibble(read.csv("data/virus_characteristics.csv"))
+
+knitr::kable(macro, col.names = c("Type", "Family", "Transmission", "Diseases", "Treatment", "Prevention"), digits = 2, align = 'llllll', booktabs = TRUE, caption = "Clinically important virus families with  clinical characteristics.") %>% kable_styling(latex_options = c("striped", "hold_position")) 
+```
+
 
 Some viruses can cause lifelong or chronic infections, where the viruses continue to replicate in the body despite the host's defence mechanisms. This is common in hepatitis B virus and hepatitis C virus infections. People chronically infected are known as carriers, as they serve as reservoirs of infectious virus. In populations with a high proportion of carriers, the disease is said to be endemic.
 

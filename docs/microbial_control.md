@@ -16,32 +16,6 @@ An antiseptic (from Greek ἀντί anti, "against" and σηπτικός sēptik
 
 Antibacterials include antiseptics that have the proven ability to act against bacteria. Microbicides which destroy virus particles are called viricides or antivirals. Antifungals, also known as antimycotics, are pharmaceutical fungicides used to treat and prevent mycosis (fungal infection).
 
-The widespread introduction of antiseptic surgical methods was initiated by the publishing of the paper Antiseptic Principle of the Practice of Surgery in 1867 by Joseph Lister, which was inspired by Louis Pasteur's germ theory of putrefaction. In this paper, Lister advocated the use of carbolic acid (phenol) as a method of ensuring that any germs present were killed. Some of this work was anticipated by:
-
-(ref:carbolic) [Lister's carbolic steam spray apparatus, Hunterian Museum, Glasgow.](https://commons.wikimedia.org/wiki/File:Lister%27s_carbolic_steam_spray_apparatus,_Hunterian_Museum,_Glasgow.jpg)
-
-<div class="figure" style="text-align: center">
-<img src="./figures/microbial_control/Lister's_carbolic_steam_spray_apparatus,_Hunterian_Museum,_Glasgow.jpg" alt="(ref:carbolic)" width="70%" />
-<p class="caption">(\#fig:carbolicsteam)(ref:carbolic)</p>
-</div>
-
-* Ancient Greek physicians Galen (circa 130–200) and Hippocrates (circa 400 BC) and Sumerian clay tablets dating from 2150 BC that advocate the use of similar techniques.
-* Medieval surgeons Hugh of Lucca, Theoderic of Servia, and his pupil Henri de Mondeville were opponents of Galen's opinion that pus was important to healing, which had led ancient and medieval surgeons to let pus remain in wounds. They advocated draining and cleaning the wound edges with wine, dressing the wound after suturing, if necessary and leaving the dressing on for ten days, soaking it in warm wine all the while, before changing it. Their theories were bitterly opposed by Galenist Guy de Chauliac and others trained in the classical tradition.
-* Oliver Wendell Holmes, Sr., who published The Contagiousness of Puerperal Fever in 1843
-* Florence Nightingale, who contributed substantially to the report of the Royal Commission on the Health of the Army (1856–1857), based on her earlier work
-* Ignaz Semmelweis, who published his work The Cause, Concept and Prophylaxis of Childbed Fever in 1861, summarizing experiments and observations since 1847]
-
-Antiseptics can be subdivided into about eight classes of materials. These classes can be subdivided according to their mechanism of action: small molecules that indescrimantly react with organic compounds and kill microorganisms (peroxides, iodine, phenols) and more complex molecules that disrupt the cell walls of the bacteria.
-
-* Phenols such as phenol itself (as introduced by Lister) and triclosan, hexachlorophene, chlorocresol, and chloroxylenol. The latter is used for skin disinfection and cleaning surgical instruments. It is also used within a number of household disinfectants and wound cleaners.
-* Diguanides including chlorhexidine gluconate, a bacteriocidal antiseptic which (with an alcoholic solvent) is the most effective at reducing the risk of infection after surgery. It is also used in mouthwashes to treat inflammation of the gums (gingivitis). Polyhexanide (polyhexamethylene biguanide, PHMB) is an antimicrobial compound suitable for clinical use in critically colonized or infected acute and chronic wounds. The physicochemical action on the bacterial envelope prevents or impedes the development of resistant bacterial strains.
-* Quinolines such as hydroxyquinolone, dequalium chloride, or chlorquinaldol.
-* Alcohols, including ethanol and 2-propanol/isopropanol are sometimes referred to as surgical spirit. They are used to disinfect the skin before injections, among other uses.
-* Peroxides, such as hydrogen peroxide and benzoyl peroxide. Commonly, 3% solutions of hydrogen peroxide have been used in household first aid for scrapes, etc. However, the strong oxidization causes scar formation and increases healing time during fetal development.
-* Iodine, especially in the form of povidone-iodine, is widely used because it is well tolerated, does not negatively affect wound healing, leaves a deposit of active iodine, thereby creating the so-called "remnant", or persistent, effect, and has wide scope of antimicrobial activity. The traditional iodine antiseptic is an alcohol solution (called tincture of iodine) or as Lugol's iodine solution. Some studies  do not recommend disinfecting minor wounds with iodine because of concern that it may induce scar tissue formation and increase healing time. However, concentrations of 1% iodine or less have not been shown to increase healing time and are not otherwise distinguishable from treatment with saline. Iodine will kill all principal pathogens and, given enough time, even spores, which are considered to be the most difficult form of microorganisms to be inactivated by disinfectants and antiseptics.
-* Octenidine dihydrochloride, currently increasingly used in continental Europe, often as a chlorhexidine substitute.
-* Quat salts such as benzalkonium chloride, cetylpyridinium chloride, or cetrimide. These surfactants disrupt cell walls.
-
 ## Sterilization
 
 One of the first steps toward modernized sterilization was made by Nicolas Appert who discovered that thorough application of heat over a suitable period slowed the decay of foods and various liquids, preserving them for safe consumption for a longer time than was typical. Canning of foods is an extension of the same principle and has helped to reduce food borne illness ("food poisoning"). Other methods of sterilizing foods include food irradiation and high pressure (pascalization). One process by which food is sterilized is heat treatment. Heat treatment ceases bacterial and enzyme activity which then leads to decreasing the chances of low quality foods while maintaining the life of non-perishable foods. One specific type of heat treatment used is UHT (Ultra-High Temperature) sterilization. This type of heat treatment focuses on sterilization over 100 degrees Celsius. Two types of UHT sterilization are moist and dry heat sterilization. During moist heat sterilization, the temperatures that are used vary from 110 to 130 degrees Celsius. Moist heat sterilization takes between 20 and 40 minutes, the time being shorter the higher the temperature. The use of dry heat sterilization uses longer times of susceptibility that may last up to 2 hours and that use much higher temperatures compared to moist heat sterilization. These temperatures may range from 160 to 180 degrees Celsius.
@@ -455,8 +429,6 @@ An antiseptic (from Greek ἀντί anti, "against" and σηπτικός sēptik
 
 Antibacterials include antiseptics that have the proven ability to act against bacteria. Microbicides which destroy virus particles are called viricides or antivirals. Antifungals, also known as antimycotics, are pharmaceutical fungicides used to treat and prevent mycosis (fungal infection).
 
-The widespread introduction of antiseptic surgical methods was initiated by the publishing of the paper Antiseptic Principle of the Practice of Surgery in 1867 by Joseph Lister, which was inspired by Louis Pasteur's germ theory of putrefaction. In this paper, Lister advocated the use of carbolic acid (phenol) as a method of ensuring that any germs present were killed. Some of this work was anticipated by:
-
 (ref:lister) [The surgeon Joseph Lister in 1902.](https://commons.wikimedia.org/wiki/File:Joseph_Lister_1902.jpg)
 
 <div class="figure" style="text-align: center">
@@ -464,22 +436,28 @@ The widespread introduction of antiseptic surgical methods was initiated by the 
 <p class="caption">(\#fig:listerphoto)(ref:lister)</p>
 </div>
 
+(ref:carbolic) [Lister's carbolic steam spray apparatus, Hunterian Museum, Glasgow.](https://commons.wikimedia.org/wiki/File:Lister%27s_carbolic_steam_spray_apparatus,_Hunterian_Museum,_Glasgow.jpg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/microbial_control/Lister's_carbolic_steam_spray_apparatus,_Hunterian_Museum,_Glasgow.jpg" alt="(ref:carbolic)" width="70%" />
+<p class="caption">(\#fig:carbolicsteam)(ref:carbolic)</p>
+</div>
+
+The widespread introduction of antiseptic surgical methods was initiated by the publishing of the paper Antiseptic Principle of the Practice of Surgery in 1867 by Joseph Lister, which was inspired by Louis Pasteur's germ theory of putrefaction. In this paper, Lister advocated the use of carbolic acid (phenol) as a method of ensuring that any germs present were killed. Some of this work was anticipated by:
+
 * Ancient Greek physicians Galen (circa 130–200) and Hippocrates (circa 400 BC) and Sumerian clay tablets dating from 2150 BC that advocate the use of similar techniques.
 * Medieval surgeons Hugh of Lucca, Theoderic of Servia, and his pupil Henri de Mondeville were opponents of Galen's opinion that pus was important to healing, which had led ancient and medieval surgeons to let pus remain in wounds. They advocated draining and cleaning the wound edges with wine, dressing the wound after suturing, if necessary and leaving the dressing on for ten days, soaking it in warm wine all the while, before changing it. Their theories were bitterly opposed by Galenist Guy de Chauliac and others trained in the classical tradition.
 * Oliver Wendell Holmes, Sr., who published The Contagiousness of Puerperal Fever in 1843
 * Florence Nightingale, who contributed substantially to the report of the Royal Commission on the Health of the Army (1856–1857), based on her earlier work
 * Ignaz Semmelweis, who published his work The Cause, Concept and Prophylaxis of Childbed Fever in 1861, summarizing experiments and observations since 1847]
-Some common antiseptics
-￼
-Structure of povidone-iodine complex, the most common antiseptic in use today.
+
 Antiseptics can be subdivided into about eight classes of materials. These classes can be subdivided according to their mechanism of action: small molecules that indescrimantly react with organic compounds and kill microorganisms (peroxides, iodine, phenols) and more complex molecules that disrupt the cell walls of the bacteria.
 
-Phenols such as phenol itself (as introduced by Lister) and triclosan, hexachlorophene, chlorocresol, and chloroxylenol. The latter is used for skin disinfection and cleaning surgical instruments. It is also used within a number of household disinfectants and wound cleaners.
-Diguanides including chlorhexidine gluconate, a bacteriocidal antiseptic which (with an alcoholic solvent) is the most effective at reducing the risk of infection after surgery. It is also used in mouthwashes to treat inflammation of the gums (gingivitis). Polyhexanide (polyhexamethylene biguanide, PHMB) is an antimicrobial compound suitable for clinical use in critically colonized or infected acute and chronic wounds. The physicochemical action on the bacterial envelope prevents or impedes the development of resistant bacterial strains.
-Quinolines such as hydroxyquinolone, dequalium chloride, or chlorquinaldol.
-Alcohols, including ethanol and 2-propanol/isopropanol are sometimes referred to as surgical spirit. They are used to disinfect the skin before injections, among other uses.
-Peroxides, such as hydrogen peroxide and benzoyl peroxide. Commonly, 3% solutions of hydrogen peroxide have been used in household first aid for scrapes, etc. However, the strong oxidization causes scar formation and increases healing time during fetal development.
-Iodine, especially in the form of povidone-iodine, is widely used because it is well tolerated, does not negatively affect wound healing, leaves a deposit of active iodine, thereby creating the so-called "remnant", or persistent, effect, and has wide scope of antimicrobial activity. The traditional iodine antiseptic is an alcohol solution (called tincture of iodine) or as Lugol's iodine solution. Some studies  do not recommend disinfecting minor wounds with iodine because of concern that it may induce scar tissue formation and increase healing time. However, concentrations of 1% iodine or less have not been shown to increase healing time and are not otherwise distinguishable from treatment with saline. Iodine will kill all principal pathogens and, given enough time, even spores, which are considered to be the most difficult form of microorganisms to be inactivated by disinfectants and antiseptics.
-Octenidine dihydrochloride, currently increasingly used in continental Europe, often as a chlorhexidine substitute.
-Quat salts such as benzalkonium chloride, cetylpyridinium chloride, or cetrimide. These surfactants disrupt cell walls.
-
+* Phenols such as phenol itself (as introduced by Lister) and triclosan, hexachlorophene, chlorocresol, and chloroxylenol. The latter is used for skin disinfection and cleaning surgical instruments. It is also used within a number of household disinfectants and wound cleaners.
+* Diguanides including chlorhexidine gluconate, a bacteriocidal antiseptic which (with an alcoholic solvent) is the most effective at reducing the risk of infection after surgery. It is also used in mouthwashes to treat inflammation of the gums (gingivitis). Polyhexanide (polyhexamethylene biguanide, PHMB) is an antimicrobial compound suitable for clinical use in critically colonized or infected acute and chronic wounds. The physicochemical action on the bacterial envelope prevents or impedes the development of resistant bacterial strains.
+* Quinolines such as hydroxyquinolone, dequalium chloride, or chlorquinaldol.
+* Alcohols, including ethanol and 2-propanol/isopropanol are sometimes referred to as surgical spirit. They are used to disinfect the skin before injections, among other uses.
+* Peroxides, such as hydrogen peroxide and benzoyl peroxide. Commonly, 3% solutions of hydrogen peroxide have been used in household first aid for scrapes, etc. However, the strong oxidization causes scar formation and increases healing time during fetal development.
+* Iodine, especially in the form of povidone-iodine, is widely used because it is well tolerated, does not negatively affect wound healing, leaves a deposit of active iodine, thereby creating the so-called "remnant", or persistent, effect, and has wide scope of antimicrobial activity. The traditional iodine antiseptic is an alcohol solution (called tincture of iodine) or as Lugol's iodine solution. Some studies  do not recommend disinfecting minor wounds with iodine because of concern that it may induce scar tissue formation and increase healing time. However, concentrations of 1% iodine or less have not been shown to increase healing time and are not otherwise distinguishable from treatment with saline. Iodine will kill all principal pathogens and, given enough time, even spores, which are considered to be the most difficult form of microorganisms to be inactivated by disinfectants and antiseptics.
+* Octenidine dihydrochloride, currently increasingly used in continental Europe, often as a chlorhexidine substitute.
+* Quat salts such as benzalkonium chloride, cetylpyridinium chloride, or cetrimide. These surfactants disrupt cell walls.

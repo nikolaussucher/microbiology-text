@@ -4,11 +4,23 @@
 
 Pathogenic bacteria are bacteria that can cause disease. This chapter focuses on the bacteria that are pathogenic to humans. Most species of bacteria are harmless and are often beneficial but others can cause infectious diseases. The number of these pathogenic species in humans is estimated to be fewer than a hundred. By contrast, several thousand species are part of the gut flora present in the digestive tract.
 
+(ref:neiss) [Neisseria gonorrhoea in pus from a man with a purulent urethral discharge - Gram stain.](https://commons.wikimedia.org/wiki/File:Neisseria_gonorrhoea_in_pus_-_Gram_stain.jpg)
+
+```{r neisseriagon, fig.cap='(ref:neiss)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/infection/Neisseria_gonorrhoea_in_pus_-_Gram_stain.jpg")
+```
+
 The body is continually exposed to many species of bacteria, including beneficial commensals, which grow on the skin and mucous membranes, and saprophytes, which grow mainly in the soil and in decaying matter. The blood and tissue fluids contain nutrients sufficient to sustain the growth of many bacteria. The body has defence mechanisms that enable it to resist microbial invasion of its tissues and give it a natural immunity or innate resistance against many microorganisms.
 
 Pathogenic bacteria are specially adapted and endowed with mechanisms for overcoming the normal body defences, and can invade parts of the body, such as the blood, where bacteria are not normally found. Some pathogens invade only the surface epithelium, skin or mucous membrane, but many travel more deeply, spreading through the tissues and disseminating by the lymphatic and blood streams. In some rare cases a pathogenic microbe can infect an entirely healthy person, but infection usually occurs only if the body's defence mechanisms are damaged by some local trauma or an underlying debilitating disease, such as wounding, intoxication, chilling, fatigue, and malnutrition. In many cases, it is important to differentiate infection and colonization, which is when the bacteria are causing little or no harm.
 
 Caused by Mycobacterium tuberculosis bacteria, one of the diseases with the highest disease burden is tuberculosis, which killed 1.4 million people in 2019, mostly in sub-Saharan Africa. Pathogenic bacteria contribute to other globally important diseases, such as pneumonia, which can be caused by bacteria such as Streptococcus, Pneumococcus and Pseudomonas, and foodborne illnesses, which can be caused by bacteria such as Shigella, Campylobacter, and Salmonella. Pathogenic bacteria also cause infections such as tetanus, typhoid fever, diphtheria, syphilis, and leprosy. Pathogenic bacteria are also the cause of high infant mortality rates in developing countries.
+
+(ref:mycob) [A close-up photogrpaph of a Mycobacterium tuberculosis culture revealing this organism’s colonial morphology. Note the colorless rough surface, which are typical morphologic characteristics seen in Mycobacterium tuberculosis colonial growth. Macroscopic examination of colonial growth patterns is still one of the ways microorganisms are often identified.](https://commons.wikimedia.org/wiki/File:TB_Culture.jpg)
+
+```{r mycobacteriu,, fig.cap='(ref:mycob)', echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./figures/infection/TB_Culture.jpg")
+```
 
 Most pathogenic bacteria can be grown in cultures and identifed by Gram stain and other methods. Bacteria grown in this way are often tested to find which antibiotics will be an effective treatment for the infection. For hitherto unknown pathogens, Koch's postulates are the standard to establish a causative relationship between a microbe and a disease.
 
@@ -57,7 +69,7 @@ Bacterial infections may be treated with antibiotics, which are classified as ba
 
 Infections can be prevented by antiseptic measures such as sterilizing the skin prior to piercing it with the needle of a syringe and by proper care of indwelling catheters. Surgical and dental instruments are also sterilized to prevent infection by bacteria. Disinfectants such as bleach are used to kill bacteria or other pathogens on surfaces to prevent contamination and further reduce the risk of infection. Bacteria in food are killed by cooking to temperatures above 73 °C (163 °F).
 
-### List of genera and microscopy features
+### List Of Genera And Microscopy Features
 
 Many genera contain pathogenic bacterial species. They often possess characteristics that help to classify and organize them into groups. The following is a partial listing.
 
@@ -70,7 +82,7 @@ setwd("~/Dropbox/R/microbiology-text")
 
 macro <-  as_tibble(read.csv("data/pathogens.csv"))
 
-knitr::kable(macro, col.names = c("Genus", "Species", "Gram staining", "Shape", "Oxygen requirement", "Intra/Extracellular"), digits = 2, align = 'llllll', booktabs = TRUE, caption = "The three essential polymeric macromolecules of life") %>% kable_styling(latex_options = c("striped", "hold_position")) 
+knitr::kable(macro, col.names = c("Genus", "Species", "Gram staining", "Shape", "Oxygen requirement", "Intra/Extracellular"), digits = 2, align = 'llllll', booktabs = TRUE, caption = "List of genera of pathogenic bacteria and microscopy features.") %>% kable_styling(latex_options = c("striped", "hold_position")) 
 ```
 
 ## Infection
@@ -106,7 +118,6 @@ Primary pathogens cause disease as a result of their presence or activity within
 
 Opportunistic pathogens can cause an infectious disease in a host with depressed resistance (immunodeficiency) or if they have unusual access to the inside of the body (for example, via trauma). Opportunistic infection may be caused by microbes ordinarily in contact with the host, such as pathogenic bacteria or fungi in the gastrointestinal or the upper respiratory tract, and they may also result from (otherwise innocuous) microbes acquired from other hosts (as in Clostridium difficile colitis) or from the environment as a result of traumatic introduction (as in surgical wound infections or compound fractures). An opportunistic disease requires impairment of host defenses, which may occur as a result of genetic defects (such as Chronic granulomatous disease,exposure to antimicrobial drugs or immunosuppressive chemicals (as might occur following poisoning or cancer chemotherapy), exposure to ionizing radiation, or as a result of an infectious disease with immunosuppressive activity (such as with measles, malaria or HIV disease). Primary pathogens may also cause more severe disease in a host with depressed resistance than would normally occur in an immunosufficient host.
 
-Secondary infection
 While a primary infection can practically be viewed as the root cause of an individual's current health problem, a secondary infection is a sequela or complication of that root cause. For example, an infection due to a burn or penetrating trauma (the root cause) is a secondary infection. Primary pathogens often cause primary infection and often cause secondary infection. Usually, opportunistic infections are viewed as secondary infections (because immunodeficiency or injury was the predisposing factor).
 
 Other types of infection consist of mixed, iatrogenic, nosocomial, and community-acquired infection. A mixed infection is an infection that is caused by two or more pathogens. An example of this is Appendicitis, which is caused by Bacteroides fragilis and Escherichia coli. The second is an iatrogenic infection. This type of infection is one that is transmitted from a health care worker to a patient. A nosocomial infection is also one that occurs in a health care setting. Nosocomial infections are those that are acquired during a hospital stay. Lastly, a community-acquired infection is one in which the infection is acquired from a whole community.
@@ -123,7 +134,6 @@ The symptoms of an infection depend on the type of disease. Some signs of infect
 
 In certain cases, infectious diseases may be asymptomatic for much or even all of their course in a given host. In the latter case, the disease may only be defined as a "disease" (which by definition means an illness) in hosts who secondarily become ill after contact with an asymptomatic carrier. An infection is not synonymous with an infectious disease, as some infections do not cause illness in a host.
 
-Bacterial or viral
 As bacterial and viral infections can both cause the same kinds of symptoms, it can be difficult to distinguish which is the cause of a specific infection. Distinguishing the two is important, since viral infections cannot be cured by antibiotics whereas bacterial infections can.
 
 There is a general chain of events that applies to infections. The chain of events involves several steps – which include the infectious agent, reservoir, entering a susceptible host, exit and transmission to new hosts. Each of the links must be present in a chronological order for an infection to develop. Understanding these steps helps health care workers target the infection and prevent it from occurring in the first place.
