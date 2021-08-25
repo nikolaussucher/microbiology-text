@@ -166,10 +166,13 @@ fig:raduralogo
 fig:listerphoto
 fig:carbolicsteam
 fig:antibiotics
+fig:penicillinecore
 tab:composition
 tab:suszeptibility
 fig:sryribosome
 tab:resistance
+fig:kirbybauer
+fig:kbtesting
 fig:neisseriagon
 tab:path
 fig:lymphaticsystem

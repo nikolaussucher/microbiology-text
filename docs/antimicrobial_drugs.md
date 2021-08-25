@@ -98,6 +98,13 @@ The first sulfonamide and the first systemically active antibacterial drug, Pron
 
 Penicillins (P, PCN or PEN) are a group of antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. Most penicillins in clinical use are chemically synthesised from naturally-produced penicillins. A number of natural penicillins have been discovered, but only two purified compounds are in clinical use: penicillin G (intravenous use) and penicillin V (given by mouth). Penicillins were among the first medications to be effective against many bacterial infections caused by staphylococci and streptococci. They are members of the β-lactam antibiotics. They are still widely used today for different bacterial infections, though many types of bacteria have developed resistance following extensive use.
 
+(ref:pencor) [Penicillin core structure, where "R" is the variable group](https://commons.wikimedia.org/wiki/File:Penicillin_core.svg)
+
+<div class="figure" style="text-align: center">
+<img src="./figures/drugs/Penicillin_core.svg" alt="(ref:pencor)" width="70%" />
+<p class="caption">(\#fig:penicillinecore)(ref:pencor)</p>
+</div>
+
 About 10% of people report that they are allergic to penicillin; however, up to 90% of this group may not actually be allergic. Serious allergies only occur in about 0.03%.[for whom?] Those who are allergic to penicillin are most often given cephalosporin C (another β-lactam antibiotic) because there is only 10% crossover in allergy between the penicillins and cephalosporins.
 
 Starting in the late 19th century there had been reports of the antibacterial properties of Penicillium mould, but scientists were unable to discern what process was causing the effect. Scottish physician Alexander Fleming at St Mary's Hospital in London (now part of Imperial College) was the first to show that Penicillium rubens had antibacterial properties. On 3 September 1928 he observed that fungal contamination of a bacterial culture (Staphylococcus aureus) appeared to kill the bacteria. He confirmed this observation with a new experiment on 28 September 1928. He published his experiment in 1929, and called the antibacterial substance (the fungal extract) penicillin.
@@ -191,12 +198,12 @@ Ureidopenicillins*
 The term "penicillin", when used by itself, may refer to either of two chemical compounds, penicillin G or penicillin V.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:composition)The three essential polymeric macromolecules of life</caption>
+<caption>(\#tab:composition)The term penicillin, when used by itself, may refer to either of two chemical compounds, penicillin G or penicillin V.</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Common name </th>
    <th style="text-align:left;"> Chemical name </th>
-   <th style="text-align:left;"> Method ofadministration </th>
+   <th style="text-align:left;"> Method of administration </th>
   </tr>
  </thead>
 <tbody>
@@ -223,7 +230,7 @@ Because penicillin resistance is now so common, other antibiotics are now the pr
 
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:suszeptibility)The three essential polymeric macromolecules of life</caption>
+<caption>(\#tab:suszeptibility)Bacterial susceptibility to penicillin</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Bacterium </th>
@@ -369,21 +376,21 @@ Aminoglycoside can cause inner ear toxicity which can result in sensorineural he
 
 ## Drug Resistance
 
-Drug resistance is the reduction in effectiveness of a medication such as an antimicrobial or an antineoplastic in treating a disease or condition.[1] The term is used in the context of resistance that pathogens or cancers have "acquired", that is, resistance has evolved. Antimicrobial resistance and antineoplastic resistance challenge clinical care and drive research. When an organism is resistant to more than one drug, it is said to be multidrug-resistant.
+Drug resistance is the reduction in effectiveness of a medication such as an antimicrobial or an antineoplastic in treating a disease or condition. The term is used in the context of resistance that pathogens or cancers have "acquired", that is, resistance has evolved. Antimicrobial resistance and antineoplastic resistance challenge clinical care and drive research. When an organism is resistant to more than one drug, it is said to be multidrug-resistant.
 
-The development of antibiotic resistance in particular stems from the drugs targeting only specific bacterial molecules (almost always proteins). Because the drug is so specific, any mutation in these molecules will interfere with or negate its destructive effect, resulting in antibiotic resistance.[2] Furthermore, there is mounting concern over the abuse of antibiotics in the farming of livestock, which in the European Union alone accounts for three times the volume dispensed to humans – leading to development of super-resistant bacteria.[3][4]
+The development of antibiotic resistance in particular stems from the drugs targeting only specific bacterial molecules (almost always proteins). Because the drug is so specific, any mutation in these molecules will interfere with or negate its destructive effect, resulting in antibiotic resistance. Furthermore, there is mounting concern over the abuse of antibiotics in the farming of livestock, which in the European Union alone accounts for three times the volume dispensed to humans – leading to development of super-resistant bacteria.
 
-Bacteria are capable of not only altering the enzyme targeted by antibiotics, but also by the use of enzymes to modify the antibiotic itself and thus neutralize it. Examples of target-altering pathogens are Staphylococcus aureus, vancomycin-resistant enterococci and macrolide-resistant Streptococcus, while examples of antibiotic-modifying microbes are Pseudomonas aeruginosa and aminoglycoside-resistant Acinetobacter baumannii.[5]
+Bacteria are capable of not only altering the enzyme targeted by antibiotics, but also by the use of enzymes to modify the antibiotic itself and thus neutralize it. Examples of target-altering pathogens are Staphylococcus aureus, vancomycin-resistant enterococci and macrolide-resistant Streptococcus, while examples of antibiotic-modifying microbes are Pseudomonas aeruginosa and aminoglycoside-resistant Acinetobacter baumannii.
 
-In short, the lack of concerted effort by governments and the pharmaceutical industry, together with the innate capacity of microbes to develop resistance at a rate that outpaces development of new drugs, suggests that existing strategies for developing viable, long-term anti-microbial therapies are ultimately doomed to failure. Without alternative strategies, the acquisition of drug resistance by pathogenic microorganisms looms as possibly one of the most significant public health threats facing humanity in the 21st century.[6] Some of the best alternative sources to reduce the chance of antibiotic resistance are probiotics, prebiotics, dietary fibers, enzymes, organic acids, phytogenics.
+In short, the lack of concerted effort by governments and the pharmaceutical industry, together with the innate capacity of microbes to develop resistance at a rate that outpaces development of new drugs, suggests that existing strategies for developing viable, long-term anti-microbial therapies are ultimately doomed to failure. Without alternative strategies, the acquisition of drug resistance by pathogenic microorganisms looms as possibly one of the most significant public health threats facing humanity in the 21st century. Some of the best alternative sources to reduce the chance of antibiotic resistance are probiotics, prebiotics, dietary fibers, enzymes, organic acids, phytogenics.
 
-Drug, toxin, or chemical resistance is a consequence of evolution and is a response to pressures imposed on any living organism. Individual organisms vary in their sensitivity to the drug used and some with greater fitness may be capable of surviving drug treatment. Drug-resistant traits are accordingly inherited by subsequent offspring, resulting in a population that is more drug-resistant. Unless the drug used makes sexual reproduction or cell-division or horizontal gene transfer impossible in the entire target population, resistance to the drug will inevitably follow. This can be seen in cancerous tumors where some cells may develop resistance to the drugs used in chemotherapy.[9] Chemotherapy causes fibroblasts near tumors to produce large amounts of the protein WNT16B. This protein stimulates the growth of cancer cells which are drug-resistant.[10] MicroRNAs have also been shown to affect acquired drug resistance in cancer cells and this can be used for therapeutic purposes.[11] Malaria in 2012 has become a resurgent threat in South East Asia and sub-Saharan Africa, and drug-resistant strains of Plasmodium falciparum are posing massive problems for health authorities.[12][13] Leprosy has shown an increasing resistance to dapsone.
+Drug, toxin, or chemical resistance is a consequence of evolution and is a response to pressures imposed on any living organism. Individual organisms vary in their sensitivity to the drug used and some with greater fitness may be capable of surviving drug treatment. Drug-resistant traits are accordingly inherited by subsequent offspring, resulting in a population that is more drug-resistant. Unless the drug used makes sexual reproduction or cell-division or horizontal gene transfer impossible in the entire target population, resistance to the drug will inevitably follow. This can be seen in cancerous tumors where some cells may develop resistance to the drugs used in chemotherapy. Chemotherapy causes fibroblasts near tumors to produce large amounts of the protein WNT16B. This protein stimulates the growth of cancer cells which are drug-resistant. MicroRNAs have also been shown to affect acquired drug resistance in cancer cells and this can be used for therapeutic purposes. Malaria in 2012 has become a resurgent threat in South East Asia and sub-Saharan Africa, and drug-resistant strains of Plasmodium falciparum are posing massive problems for health authorities. Leprosy has shown an increasing resistance to dapsone.
 
-A rapid process of sharing resistance exists among single-celled organisms, and is termed horizontal gene transfer in which there is a direct exchange of genes, particularly in the biofilm state.[14] A similar asexual method is used by fungi and is called "parasexuality". Examples of drug-resistant strains are to be found in microorganisms[15] such as bacteria and viruses, parasites both endo- and ecto-, plants, fungi, arthropods,[16][17] mammals,[18] birds,[19] reptiles,[20] fish, and amphibians.[20]
+A rapid process of sharing resistance exists among single-celled organisms, and is termed horizontal gene transfer in which there is a direct exchange of genes, particularly in the biofilm state. A similar asexual method is used by fungi and is called "parasexuality". Examples of drug-resistant strains are to be found in microorganisms such as bacteria and viruses, parasites both endo- and ecto-, plants, fungi, arthropods, mammals, birds, reptiles, fish, and amphibians.
 
-In the domestic environment, drug-resistant strains of organism may arise from seemingly safe activities such as the use of bleach,[21] tooth-brushing and mouthwashing,[22] the use of antibiotics, disinfectants and detergents, shampoos, and soaps, particularly antibacterial soaps,[23][24] hand-washing,[25] surface sprays, application of deodorants, sunblocks and any cosmetic or health-care product, insecticides, and dips.[26] The chemicals contained in these preparations, besides harming beneficial organisms, may intentionally or inadvertently target organisms that have the potential to develop resistance.[27]
+In the domestic environment, drug-resistant strains of organism may arise from seemingly safe activities such as the use of bleach, tooth-brushing and mouthwashing, the use of antibiotics, disinfectants and detergents, shampoos, and soaps, particularly antibacterial soaps, hand-washing, surface sprays, application of deodorants, sunblocks and any cosmetic or health-care product, insecticides, and dips. The chemicals contained in these preparations, besides harming beneficial organisms, may intentionally or inadvertently target organisms that have the potential to develop resistance.
 
-The four main mechanisms by which microorganisms exhibit resistance to antimicrobials are:[28][29]
+The four main mechanisms by which microorganisms exhibit resistance to antimicrobials are:
 
 * Drug inactivation or modification: e.g., enzymatic deactivation of Penicillin G in some penicillin-resistant bacteria through the production of β-lactamases.
 * Alteration of target site: e.g., alteration of PBP — the binding target site of penicillins — in MRSA and other penicillin-resistant bacteria.
@@ -391,7 +398,7 @@ The four main mechanisms by which microorganisms exhibit resistance to antimicro
 * Reduced drug accumulation: by decreasing drug permeability and/or increasing active efflux (pumping out) of the drugs across the cell surface.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
-<caption>(\#tab:resistance)The three essential polymeric macromolecules of life</caption>
+<caption>(\#tab:resistance)Mechanisms of Acquired Drug Resistance</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> Mechanism </th>
@@ -447,7 +454,21 @@ Antibiotic susceptibility testing has occurred since the discovery of the beta-l
 
 The disk diffusion test (also known as the agar diffusion test, Kirby–Bauer test, disc-diffusion antibiotic susceptibility test, disc-diffusion antibiotic sensitivity test and KB test) is a culture-based microbiology assay used in diagnostic and drug discovery laboratories. In diagnostic labs, the assay is used to determine the susceptibility of bacteria isolated from a patient's infection to clinically approved antibiotics. This allows physicians to prescribe the most appropriate antibiotic treatment. In drug discovery labs, especially bioprospecting labs, the assay is used to screen biological material (e.g. plant extracts, bacterial fermentation broths) and drug candidates for antibacterial activity. When bioprospecting, the assay can be performed with paired strains of bacteria to achieve dereplication and provisionally identify antibacterial mechanism of action.
 
+(ref:kirby) [The disk diffusion agar method](https://commons.wikimedia.org/wiki/File:Agar_Diffusion_Method_1.jpg) tests the effectiveness of antibiotics on a specific microorganism. An agar plate is first spread with bacteria, then paper disks of antibiotics are added. The bacteria is allowed to grow on the agar media, and then observed. The amount of space around each antibiotic plate indicates the lethality of that antibiotic on the bacteria in question. Highly effective antibiotics (disk C) will produce a wide ring of no bacterial growth, while an ineffective antibiotic (disk A) will show no change in the surrounding bacterial concentration at all. The effectiveness of intermediate antibiotics (disk B) can be measured using their zone of inhibition. This method is used to determine the best antibiotic to use against a new or drug-resistant pathogen.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/drugs/Agar_Diffusion_Method_1.jpg" alt="(ref:kirby)" width="70%" />
+<p class="caption">(\#fig:kirbybauer)(ref:kirby)</p>
+</div>
+
 In diagnostic laboratories, the test is performed by inoculating the surface of an agar plate with bacteria isolated from a patient's infection. Antibiotic-containing paper disks are then applied to the agar and the plate is incubated. If an antibiotic stops the bacteria from growing or kills the bacteria, there will be an area around the disk where the bacteria have not grown enough to be visible. This is called a zone of inhibition. The susceptibility of the bacterial isolate to each antibiotic can then be semi-quantified by comparing the size of these zones of inhibition to databases of information on known antibiotic-susceptible, moderately susceptible and resistant bacteria. In this way, it is possible to identify the most appropriate antibiotic for treating a patient's infection. Although the disk diffusion test cannot be used to differentiate bacteriostatic and bactericidal activity, it is less cumbersome than other susceptibility test methods such as broth dilution.
+
+(ref:kbtest) [Standard Kirby–Bauer testing:](https://commons.wikimedia.org/wiki/File:KB_test.jpg) White disks containing antibiotics shown on an agar plate of bacteria. Circular zones of poor bacterial growth surround some disks, indicating susceptibility to the antibiotic.
+
+<div class="figure" style="text-align: center">
+<img src="./figures/drugs/KB_test.jpg" alt="(ref:kbtest)" width="70%" />
+<p class="caption">(\#fig:kbtesting)(ref:kbtest)</p>
+</div>
 
 In drug discovery labs, the disk diffusion test is performed slightly differently than in diagnostic labs. In this setting, it is not the bacterial strain that must be characterized, but a test extract (e.g. a plant or microbial extract). The agar plate is therefore inoculated with a bacterial strain of known phenotype (often an ATCC or NCTC strain), and disks containing the test extract are applied to the surface. Zone of inhibition sizes cannot be used as a semi-quantitative measure of antibacterial potency because different extracts contain molecules with different diffusion characteristics (different molecular sizes, hydrophilicities etc.). Zone of inhibition sizes can be used for the purpose of dereplication though. This is achieved by testing each extract against paired strains of bacteria (e.g. streptomycin-susceptible and -resistant strains to identify streptomycin-containing extracts). Paired strains (e.g. wild type and target overexpressing strains) can also be used to identify antibacterial mechanism of action.
 
