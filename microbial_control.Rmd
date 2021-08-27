@@ -28,15 +28,15 @@ Most medical and surgical devices used in healthcare facilities are made of mate
 
 Steam sterilization is the most widely used and the most dependable. Steam sterilization is nontoxic, inexpensive, rapidly microbicidal, sporicidal, and rapidly heats and penetrates fabrics.
 
-The aim of sterilization is the reduction of initially present microorganisms or other potential pathogens. The degree of sterilization is commonly expressed by multiples of the decimal reduction time, or D-value, denoting the time needed to reduce the initial number **N~0~** tenth (10^-1^) of its original value. Then the number of microorganisms **N** after sterilization time **t**￼is given by:
+The aim of sterilization is the reduction of initially present microorganisms or other potential pathogens. The degree of sterilization is commonly expressed by multiples of the decimal reduction time, or D-value, denoting the time needed to reduce the initial number *N~0~* tenth (10^-1^) of its original value. Then the number of microorganisms *N* after sterilization time *t* is given by:
 
-$$\frac {N}{N_{0}}}=10^{\left(-{\frac {t}{D}}\right)}$$
+$$ \frac{N}{N_0}=10^{(-\frac{t}{D})} $$
 
 The D-value is a function of sterilization conditions and varies with the type of microorganism, temperature, water activity, pH etc.. For steam sterilization (see below) typically the temperature, in degrees Celsius, is given as an index.
 
 Theoretically, the likelihood of the survival of an individual microorganism is never zero. To compensate for this, the overkill method is often used. Using the overkill method, sterilization is performed by sterilizing for longer than is required to kill the bioburden present on or in the item being sterilized. This provides a sterility assurance level (SAL) equal to the probability of a non-sterile unit.
 
-For high-risk applications, such as medical devices and injections, a sterility assurance level of at least 10−6 is required by the United States Food and Drug Administration (FDA).[11]
+For high-risk applications, such as medical devices and injections, a sterility assurance level of at least 10−6 is required by the United States Food and Drug Administration (FDA).
 
 
 ### Methods of Sterilization
